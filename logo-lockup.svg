@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="322" height="100" viewBox="20 0 322 100">
+  <defs></defs><g transform="translate(28.00,17.33) scale(0.583333)">
+    <path d="M 48 106 L 23 69 A 30 30 0 1 1 73 69 Z" fill="#4F46E5"></path>
+    <rect x="11" y="12" width="74" height="13" rx="3.5" fill="#4F46E5"></rect>
+    <circle cx="48" cy="12" r="4.5" fill="#4F46E5"></circle>
+    <path d="M 58 34 C 58 26 33 26 33 37 C 33 48 63 48 63 57 C 63 68 36 68 36 59" stroke="#ffffff" stroke-width="5.5" stroke-linecap="round" fill="none"></path><path d="M 48 7.5 Q 67 5 75 20" stroke="#14B8A6" stroke-width="2.5" stroke-linecap="round" fill="none"></path>
+       <circle cx="75" cy="23" r="3.5" fill="#14B8A6"></circle></g>
+  <text x="106" y="48" font-family="&#39;Space Grotesk&#39;,system-ui,sans-serif" font-size="36" font-weight="600" letter-spacing="-0.72" dominant-baseline="middle">
+    <tspan fill="#1A1A2E">Student</tspan><tspan fill="#4F46E5">Suite</tspan>
+  </text>
+  <text x="106" y="72" font-family="&#39;JetBrains Mono&#39;,monospace" font-size="10.5" fill="#A0A0A0" letter-spacing="1.4" dominant-baseline="middle">OPEN-SOURCE TOOLS FOR STUDENTS</text>
+</svg>

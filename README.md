@@ -1,0 +1,401 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-lockup-dark.svg">
+  <img src="./logo-lockup.svg" alt="Awesome Student Resources" width="460">
+</picture>
+
+# Awesome Student Resources
+
+A curated list of the best software, tools, textbooks, channels, and resources for students.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+</div>
+
+This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else. IB, IGCSE, SAT, and any student anywhere. Add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click.
+
+Maintained by [StudentSuite](https://github.com/StudentSuite).
+
+## Table of Contents
+
+- [Exam & Curriculum Prep](#exam--curriculum-prep)
+- [By Subject](#by-subject)
+- [Notes & Knowledge Management](#notes--knowledge-management)
+- [Flashcards & Spaced Repetition](#flashcards--spaced-repetition)
+- [Task, Time & Planning](#task-time--planning)
+- [Focus & Distraction Blocking](#focus--distraction-blocking)
+- [Writing, Citations & Reference](#writing-citations--reference)
+- [Diagramming & STEM Tools](#diagramming--stem-tools)
+- [Building Software / Learn to Code](#building-software--learn-to-code)
+- [FOSS Picks](#foss-picks)
+- [YouTube Channels We Trust](#youtube-channels-we-trust)
+- [Books We Trust](#books-we-trust)
+- [Great Textbooks](#great-textbooks)
+- [Guides & How-Tos](#guides--how-tos)
+- [Communities](#communities)
+- [More from StudentSuite](#more-from-studentsuite)
+- [A Note on Links](#a-note-on-links)
+- [Quality Standards](#quality-standards)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Exam & Curriculum Prep
+
+Official and community prep for the big exams and curricula.
+
+### SAT
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board.
+- **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests.
+- **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores.
+- **[UWorld SAT](https://www.uworld.com/college-prep/sat/)** - Large question bank with detailed explanations (paid).
+
+</details>
+
+### IGCSE
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects.
+- **[ZNotes](https://znotes.org)** - Free community-written summary notes for Cambridge and Edexcel.
+- **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes.
+
+</details>
+
+### IB (IBDP)
+
+<details open>
+<summary>Show resources</summary>
+
+- **[IB Documents](https://ibdocuments.com)** - Free archive of IB past papers and resources.
+- **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
+- **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
+- **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
+
+</details>
+
+## By Subject
+
+Flagship picks per subject: mix a strong site, a channel, and a practice tool.
+
+### Mathematics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Paul's Online Math Notes](https://tutorial.math.lamar.edu)** - Free, thorough notes and examples from algebra to differential equations.
+- **[Brilliant](https://brilliant.org)** - Interactive courses that build intuition through problem solving (freemium).
+- **[3Blue1Brown](https://www.3blue1brown.com)** - Visual, intuition-first explanations of hard math ideas.
+- **[Desmos](https://www.desmos.com)** - Free graphing and geometry calculators for exploring functions.
+
+</details>
+
+### Physics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic.
+- **[PhET Simulations](https://phet.colorado.edu)** - Free interactive sims for physics, chemistry, and math.
+- **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - The classic lectures, free to read online.
+- **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics.
+
+</details>
+
+### Chemistry
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Master Organic Chemistry](https://www.masterorganicchemistry.com)** - Clear guides and cheat sheets for organic chemistry.
+- **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Step-by-step worked problems across chemistry and beyond.
+- **[Chemistry LibreTexts](https://chem.libretexts.org)** - Free, open chemistry textbooks and reference material.
+- **[Chemguide](https://www.chemguide.co.uk)** - Focused explanations for UK A-Level and IGCSE chemistry.
+
+</details>
+
+### Biology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Amoeba Sisters](https://www.amoebasisters.com)** - Friendly animations and handouts for core biology topics.
+- **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across biology and the sciences.
+- **[Khan Academy Biology](https://www.khanacademy.org/science/biology)** - Free lessons and practice across the biology syllabus.
+- **[Biology LibreTexts](https://bio.libretexts.org)** - Free, open biology textbooks and references.
+
+</details>
+
+### Computer Science
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CS50](https://cs50.harvard.edu/x/)** - Harvard's free introduction to computer science.
+- **[NeetCode](https://neetcode.io)** - Structured roadmaps and explanations for coding interviews.
+- **[cp-algorithms](https://cp-algorithms.com)** - Free reference for competitive programming algorithms.
+- **[The Odin Project](https://www.theodinproject.com)** - Free full-stack web development curriculum.
+
+</details>
+
+### Economics & Business
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Marginal Revolution University](https://mru.org)** - Free economics videos from working economists.
+- **[tutor2u](https://www.tutor2u.net)** - Notes, revision, and exam support for economics and business.
+- **[EconplusDal](https://www.youtube.com/@EconplusDal)** - Exam-focused economics tutorials for A-Level and IB.
+- **[CORE Econ](https://www.core-econ.org)** - Free, modern economics textbook used worldwide.
+
+</details>
+
+### English & Languages
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Purdue OWL](https://owl.purdue.edu)** - Free reference for writing, grammar, and citation styles.
+- **[SparkNotes](https://www.sparknotes.com)** - Study guides and analysis for set literature texts.
+- **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
+- **[LanguageTool](https://languagetool.org)** - Free, open grammar and style checker in many languages.
+
+</details>
+
+### Humanities (History, Geography, Psychology)
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast, well-made overviews across history and social science.
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive revision for UK curricula (freemium).
+- **[Heimler's History](https://www.youtube.com/@heimlershistory)** - Exam-focused videos for AP History courses.
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across subjects.
+
+</details>
+
+## Notes & Knowledge Management
+
+Capture, link, and organize what you learn.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Obsidian](https://obsidian.md)** - Local-first linked notes with a large plugin ecosystem (free).
+- **[Notion](https://www.notion.com)** - All-in-one notes, databases, and docs (freemium, free for students).
+- **[Logseq](https://logseq.com)** - Free, open-source outliner for networked notes.
+- **[RemNote](https://www.remnote.com)** - Notes with built-in spaced-repetition flashcards (freemium).
+
+</details>
+
+## Flashcards & Spaced Repetition
+
+Remember more with less rereading.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Anki](https://apps.ankiweb.net)** - Free, open-source spaced-repetition flashcards with huge shared decks.
+- **[Quizlet](https://quizlet.com)** - Fast flashcards and study games (freemium).
+- **[Mochi](https://mochi.cards)** - Markdown-friendly spaced-repetition flashcards (freemium).
+- **[Brainscape](https://www.brainscape.com)** - Confidence-based repetition flashcards (freemium).
+
+</details>
+
+## Task, Time & Planning
+
+Plan the week, protect the deadlines.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Todoist](https://todoist.com)** - Cross-platform task manager with natural-language dates (freemium).
+- **[TickTick](https://ticktick.com)** - Tasks, calendar, and a built-in Pomodoro timer (freemium).
+- **[Notion Calendar](https://www.notion.com/product/calendar)** - Free calendar that connects to your Notion workspace.
+- **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere.
+
+</details>
+
+## Focus & Distraction Blocking
+
+Cut the noise during deep work.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Forest](https://www.forestapp.cc)** - Grow a virtual tree while you stay off your phone (paid).
+- **[Cold Turkey](https://getcoldturkey.com)** - Block sites and apps for scheduled focus blocks (freemium).
+- **[Freedom](https://freedom.to)** - Block distractions across all your devices at once (paid).
+- **[Pomofocus](https://pomofocus.io)** - Free browser Pomodoro timer, no install needed.
+
+</details>
+
+## Writing, Citations & Reference
+
+Draft, cite, and polish papers.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Zotero](https://www.zotero.org)** - Free, open-source reference manager with one-click citations.
+- **[Overleaf](https://www.overleaf.com)** - Collaborative online LaTeX editor for formatted papers (freemium).
+- **[Grammarly](https://www.grammarly.com)** - Grammar and clarity suggestions as you write (freemium).
+- **[LanguageTool](https://languagetool.org)** - Free, open-source grammar and style checker.
+
+</details>
+
+## Diagramming & STEM Tools
+
+Graph, compute, and sketch ideas.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Desmos](https://www.desmos.com)** - Free graphing calculator and classroom activities.
+- **[GeoGebra](https://www.geogebra.org)** - Free, open geometry, algebra, and calculus tools.
+- **[Wolfram Alpha](https://www.wolframalpha.com)** - Computational engine for step-by-step math and science (freemium).
+- **[Excalidraw](https://excalidraw.com)** - Free, open-source hand-drawn-style diagrams.
+- **[diagrams.net](https://www.drawio.com)** - Free, open-source flowchart and diagram editor.
+
+</details>
+
+## Building Software / Learn to Code
+
+Go from first line to shipped project.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CS50](https://cs50.harvard.edu)** - Harvard's free, beginner-friendly computer science course.
+- **[freeCodeCamp](https://www.freecodecamp.org)** - Free, open-source coding curriculum with certifications.
+- **[The Odin Project](https://www.theodinproject.com)** - Free project-based path into web development.
+- **[Visual Studio Code](https://code.visualstudio.com)** - Free, extensible code editor from Microsoft.
+- **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students.
+
+</details>
+
+## FOSS Picks
+
+Fully free and open-source tools worth installing.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides.
+- **[Anki](https://apps.ankiweb.net)** - Free, open spaced-repetition flashcards.
+- **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager.
+- **[GIMP](https://www.gimp.org)** - Free, open image editor.
+- **[Inkscape](https://inkscape.org)** - Free, open vector graphics editor.
+- **[Krita](https://krita.org)** - Free, open painting and illustration app.
+
+</details>
+
+## YouTube Channels We Trust
+
+Channels that teach, not just entertain.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** - Visual math intuition, from linear algebra to calculus.
+- **[Khan Academy](https://www.youtube.com/@khanacademy)** - Structured lessons across almost every school subject.
+- **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Worked problems across math and the sciences.
+- **[Fireship](https://www.youtube.com/@Fireship)** - Fast, practical coding and web development explainers.
+- **[Veritasium](https://www.youtube.com/@veritasium)** - Deep science explainers that build real understanding.
+
+</details>
+
+## Books We Trust
+
+Study skill and mindset books worth your time.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning.
+- **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction.
+- **[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)** - Learn math and science even if you struggle.
+- **[Atomic Habits](https://jamesclear.com/atomic-habits)** - Build study habits that actually stick.
+- **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system.
+
+</details>
+
+## Great Textbooks
+
+Subject textbooks students and teachers keep coming back to.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[OpenStax](https://openstax.org)** - Free, peer-reviewed textbooks across math and science.
+- **[Stewart, Calculus](https://www.stewartcalculus.com)** - The standard first calculus textbook.
+- **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - Landmark physics text, free to read online.
+- **[CLRS, Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)** - The definitive algorithms reference.
+- **[Clayden, Organic Chemistry](https://global.oup.com/academic/product/organic-chemistry-9780198728719)** - Widely used undergraduate organic chemistry text.
+
+</details>
+
+## Guides & How-Tos
+
+Meta-skills: how to study, remember, and focus.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works.
+- **[Ali Abdaal](https://aliabdaal.com)** - Evidence-based study and productivity guides.
+- **[Anki Manual](https://docs.ankiweb.net/)** - The official guide to spaced repetition with Anki.
+- **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition.
+
+</details>
+
+## Communities
+
+Ask questions and study alongside other students.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[r/IBO](https://www.reddit.com/r/IBO/)** - The main community for IB Diploma students.
+- **[r/SAT](https://www.reddit.com/r/SAT/)** - Strategy, practice, and score discussion for the SAT.
+- **[r/igcse](https://www.reddit.com/r/igcse/)** - Support and resources for IGCSE students.
+- **[r/GetStudying](https://www.reddit.com/r/GetStudying/)** - Study motivation, methods, and accountability.
+- **[r/APStudents](https://www.reddit.com/r/APStudents/)** - Community for AP course and exam prep.
+
+</details>
+
+## More from StudentSuite
+
+- **[StudyMap](https://github.com/StudentSuite/StudyMap)** - A crowdsourced map of student-important places: exam centres, libraries, and more.
+- **[Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students)** - Curated AI coding-agent skills and plugins built for students.
+
+## A Note on Links
+
+This list points to third-party tools, channels, and books. StudentSuite does not own, host, or endorse them, and it earns nothing from these links. Pricing and free tiers change, so check the current terms before you commit. If a listed entry is dead, misleading, or no longer free where we said so, open an issue or PR to fix it.
+
+## Quality Standards
+
+An entry should meet all of the following before being added:
+
+- **Genuinely useful to students.** It helps you study, build, or organize, not just browse.
+- **Real and maintained.** Actively available, not abandoned or a dead link.
+- **Accessible.** Free, freemium, or clearly worth the price; note the pricing in the entry.
+- **Reputable.** A known tool, channel, or book, not spam or an affiliate funnel.
+- **Short description.** One line, plain language, no marketing copy.
+
+## Contributing
+
+PRs adding a resource are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and PR checklist.
+
+## License
+
+This repository is released under the [MIT License](LICENSE). The license covers this list itself: the README, CONTRIBUTING.md, and curation structure. It does not cover the tools, channels, or books linked from it, each of those is owned and licensed by its own author.

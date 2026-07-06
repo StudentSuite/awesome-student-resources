@@ -1,0 +1,57 @@
+# Contributing
+
+This repository curates links only. The tool, channel, or book you add lives wherever it already lives, we just point to it.
+
+## Before you open a PR
+
+Check the entry meets the [Quality Standards](README.md#quality-standards):
+
+- Genuinely useful to students for studying, building, or organizing.
+- Real and maintained, not abandoned or a dead link.
+- Free, freemium, or clearly worth the price, with the pricing noted.
+- A reputable tool, channel, or book, not spam or an affiliate funnel.
+- Short, plain-language description.
+
+## Entry format
+
+```md
+- **[Name](https://homepage)** - Short description of what it does.
+```
+
+For books and textbooks, use the title (add the author where it helps) and link to the official or publisher page:
+
+```md
+- **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction.
+```
+
+Keep the description to one line, roughly 10 words or fewer. Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and note the pricing when it matters: `(free)`, `(freemium)`, `(paid)`, or "free, open source" for FOSS. No em dashes.
+
+## Where it goes
+
+Add your single bullet to the closest matching section:
+
+- Exam & Curriculum Prep (SAT, IGCSE, IB)
+- By Subject (Mathematics, Physics, Chemistry, Biology, Computer Science, Economics & Business, English & Languages, Humanities)
+- Notes & Knowledge Management
+- Flashcards & Spaced Repetition
+- Task, Time & Planning
+- Focus & Distraction Blocking
+- Writing, Citations & Reference
+- Diagramming & STEM Tools
+- Building Software / Learn to Code
+- FOSS Picks (fully free and open source only)
+- YouTube Channels We Trust
+- Books We Trust (study skill and mindset books)
+- Great Textbooks (subject textbooks)
+- Guides & How-Tos
+- Communities
+
+If nothing fits, open an issue first to discuss a new section before adding one.
+
+## Submitting
+
+1. Fork the repo, add your single bullet to the right section.
+2. Open a PR titled `Add resource: Name`.
+3. In the PR description, link the resource and say in one sentence why it helps students.
+
+One entry per PR keeps review fast. Entries are added in the order they're merged; no need to alphabetize.
