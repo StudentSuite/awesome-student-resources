@@ -49,8 +49,8 @@ If nothing fits, open an issue first to discuss a new section before adding one.
 
 ## Submitting
 
-1. Fork the repo, add your single bullet to the right section.
+1. Fork the repo, add your single bullet in the right section, in its correct alphabetical position.
 2. Open a PR titled `Add resource: Name`.
 3. In the PR description, link the resource and say in one sentence why it helps students.
 
-One entry per PR keeps review fast. Entries are added in the order they're merged; no need to alphabetize.
+One entry per PR keeps review fast. Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
