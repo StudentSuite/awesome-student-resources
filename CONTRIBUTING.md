@@ -31,7 +31,7 @@ Keep the description to one line, roughly 10 words or fewer. Lead with a verb wh
 Add your single bullet to the closest matching section:
 
 - Exam & Curriculum Prep (SAT, IGCSE, IB)
-- By Subject (Mathematics, Physics, Chemistry, Biology, Computer Science, Economics & Business, English & Languages, Humanities)
+- By Subject (Mathematics, Physics, Chemistry, Biology, Computer Science, Economics, English Language and Literature, History, Geography, Psychology)
 - Notes & Knowledge Management
 - Flashcards & Spaced Repetition
 - Task, Time & Planning

@@ -146,7 +146,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 </details>
 
-### Economics & Business
+### Economics
 
 <details open>
 <summary>Show resources</summary>
@@ -170,15 +170,34 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 </details>
 
-### Humanities (History, Geography, Psychology)
+### History
 
 <details open>
 <summary>Show resources</summary>
 
-- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast, well-made overviews across history and social science.
-- **[Seneca Learning](https://senecalearning.com)** - Free interactive revision for UK curricula (freemium).
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned history revision.
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast overviews of world and US history.
 - **[Heimler's History](https://www.youtube.com/@heimlershistory)** - Exam-focused videos for AP History courses.
-- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across subjects.
+
+</details>
+
+### Geography
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned geography revision.
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive geography revision (freemium).
+
+</details>
+
+### Psychology
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory psychology video series.
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive psychology revision (freemium).
 
 </details>
 
