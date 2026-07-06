@@ -317,6 +317,7 @@ Channels that teach, not just entertain.
 - **[Code with Harry](https://www.youtube.com/@CodeWithHarry)** - Beginner-friendly programming tutorials in Hindi and English.
 - **[Economics Explained](https://www.youtube.com/@EconomicsExplained)** - Accessible breakdowns of economies and economic ideas.
 - **[Fireship](https://www.youtube.com/@Fireship)** - Fast, practical coding and web development explainers.
+- **[IB English Guys](https://www.youtube.com/@ibenglishguys)** - Exam-focused help for IB English courses.
 - **[Khan Academy](https://www.youtube.com/@khanacademy)** - Structured lessons across almost every school subject.
 - **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Worked problems across math and the sciences.
 - **[Veritasium](https://www.youtube.com/@veritasium)** - Deep science explainers that build real understanding.
