@@ -159,7 +159,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 </details>
 
-### English & Languages
+### English Language and Literature
 
 <details open>
 <summary>Show resources</summary>
