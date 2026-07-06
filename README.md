@@ -139,10 +139,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
-- **[CS50](https://cs50.harvard.edu/x/)** - Harvard's free introduction to computer science.
-- **[NeetCode](https://neetcode.io)** - Structured roadmaps and explanations for coding interviews.
 - **[cp-algorithms](https://cp-algorithms.com)** - Free reference for competitive programming algorithms.
-- **[The Odin Project](https://www.theodinproject.com)** - Free full-stack web development curriculum.
 
 </details>
 
