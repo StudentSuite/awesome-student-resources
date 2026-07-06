@@ -344,6 +344,7 @@ Subject textbooks students and teachers keep coming back to.
 
 - **[Clayden, Organic Chemistry](https://global.oup.com/academic/product/organic-chemistry-9780198728719)** - Widely used undergraduate organic chemistry text.
 - **[CLRS, Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)** - The definitive algorithms reference.
+- **[Haese Mathematics](https://www.haesemathematics.com)** - Standard IB Diploma mathematics textbooks (formerly Haese & Harris).
 - **[OpenStax](https://openstax.org)** - Free, peer-reviewed textbooks across math and science.
 - **[Stewart, Calculus](https://www.stewartcalculus.com)** - The standard first calculus textbook.
 - **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - Landmark physics text, free to read online.
