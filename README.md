@@ -140,6 +140,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Clear lectures on algorithms and data structures.
+- **[Codedex](https://www.codedex.io)** - Gamified, beginner-friendly coding lessons.
 - **[cp-algorithms](https://cp-algorithms.com)** - Free reference for competitive programming algorithms.
 
 </details>
