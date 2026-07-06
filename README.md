@@ -76,7 +76,7 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>Show resources</summary>
 
-- **[IB Documents](https://ibdocuments.com)** - Free archive of IB past papers and resources.
+- **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources.
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
 - **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
