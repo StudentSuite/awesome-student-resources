@@ -196,6 +196,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory psychology video series.
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive psychology revision (freemium).
+- **[Simply Psychology](https://www.simplypsychology.org)** - Clear notes on theories, studies, and exams.
 
 </details>
 
