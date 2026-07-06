@@ -27,7 +27,6 @@ Maintained by [StudentSuite](https://github.com/StudentSuite).
 - [Notes & Knowledge Management](#notes--knowledge-management)
 - [Flashcards & Spaced Repetition](#flashcards--spaced-repetition)
 - [Task, Time & Planning](#task-time--planning)
-- [Focus & Distraction Blocking](#focus--distraction-blocking)
 - [Writing, Citations & Reference](#writing-citations--reference)
 - [Diagramming & STEM Tools](#diagramming--stem-tools)
 - [Building Software / Learn to Code](#building-software--learn-to-code)
@@ -222,20 +221,6 @@ Plan the week, protect the deadlines.
 - **[TickTick](https://ticktick.com)** - Tasks, calendar, and a built-in Pomodoro timer (freemium).
 - **[Notion Calendar](https://www.notion.com/product/calendar)** - Free calendar that connects to your Notion workspace.
 - **[Google Calendar](https://calendar.google.com)** - Free scheduling that syncs everywhere.
-
-</details>
-
-## Focus & Distraction Blocking
-
-Cut the noise during deep work.
-
-<details open>
-<summary>Show resources</summary>
-
-- **[Forest](https://www.forestapp.cc)** - Grow a virtual tree while you stay off your phone (paid).
-- **[Cold Turkey](https://getcoldturkey.com)** - Block sites and apps for scheduled focus blocks (freemium).
-- **[Freedom](https://freedom.to)** - Block distractions across all your devices at once (paid).
-- **[Pomofocus](https://pomofocus.io)** - Free browser Pomodoro timer, no install needed.
 
 </details>
 

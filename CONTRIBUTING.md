@@ -35,7 +35,6 @@ Add your single bullet to the closest matching section:
 - Notes & Knowledge Management
 - Flashcards & Spaced Repetition
 - Task, Time & Planning
-- Focus & Distraction Blocking
 - Writing, Citations & Reference
 - Diagramming & STEM Tools
 - Building Software / Learn to Code
