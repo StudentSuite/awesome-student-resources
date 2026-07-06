@@ -314,6 +314,7 @@ Channels that teach, not just entertain.
 
 - **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** - Visual math intuition, from linear algebra to calculus.
 - **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Clear lectures on algorithms and data structures.
+- **[Code with Harry](https://www.youtube.com/@CodeWithHarry)** - Beginner-friendly programming tutorials in Hindi and English.
 - **[Fireship](https://www.youtube.com/@Fireship)** - Fast, practical coding and web development explainers.
 - **[Khan Academy](https://www.youtube.com/@khanacademy)** - Structured lessons across almost every school subject.
 - **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Worked problems across math and the sciences.
