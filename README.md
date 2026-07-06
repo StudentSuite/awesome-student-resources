@@ -184,6 +184,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned geography revision.
+- **[Internet Geography](https://www.internetgeography.net)** - Free notes and case studies for GCSE geography.
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive geography revision (freemium).
 
 </details>
