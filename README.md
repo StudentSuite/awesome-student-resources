@@ -52,7 +52,9 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core A-Level subject.
+- **[Get Revising](https://getrevising.co.uk)** - Free revision timetables, flashcards, and a shared notes library.
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects.
+- **[Revision Science](https://revisionscience.com)** - Free GCSE and A-Level science revision notes, videos, and past papers.
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific A-Level and GCSE revision content.
 
@@ -64,8 +66,10 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[ACT.org](https://www.act.org)** - The official test maker's free study guide and full-length practice test.
+- **[Kaplan ACT](https://www.kaptest.com/act/free/act-free-practice-test)** - Free official-question practice test with a score report.
 - **[Magoosh ACT](https://act.magoosh.com)** - Video lessons and practice questions for every ACT section.
 - **[PrepScholar ACT](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the ACT.
+- **[The Princeton Review ACT](https://www.princetonreview.com/college/act-test-prep)** - Free practice test with a detailed score report and strategy sessions.
 - **[UWorld ACT](https://collegeprep.uworld.com/act/)** - Large question bank with detailed explanations (paid).
 
 </details>
@@ -76,7 +80,9 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[Albert.io](https://www.albert.io)** - Standards-aligned practice questions across every AP subject.
+- **[AP Classroom](https://apclassroom.collegeboard.org)** - The official College Board platform for AP progress checks and practice.
 - **[AP Students](https://apstudents.collegeboard.org)** - The official College Board hub for AP course info and exam details.
+- **[Brainscape AP](https://www.brainscape.com/subjects/entrance-exams/ap-exams)** - Adaptive flashcards for every AP subject (freemium).
 - **[Fiveable](https://fiveable.me)** - Free study guides, practice questions, and exam-day reviews for all 38 AP subjects.
 - **[Knowt](https://knowt.com/exams/AP)** - Free student-written study guides and flashcards by AP subject and unit.
 
@@ -88,7 +94,9 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources.
+- **[Nail IB](https://nailib.com)** - Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
+- **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus.
 - **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus.
 - **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
@@ -100,6 +108,7 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>Show resources</summary>
 
+- **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers.
 - **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes.
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects.
 - **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across IGCSE and GCSE subjects.
@@ -116,7 +125,9 @@ Official and community prep for the big exams and curricula.
 - **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores.
 - **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests.
 - **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board.
+- **[Magoosh SAT](https://sat.magoosh.com)** - Video lessons and practice questions for the Digital SAT.
 - **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT.
+- **[The Princeton Review SAT](https://www.princetonreview.com/college/free-digitalsat-practice-test)** - Free full-length Digital SAT practice test with a score report.
 - **[UWorld SAT](https://www.uworld.com/college-prep/sat/)** - Large question bank with detailed explanations (paid).
 
 </details>
