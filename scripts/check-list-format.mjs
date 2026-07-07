@@ -1,0 +1,129 @@
+#!/usr/bin/env node
+// Validates README.md against the rules in CONTRIBUTING.md:
+//   - every entry matches "- **[Name](url)** - Description."
+//   - entries within each list are sorted alphabetically, case-insensitive
+//   - no duplicate URLs within the same list
+//   - every section heading has a matching Table of Contents entry, and vice versa
+
+import { readFileSync } from 'node:fs';
+
+const README_PATH = new URL('../README.md', import.meta.url);
+const readme = readFileSync(README_PATH, 'utf8');
+const lines = readme.split('\n');
+
+const errors = [];
+
+function slugify(text) {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9 -]/g, '')
+    .replace(/ /g, '-');
+}
+
+function compareNames(a, b) {
+  const al = a.toLowerCase();
+  const bl = b.toLowerCase();
+  return al < bl ? -1 : al > bl ? 1 : 0;
+}
+
+// --- Parse headings and resource-list blocks (the "<details>...</details>" sections) ---
+const h2Headings = [];
+let currentHeading = null;
+let currentItems = [];
+let inDetails = false;
+const blocks = [];
+
+function flushBlock() {
+  if (currentItems.length) blocks.push({ heading: currentHeading, items: currentItems });
+  currentItems = [];
+}
+
+for (let i = 0; i < lines.length; i++) {
+  const line = lines[i];
+  const h2 = line.match(/^## (.+)/);
+  const h3 = line.match(/^### (.+)/);
+  if (h2) {
+    flushBlock();
+    currentHeading = h2[1].trim();
+    h2Headings.push({ text: currentHeading, line: i + 1 });
+    continue;
+  }
+  if (h3) {
+    flushBlock();
+    currentHeading = h3[1].trim();
+    continue;
+  }
+  if (line.startsWith('<details')) {
+    inDetails = true;
+    continue;
+  }
+  if (line.startsWith('</details>')) {
+    inDetails = false;
+    continue;
+  }
+  if (!inDetails) continue;
+
+  if (line.startsWith('- ')) {
+    if (!/^- \*\*\[.+?\]\(.+?\)\*\* - .+\.$/.test(line)) {
+      errors.push(
+        `README.md:${i + 1}  Entry doesn't match "- **[Name](url)** - Description." format\n    ${line}`
+      );
+      continue;
+    }
+    const item = line.match(/^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*-\s*(.+)$/);
+    currentItems.push({ name: item[1], url: item[2], line: i + 1 });
+  }
+}
+flushBlock();
+
+// --- Rule: alphabetical order + no duplicate URLs within each list ---
+for (const block of blocks) {
+  const names = block.items.map((it) => it.name);
+  const sorted = [...names].sort(compareNames);
+  if (JSON.stringify(sorted) !== JSON.stringify(names)) {
+    errors.push(
+      `Section "${block.heading}"  Entries are not alphabetically sorted (case-insensitive).\n` +
+        `    got:  ${names.join(', ')}\n` +
+        `    want: ${sorted.join(', ')}`
+    );
+  }
+
+  const seenUrls = new Map();
+  for (const item of block.items) {
+    if (seenUrls.has(item.url)) {
+      errors.push(`README.md:${item.line}  Duplicate URL within "${block.heading}": ${item.url}`);
+    }
+    seenUrls.set(item.url, item.line);
+  }
+}
+
+// --- Rule: Table of Contents matches section headings ---
+const tocStart = lines.findIndex((l) => l.trim() === '## Table of Contents');
+const tocEnd = lines.findIndex((l, i) => i > tocStart && l.startsWith('## '));
+const tocLines = lines.slice(tocStart + 1, tocEnd);
+const tocEntries = tocLines
+  .map((l) => l.match(/^- \[(.+?)\]\(#(.+?)\)/))
+  .filter(Boolean)
+  .map((m) => ({ text: m[1], slug: m[2] }));
+
+const realHeadings = h2Headings.filter((h) => h.text !== 'Table of Contents');
+
+for (const heading of realHeadings) {
+  const slug = slugify(heading.text);
+  if (!tocEntries.some((t) => t.slug === slug)) {
+    errors.push(`README.md:${heading.line}  Section "${heading.text}" is missing from the Table of Contents.`);
+  }
+}
+for (const entry of tocEntries) {
+  if (!realHeadings.some((h) => slugify(h.text) === entry.slug)) {
+    errors.push(`Table of Contents entry "${entry.text}" (#${entry.slug}) doesn't match any section heading.`);
+  }
+}
+
+if (errors.length) {
+  console.error(`✖ ${errors.length} issue(s) found:\n`);
+  for (const e of errors) console.error(`  ${e}\n`);
+  process.exit(1);
+} else {
+  console.log('✔ README.md list format, alphabetical order, and Table of Contents all check out.');
+}

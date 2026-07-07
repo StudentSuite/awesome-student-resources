@@ -97,8 +97,8 @@ Official and community prep for the big exams and curricula.
 
 - **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources.
 - **[Nail IB](https://nailib.com)** - Examiner-led videos, past papers, and question banks for the IB Diploma (freemium).
-- **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus.
+- **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
 - **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus.
 - **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
@@ -503,7 +503,7 @@ An entry should meet all of the following before being added:
 
 ## Contributing
 
-PRs adding a resource are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and PR checklist.
+PRs adding a resource are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and PR checklist, and the [Code of Conduct](CODE_OF_CONDUCT.md) for how we expect people to treat each other here.
 
 ## License
 

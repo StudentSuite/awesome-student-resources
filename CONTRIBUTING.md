@@ -2,6 +2,8 @@
 
 This repository curates links only. The tool, channel, or book you add lives wherever it already lives, we just point to it.
 
+By participating, you're expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Before you open a PR
 
 Check the entry meets the [Quality Standards](README.md#quality-standards):
@@ -56,3 +58,9 @@ If nothing fits, open an issue first to discuss a new section before adding one.
 3. In the PR description, link the resource and say in one sentence why it helps students.
 
 One entry per PR keeps review fast. Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
+
+A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.md. It verifies the entry format, alphabetical order, and that the Table of Contents matches the section headings. Run it yourself before opening a PR with:
+
+```sh
+node scripts/check-list-format.mjs
+```

@@ -1,0 +1,25 @@
+name: Report a broken or outdated entry
+description: A link is dead, a tool shut down, or pricing/info in an entry is wrong
+labels: ["bug"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry name
+      description: The exact name of the entry as it appears in the README
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: Which section of the README it's in
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Dead link, tool discontinued, pricing changed, description no longer accurate, etc.
+    validations:
+      required: true

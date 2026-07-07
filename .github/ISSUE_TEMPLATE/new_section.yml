@@ -1,0 +1,21 @@
+name: Propose a new section
+description: Suggest a new top-level section that doesn't fit anywhere existing
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Per [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md), new sections should be discussed here before a PR adds one.
+  - type: input
+    id: section-name
+    attributes:
+      label: Proposed section name
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why doesn't it fit an existing section?
+      description: List a few example entries you'd add to it
+    validations:
+      required: true

@@ -1,0 +1,65 @@
+name: Suggest a resource
+description: Suggest a tool, channel, or book to add (if you're not opening a PR yourself)
+labels: ["resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer opening a PR directly? See [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md) for the entry format. Use this form if you'd rather suggest it and let a maintainer add it.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The name of the tool, channel, or book
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: The official homepage, not an affiliate or referral link
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Where should it go?
+      description: Pick the closest matching section from the README
+      options:
+        - Exam & Curriculum Prep
+        - By Subject
+        - Notes & Knowledge Management
+        - Flashcards & Spaced Repetition
+        - Task, Time & Planning
+        - Writing, Citations & Reference
+        - Diagramming & STEM Tools
+        - Building Software / Learn to Code
+        - Student Discounts & Free Access
+        - FOSS Picks
+        - YouTube Channels We Trust
+        - Blogs, Newsletters & Podcasts
+        - Books We Trust
+        - Great Textbooks
+        - Guides & How-Tos
+        - Communities
+        - Not sure / none of these fit
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this help students?
+      description: One or two sentences, and note the pricing (free, freemium, paid, or FOSS)
+    validations:
+      required: true
+  - type: checkboxes
+    id: standards
+    attributes:
+      label: Quality Standards
+      description: Confirm this meets the [Quality Standards](../../blob/main/README.md#quality-standards)
+      options:
+        - label: It's real, actively maintained, and not a dead link
+          required: true
+        - label: It's reputable, not spam or an affiliate funnel
+          required: true
