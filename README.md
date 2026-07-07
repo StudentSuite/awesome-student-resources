@@ -46,16 +46,52 @@ Maintained by [StudentSuite](https://github.com/StudentSuite).
 
 Official and community prep for the big exams and curricula.
 
-### SAT
+### A-Level
 
 <details open>
 <summary>Show resources</summary>
 
-- **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores.
-- **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests.
-- **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board.
-- **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT.
-- **[UWorld SAT](https://www.uworld.com/college-prep/sat/)** - Large question bank with detailed explanations (paid).
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core A-Level subject.
+- **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects.
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
+- **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific A-Level and GCSE revision content.
+
+</details>
+
+### ACT
+
+<details open>
+<summary>Show resources</summary>
+
+- **[ACT.org](https://www.act.org)** - The official test maker's free study guide and full-length practice test.
+- **[Magoosh ACT](https://act.magoosh.com)** - Video lessons and practice questions for every ACT section.
+- **[PrepScholar ACT](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the ACT.
+- **[UWorld ACT](https://collegeprep.uworld.com/act/)** - Large question bank with detailed explanations (paid).
+
+</details>
+
+### AP
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Albert.io](https://www.albert.io)** - Standards-aligned practice questions across every AP subject.
+- **[AP Students](https://apstudents.collegeboard.org)** - The official College Board hub for AP course info and exam details.
+- **[Fiveable](https://fiveable.me)** - Free study guides, practice questions, and exam-day reviews for all 38 AP subjects.
+- **[Knowt](https://knowt.com/exams/AP)** - Free student-written study guides and flashcards by AP subject and unit.
+
+</details>
+
+### IB (IBDP)
+
+<details open>
+<summary>Show resources</summary>
+
+- **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources.
+- **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
+- **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus.
+- **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
+- **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
 
 </details>
 
@@ -72,16 +108,16 @@ Official and community prep for the big exams and curricula.
 
 </details>
 
-### IB (IBDP)
+### SAT
 
 <details open>
 <summary>Show resources</summary>
 
-- **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources.
-- **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
-- **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus.
-- **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
-- **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
+- **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores.
+- **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests.
+- **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board.
+- **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT.
+- **[UWorld SAT](https://www.uworld.com/college-prep/sat/)** - Large question bank with detailed explanations (paid).
 
 </details>
 
