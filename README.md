@@ -233,6 +233,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast overviews of world and US history.
 - **[Heimler's History](https://www.youtube.com/@heimlershistory)** - Exam-focused videos for AP History courses.
 - **[Mr Allsop History](https://www.mrallsophistory.com)** - Free podcasts, videos, and revision notes across GCSE, IGCSE, A-Level, and IB History.
+- **[Oversimplified](https://youtube.com/@oversimplified)** - Teaching important events in History in an oversimplified way.
 
 </details>
 
