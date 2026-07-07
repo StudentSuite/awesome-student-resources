@@ -41,6 +41,7 @@ Add your single bullet to the closest matching section:
 - Student Discounts & Free Access
 - FOSS Picks (fully free and open source only)
 - YouTube Channels We Trust
+- Blogs, Newsletters & Podcasts
 - Books We Trust (study skill and mindset books)
 - Great Textbooks (subject textbooks)
 - Guides & How-Tos

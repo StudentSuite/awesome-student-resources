@@ -33,6 +33,7 @@ Maintained by [StudentSuite](https://github.com/StudentSuite).
 - [Student Discounts & Free Access](#student-discounts--free-access)
 - [FOSS Picks](#foss-picks)
 - [YouTube Channels We Trust](#youtube-channels-we-trust)
+- [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)
 - [Books We Trust](#books-we-trust)
 - [Great Textbooks](#great-textbooks)
 - [Guides & How-Tos](#guides--how-tos)
@@ -400,6 +401,23 @@ Channels that teach, not just entertain.
 - **[SupertutorTV](https://www.youtube.com/@SupertutorTV)** - In-depth SAT and ACT prep from a perfect-scoring tutor.
 - **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Worked problems across math and the sciences.
 - **[Veritasium](https://www.youtube.com/@veritasium)** - Deep science explainers that build real understanding.
+
+</details>
+
+## Blogs, Newsletters & Podcasts
+
+Written and audio deep dives on how to learn, focus, and work better.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Deep Questions with Cal Newport](https://www.thedeeplife.com/listen/)** - Weekly podcast on deep work, focus, and study strategy.
+- **[Farnam Street](https://fs.blog)** - Essays on mental models, decision-making, and clearer thinking.
+- **[Hidden Brain](https://www.hiddenbrain.org)** - NPR podcast exploring the psychology behind everyday decisions.
+- **[James Clear's 3-2-1 Newsletter](https://jamesclear.com/3-2-1)** - Weekly ideas, quotes, and questions on habits and learning.
+- **[Ness Labs Newsletter](https://nesslabs.com/newsletter)** - Neuroscience-backed insights on productivity, focus, and learning.
+- **[Scott Young's Blog](https://www.scotthyoung.com/blog/)** - Deep dives on learning faster and building hard skills.
+- **[The Learning Scientists Podcast](https://www.learningscientists.org/learning-scientists-podcast)** - Evidence-based study techniques explained by cognitive scientists.
 
 </details>
 
