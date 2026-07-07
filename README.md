@@ -54,6 +54,7 @@ Official and community prep for the big exams and curricula.
 - **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores.
 - **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests.
 - **[Khan Academy Official Digital SAT](https://www.khanacademy.org/digital-sat)** - Free official Digital SAT practice, made with College Board.
+- **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT.
 - **[UWorld SAT](https://www.uworld.com/college-prep/sat/)** - Large question bank with detailed explanations (paid).
 
 </details>
@@ -65,6 +66,7 @@ Official and community prep for the big exams and curricula.
 
 - **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes.
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects.
+- **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across IGCSE and GCSE subjects.
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
 - **[ZNotes](https://znotes.org)** - Free community-written summary notes for Cambridge and Edexcel.
 
@@ -77,6 +79,7 @@ Official and community prep for the big exams and curricula.
 
 - **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources.
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
+- **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus.
 - **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
 
@@ -105,6 +108,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics.
 - **[HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic.
+- **[Isaac Physics](https://isaacscience.org)** - Free, problem-based physics learning platform built by the University of Cambridge.
 - **[PhET Simulations](https://phet.colorado.edu)** - Free interactive sims for physics, chemistry, and math.
 - **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - The classic lectures, free to read online.
 
@@ -129,6 +133,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[Amoeba Sisters](https://www.amoebasisters.com)** - Friendly animations and handouts for core biology topics.
 - **[Biology LibreTexts](https://bio.libretexts.org)** - Free, open biology textbooks and references.
+- **[BioNinja](https://www.bioninja.com.au)** - Visual notes, diagrams, and quizzes built for IB and A-Level biology.
 - **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across biology and the sciences.
 - **[Khan Academy Biology](https://www.khanacademy.org/science/biology)** - Free lessons and practice across the biology syllabus.
 
@@ -178,6 +183,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned history revision.
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast overviews of world and US history.
 - **[Heimler's History](https://www.youtube.com/@heimlershistory)** - Exam-focused videos for AP History courses.
+- **[Mr Allsop History](https://www.mrallsophistory.com)** - Free podcasts, videos, and revision notes across GCSE, IGCSE, A-Level, and IB History.
 
 </details>
 
@@ -189,6 +195,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned geography revision.
 - **[Internet Geography](https://www.internetgeography.net)** - Free notes and case studies for GCSE geography.
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive geography revision (freemium).
+- **[The Geography Hub](https://learngeographyonline.com)** - Free GCSE geography case studies, quizzes, and exam-style practice.
 
 </details>
 
@@ -198,6 +205,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory psychology video series.
+- **[Fiveable](https://fiveable.me)** - Free AP Psychology study guides, practice questions, and exam-day reviews.
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive psychology revision (freemium).
 - **[Simply Psychology](https://www.simplypsychology.org)** - Clear notes on theories, studies, and exams.
 
