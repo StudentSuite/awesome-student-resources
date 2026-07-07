@@ -30,6 +30,7 @@ Maintained by [StudentSuite](https://github.com/StudentSuite).
 - [Writing, Citations & Reference](#writing-citations--reference)
 - [Diagramming & STEM Tools](#diagramming--stem-tools)
 - [Building Software / Learn to Code](#building-software--learn-to-code)
+- [Student Discounts & Free Access](#student-discounts--free-access)
 - [FOSS Picks](#foss-picks)
 - [YouTube Channels We Trust](#youtube-channels-we-trust)
 - [Books We Trust](#books-we-trust)
@@ -341,6 +342,21 @@ Go from first line to shipped project.
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students.
 - **[The Odin Project](https://www.theodinproject.com)** - Free project-based path into web development.
 - **[Visual Studio Code](https://code.visualstudio.com)** - Free, extensible code editor from Microsoft.
+
+</details>
+
+## Student Discounts & Free Access
+
+Legitimate free or discounted access students often miss, verify with a school email or proof of enrollment.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Autodesk Education](https://www.autodesk.com/education/edu-software/overview)** - Free one-year access to Autodesk design and engineering software for verified students.
+- **[Figma Education](https://www.figma.com/education/)** - Figma's paid plan free for students and educators with verification.
+- **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students.
+- **[JetBrains for Students](https://www.jetbrains.com/academy/student-pack/)** - All JetBrains IDEs free for students with a school email.
+- **[Notion for Education](https://www.notion.com/product/notion-for-education)** - Notion's paid plan free for students with a school email.
 
 </details>
 
