@@ -314,11 +314,19 @@ Channels that teach, not just entertain.
 
 - **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** - Visual math intuition, from linear algebra to calculus.
 - **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Clear lectures on algorithms and data structures.
+- **[Amoeba Sisters](https://www.youtube.com/@amoebasisters)** - Cartoon-style videos that make biology concepts like genetics and evolution click.
 - **[Code with Harry](https://www.youtube.com/@CodeWithHarry)** - Beginner-friendly programming tutorials in Hindi and English.
+- **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast-paced overviews across history, science, and the humanities.
 - **[Economics Explained](https://www.youtube.com/@EconomicsExplained)** - Accessible breakdowns of economies and economic ideas.
+- **[ExamSolutions](https://www.youtube.com/user/ExamSolutions)** - Free worked examples for GCSE, IGCSE, and A-Level maths.
 - **[Fireship](https://www.youtube.com/@Fireship)** - Fast, practical coding and web development explainers.
 - **[IB English Guys](https://www.youtube.com/@ibenglishguys)** - Exam-focused help for IB English courses.
 - **[Khan Academy](https://www.youtube.com/@khanacademy)** - Structured lessons across almost every school subject.
+- **[MinutePhysics](https://www.youtube.com/@MinutePhysics)** - Short, animated explainers that make physics concepts click fast.
+- **[Mr Hunt's Geography Channel](https://www.youtube.com/@mrhuntsgeographychannel2289)** - GCSE geography lessons from a working teacher and exam board examiner.
+- **[Psych2Go](https://www.youtube.com/@psych2go)** - Approachable videos on psychology, mental health, and self-understanding.
+- **[Revision Village](https://www.youtube.com/@revisionvillage)** - Syllabus-aligned video lessons and worked past papers for IB Math.
+- **[SupertutorTV](https://www.youtube.com/@SupertutorTV)** - In-depth SAT and ACT prep from a perfect-scoring tutor.
 - **[The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)** - Worked problems across math and the sciences.
 - **[Veritasium](https://www.youtube.com/@veritasium)** - Deep science explainers that build real understanding.
 
