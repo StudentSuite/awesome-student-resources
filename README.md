@@ -569,11 +569,15 @@ Ask questions and study alongside other students.
 <details open>
 <summary>Show resources</summary>
 
+- **[Academia Stack Exchange](https://academia.stackexchange.com)** - Q&A on academic life, research, and navigating school systems.
+- **[Mathematics Stack Exchange](https://math.stackexchange.com)** - Q&A for working through math problems step by step.
 - **[r/APStudents](https://www.reddit.com/r/APStudents/)** - Community for AP course and exam prep.
 - **[r/GetStudying](https://www.reddit.com/r/GetStudying/)** - Study motivation, methods, and accountability.
+- **[r/HomeworkHelp](https://www.reddit.com/r/HomeworkHelp/)** - Large, active community for help across every school subject.
 - **[r/IBO](https://www.reddit.com/r/IBO/)** - The main community for IB Diploma students.
 - **[r/igcse](https://www.reddit.com/r/igcse/)** - Support and resources for IGCSE students.
 - **[r/SAT](https://www.reddit.com/r/SAT/)** - Strategy, practice, and score discussion for the SAT.
+- **[StudyStream](https://www.studystream.live)** - 24/7 video study rooms and a Discord community to stay accountable.
 
 </details>
 
