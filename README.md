@@ -224,6 +224,18 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 </details>
 
+### Foreign Languages
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Duolingo](https://www.duolingo.com)** - Free, gamified lessons across dozens of languages.
+- **[italki](https://www.italki.com)** - Book 1-on-1 sessions with language tutors worldwide (paid).
+- **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
+- **[Memrise](https://www.memrise.com)** - Vocabulary and listening practice with native-speaker videos (freemium).
+
+</details>
+
 ### History
 
 <details open>
