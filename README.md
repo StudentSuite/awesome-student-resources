@@ -116,7 +116,6 @@ Official and community prep for the big exams and curricula.
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and worked past papers built around the IB Math syllabus.
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
 - **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus.
-- **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
 
 </details>
@@ -146,7 +145,7 @@ Official and community prep for the big exams and curricula.
 - **[Magoosh SAT](https://sat.magoosh.com)** - Video lessons and practice questions for the Digital SAT.
 - **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT.
 - **[The Princeton Review SAT](https://www.princetonreview.com/college/free-digitalsat-practice-test)** - Free full-length Digital SAT practice test with a score report.
-- **[UWorld SAT](https://www.uworld.com/college-prep/sat/)** - Large question bank with detailed explanations (paid).
+- **[UWorld SAT](https://collegeprep.uworld.com/sat/)** - Large question bank with detailed explanations (paid).
 
 </details>
 

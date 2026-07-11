@@ -1,0 +1,23 @@
+# Config for the dead-link-check workflow (.github/workflows/dead-link-check.yml).
+# Several legitimate, working sites in README.md (getrevising.co.uk, leetcode.com,
+# mitpress.mit.edu, nailib.com, quizlet.com, smarthistory.org, feynmanlectures.caltech.edu,
+# ibdocuments.com, kaptest.com, sparknotes.com, inkscape.org, autodesk.com, ...) reject
+# automated / non-browser requests with a 403 even though they're fine in a real browser.
+# Accepting 403 avoids constant false-positive noise; a truly dead entry usually surfaces
+# as a timeout, DNS failure, TLS error, or 404/410 instead, all of which still fail the check.
+# 202 is also accepted: global.oup.com returns it for a valid, working product page.
+accept = [200, 202, 206, 403, 429]
+
+max_concurrency = 8
+timeout = 20
+retry_wait_time = 2
+max_retries = 2
+
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+# autodesk.com: manually verified (curl, both HTTP/1.1 and HTTP/2) to return a 403 like the
+# other bot-blocked domains above, but lychee's HTTP client fails to negotiate HTTP/2 with
+# this specific server and errors before it can even read the status code.
+exclude = [
+  "https://www.autodesk.com/education/edu-software/overview",
+]
