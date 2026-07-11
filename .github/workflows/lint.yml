@@ -5,12 +5,14 @@ on:
     paths:
       - README.md
       - scripts/check-list-format.mjs
+      - scripts/audit-duplicate-urls.mjs
   push:
     branches:
       - main
     paths:
       - README.md
       - scripts/check-list-format.mjs
+      - scripts/audit-duplicate-urls.mjs
 
 jobs:
   check-list-format:
@@ -21,3 +23,5 @@ jobs:
         with:
           node-version: 20
       - run: node scripts/check-list-format.mjs
+      # Informational only: reports cross-section URL reuse, never fails the job.
+      - run: node scripts/audit-duplicate-urls.mjs
