@@ -1,0 +1,14 @@
+{
+  // Every resource entry is intentionally one long line: "- **[Name](url)** - Description."
+  // Wrapping them would make the list harder to scan and alphabetize.
+  "MD013": false,
+
+  // README.md opens with a centered logo block, not a heading.
+  "MD041": false,
+
+  // Only allow the inline HTML this repo actually uses on purpose: the collapsible
+  // per-section resource lists, and the light/dark logo picture in the header.
+  "MD033": {
+    "allowed_elements": ["div", "picture", "source", "img", "details", "summary"]
+  }
+}
