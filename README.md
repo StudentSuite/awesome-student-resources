@@ -313,6 +313,30 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 </details>
 
+### Art
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Jazza](https://www.youtube.com/@Jazza)** - Fun, accessible drawing and illustration tutorials for beginners.
+- **[Proko](https://www.proko.com)** - Free figure drawing and anatomy fundamentals for artists (freemium).
+- **[Smarthistory](https://smarthistory.org)** - Free, peer-reviewed art history essays and videos, Khan Academy's official partner.
+- **[Tate](https://www.tate.org.uk/art/student-resource)** - Free GCSE and A-Level art exam help and student resources.
+
+</details>
+
+### Music
+
+<details open>
+<summary>Show resources</summary>
+
+- **[8notes](https://www.8notes.com)** - Free sheet music across 25+ instruments (freemium).
+- **[musictheory.net](https://www.musictheory.net)** - Free, interactive lessons and ear-training exercises for music theory basics.
+- **[Rick Beato](https://www.youtube.com/@RickBeato)** - In-depth music theory, ear training, and song analysis.
+- **[teoria](https://teoria.com)** - Free ear-training drills and music theory reference.
+
+</details>
+
 ## Notes & Knowledge Management
 
 Capture, link, and organize what you learn.
