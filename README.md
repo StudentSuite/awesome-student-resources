@@ -37,6 +37,7 @@ Maintained by [StudentSuite](https://github.com/StudentSuite).
 - [Books We Trust](#books-we-trust)
 - [Great Textbooks](#great-textbooks)
 - [Guides & How-Tos](#guides--how-tos)
+- [Mental Health & Wellbeing](#mental-health--wellbeing)
 - [Communities](#communities)
 - [More from StudentSuite](#more-from-studentsuite)
 - [A Note on Links](#a-note-on-links)
@@ -500,6 +501,20 @@ Meta-skills: how to study, remember, and focus.
 - **[Anki Manual](https://docs.ankiweb.net/)** - The official guide to spaced repetition with Anki.
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition.
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works.
+
+</details>
+
+## Mental Health & Wellbeing
+
+Free, reputable support for stress, burnout, and everything school doesn't teach you to handle.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[7 Cups](https://www.7cups.com)** - Free, anonymous chat with trained volunteer listeners, 24/7.
+- **[Befrienders Worldwide](https://befrienders.org)** - Free directory of confidential emotional-support helplines worldwide.
+- **[Headspace](https://www.headspace.com)** - Guided meditation and sleep, free for teens and students (freemium).
+- **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep.
 
 </details>
 

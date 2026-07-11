@@ -47,6 +47,7 @@ Add your single bullet to the closest matching section:
 - Books We Trust (study skill and mindset books)
 - Great Textbooks (subject textbooks)
 - Guides & How-Tos
+- Mental Health & Wellbeing
 - Communities
 
 If nothing fits, open an issue first to discuss a new section before adding one.
