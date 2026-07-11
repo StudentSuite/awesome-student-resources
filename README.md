@@ -273,6 +273,18 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 </details>
 
+### Environmental Systems & Societies
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across environmental systems and ecology.
+- **[Knowt](https://knowt.com)** - Free student-written study guides and flashcards for IB ESS.
+- **[MinuteEarth](https://www.youtube.com/@MinuteEarth)** - Short, animated explainers on environmental science mysteries.
+- **[Save My Exams](https://www.savemyexams.com/dp/environmental-systems-and-societies-ess/)** - Revision notes, exam questions, and past papers for IB ESS.
+
+</details>
+
 ### Psychology
 
 <details open>
