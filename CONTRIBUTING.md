@@ -4,15 +4,19 @@ This repository curates links only. The tool, channel, or book you add lives whe
 
 By participating, you're expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
+---
+
 ## Before you open a PR
 
 Check the entry meets the [Quality Standards](README.md#quality-standards):
 
-- Genuinely useful to students for studying, building, or organizing.
-- Real and maintained, not abandoned or a dead link.
-- Free, freemium, or clearly worth the price, with the pricing noted.
-- A reputable tool, channel, or book, not spam or an affiliate funnel.
-- Short, plain-language description.
+- [ ] Genuinely useful to students for studying, building, or organizing.
+- [ ] Real and maintained, not abandoned or a dead link.
+- [ ] Free, freemium, or clearly worth the price, with the pricing noted.
+- [ ] A reputable tool, channel, or book, not spam or an affiliate funnel.
+- [ ] Short, plain-language description.
+
+---
 
 ## Entry format
 
@@ -28,18 +32,20 @@ For books and textbooks, use the title (add the author where it helps) and link 
 
 Keep the description to one line, roughly 10 words or fewer. Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and note the pricing when it matters: `(free)`, `(freemium)`, `(paid)`, or "free, open source" for FOSS. No em dashes.
 
+---
+
 ## Where it goes
 
 Add your single bullet to the closest matching section:
 
-- Exam & Curriculum Prep (SAT, IGCSE, IB)
-- By Subject (Mathematics, Physics, Chemistry, Biology, Computer Science, Economics, English Language and Literature, History, Geography, Psychology)
+- Exam & Curriculum Prep (A-Level, ACT, AP, GCSE, IB, IGCSE, SAT)
+- By Subject (Mathematics, Physics, Chemistry, Biology, Computer Science, Economics, Business Studies, English Language and Literature, Foreign Languages, History, Geography, Environmental Systems & Societies, Psychology, Art, Music)
 - Notes & Knowledge Management
 - Flashcards & Spaced Repetition
 - Task, Time & Planning
 - Writing, Citations & Reference
 - Diagramming & STEM Tools
-- Building Software / Learn to Code
+- Building Software / Learn to Code (Learn to Code, Coding Practice)
 - Student Discounts & Free Access
 - Scholarships & Financial Aid
 - University & Career Prep
@@ -54,6 +60,8 @@ Add your single bullet to the closest matching section:
 
 If nothing fits, open an issue first to discuss a new section before adding one.
 
+---
+
 ## Submitting
 
 1. Fork the repo, add your single bullet in the right section, in its correct alphabetical position.
@@ -61,6 +69,10 @@ If nothing fits, open an issue first to discuss a new section before adding one.
 3. In the PR description, link the resource and say in one sentence why it helps students.
 
 One entry per PR keeps review fast. Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
+
+---
+
+## CI checks
 
 A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.md. It verifies the entry format, alphabetical order, and that the Table of Contents matches the section headings. Run it yourself before opening a PR with:
 

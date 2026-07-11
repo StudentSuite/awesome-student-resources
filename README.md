@@ -7,45 +7,53 @@
 
 # Awesome Student Resources
 
-A curated list of the best software, tools, textbooks, channels, and resources for students.
+**A curated list of the best software, tools, textbooks, channels, and resources for students.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+![Resources](https://img.shields.io/badge/resources-209-blue)
+![Sections](https://img.shields.io/badge/sections-19-purple)
+[![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
 </div>
 
-This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else. IB, IGCSE, SAT, and any student anywhere. Add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
+---
 
-Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically.
+This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else, not to something hosted here. IB, IGCSE, SAT, and any student anywhere — add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Maintained by [StudentSuite](https://github.com/StudentSuite).
+> Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
+>
+> Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-student-resources/issues/new/choose) &middot; [Changelog](CHANGELOG.md)
+
+---
 
 ## Table of Contents
 
-- [Exam & Curriculum Prep](#exam--curriculum-prep)
-- [By Subject](#by-subject)
-- [Notes & Knowledge Management](#notes--knowledge-management)
-- [Flashcards & Spaced Repetition](#flashcards--spaced-repetition)
-- [Task, Time & Planning](#task-time--planning)
-- [Writing, Citations & Reference](#writing-citations--reference)
-- [Diagramming & STEM Tools](#diagramming--stem-tools)
-- [Building Software / Learn to Code](#building-software--learn-to-code)
-- [Student Discounts & Free Access](#student-discounts--free-access)
-- [Scholarships & Financial Aid](#scholarships--financial-aid)
-- [University & Career Prep](#university--career-prep)
-- [FOSS Picks](#foss-picks)
-- [YouTube Channels We Trust](#youtube-channels-we-trust)
-- [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)
-- [Books We Trust](#books-we-trust)
-- [Great Textbooks](#great-textbooks)
-- [Guides & How-Tos](#guides--how-tos)
-- [Mental Health & Wellbeing](#mental-health--wellbeing)
-- [Communities](#communities)
-- [More from StudentSuite](#more-from-studentsuite)
-- [A Note on Links](#a-note-on-links)
-- [Quality Standards](#quality-standards)
-- [Contributing](#contributing)
-- [License](#license)
+| | Section | Resources |
+| :-: | --- | :-: |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 42 |
+| 📚 | [By Subject](#by-subject) | 63 |
+| 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 4 |
+| 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
+| ⏰ | [Task, Time & Planning](#task-time--planning) | 4 |
+| ✍️ | [Writing, Citations & Reference](#writing-citations--reference) | 4 |
+| 📐 | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
+| 💻 | [Building Software / Learn to Code](#building-software--learn-to-code) | 9 |
+| 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
+| 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 4 |
+| 🎯 | [University & Career Prep](#university--career-prep) | 5 |
+| 🔓 | [FOSS Picks](#foss-picks) | 6 |
+| 📺 | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
+| 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 7 |
+| 📖 | [Books We Trust](#books-we-trust) | 5 |
+| 📗 | [Great Textbooks](#great-textbooks) | 6 |
+| 💡 | [Guides & How-Tos](#guides--how-tos) | 4 |
+| 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 4 |
+| 👥 | [Communities](#communities) | 9 |
+
+[More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
+
+---
 
 ## Exam & Curriculum Prep
 
@@ -148,6 +156,8 @@ Official and community prep for the big exams and curricula.
 - **[UWorld SAT](https://collegeprep.uworld.com/sat/)** - Large question bank with detailed explanations (paid).
 
 </details>
+
+---
 
 ## By Subject
 
@@ -336,6 +346,8 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 </details>
 
+---
+
 ## Notes & Knowledge Management
 
 Capture, link, and organize what you learn.
@@ -349,6 +361,8 @@ Capture, link, and organize what you learn.
 - **[RemNote](https://www.remnote.com)** - Notes with built-in spaced-repetition flashcards (freemium).
 
 </details>
+
+---
 
 ## Flashcards & Spaced Repetition
 
@@ -364,6 +378,8 @@ Remember more with less rereading.
 
 </details>
 
+---
+
 ## Task, Time & Planning
 
 Plan the week, protect the deadlines.
@@ -377,6 +393,8 @@ Plan the week, protect the deadlines.
 - **[Todoist](https://todoist.com)** - Cross-platform task manager with natural-language dates (freemium).
 
 </details>
+
+---
 
 ## Writing, Citations & Reference
 
@@ -392,6 +410,8 @@ Draft, cite, and polish papers.
 
 </details>
 
+---
+
 ## Diagramming & STEM Tools
 
 Graph, compute, and sketch ideas.
@@ -406,6 +426,8 @@ Graph, compute, and sketch ideas.
 - **[Wolfram Alpha](https://www.wolframalpha.com)** - Computational engine for step-by-step math and science (freemium).
 
 </details>
+
+---
 
 ## Building Software / Learn to Code
 
@@ -436,6 +458,8 @@ Go from first line to shipped project.
 
 </details>
 
+---
+
 ## Student Discounts & Free Access
 
 Legitimate free or discounted access students often miss, verify with a school email or proof of enrollment.
@@ -451,6 +475,8 @@ Legitimate free or discounted access students often miss, verify with a school e
 
 </details>
 
+---
+
 ## Scholarships & Financial Aid
 
 Legitimate, fee-free places to find money for school.
@@ -464,6 +490,8 @@ Legitimate, fee-free places to find money for school.
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants.
 
 </details>
+
+---
 
 ## University & Career Prep
 
@@ -480,6 +508,8 @@ What comes after exams: applications, resumes, and interviews.
 
 </details>
 
+---
+
 ## FOSS Picks
 
 Fully free and open-source tools worth installing.
@@ -495,6 +525,8 @@ Fully free and open-source tools worth installing.
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager.
 
 </details>
+
+---
 
 ## YouTube Channels We Trust
 
@@ -523,6 +555,8 @@ Channels that teach, not just entertain.
 
 </details>
 
+---
+
 ## Blogs, Newsletters & Podcasts
 
 Written and audio deep dives on how to learn, focus, and work better.
@@ -540,6 +574,8 @@ Written and audio deep dives on how to learn, focus, and work better.
 
 </details>
 
+---
+
 ## Books We Trust
 
 Study skill and mindset books worth your time.
@@ -554,6 +590,8 @@ Study skill and mindset books worth your time.
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning.
 
 </details>
+
+---
 
 ## Great Textbooks
 
@@ -571,6 +609,8 @@ Subject textbooks students and teachers keep coming back to.
 
 </details>
 
+---
+
 ## Guides & How-Tos
 
 Meta-skills: how to study, remember, and focus.
@@ -585,6 +625,8 @@ Meta-skills: how to study, remember, and focus.
 
 </details>
 
+---
+
 ## Mental Health & Wellbeing
 
 Free, reputable support for stress, burnout, and everything school doesn't teach you to handle.
@@ -598,6 +640,8 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep.
 
 </details>
+
+---
 
 ## Communities
 
@@ -618,28 +662,39 @@ Ask questions and study alongside other students.
 
 </details>
 
+---
+
 ## More from StudentSuite
 
 - **[Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students)** - Curated AI coding-agent skills and plugins built for students.
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - A crowdsourced map of student-important places: exam centres, libraries, and more.
 
+---
+
 ## A Note on Links
 
-This list points to third-party tools, channels, and books. StudentSuite does not own, host, or endorse them, and it earns nothing from these links. Pricing and free tiers change, so check the current terms before you commit. If a listed entry is dead, misleading, or no longer free where we said so, open an issue or PR to fix it.
+> [!NOTE]
+> This list points to third-party tools, channels, and books. StudentSuite does not own, host, or endorse them, and it earns nothing from these links. Pricing and free tiers change, so check the current terms before you commit. If a listed entry is dead, misleading, or no longer free where we said so, open an issue or PR to fix it.
+
+---
 
 ## Quality Standards
 
 An entry should meet all of the following before being added:
 
-- **Genuinely useful to students.** It helps you study, build, or organize, not just browse.
-- **Real and maintained.** Actively available, not abandoned or a dead link.
-- **Accessible.** Free, freemium, or clearly worth the price; note the pricing in the entry.
-- **Reputable.** A known tool, channel, or book, not spam or an affiliate funnel.
-- **Short description.** One line, plain language, no marketing copy.
+- [ ] **Genuinely useful to students.** It helps you study, build, or organize, not just browse.
+- [ ] **Real and maintained.** Actively available, not abandoned or a dead link.
+- [ ] **Accessible.** Free, freemium, or clearly worth the price; note the pricing in the entry.
+- [ ] **Reputable.** A known tool, channel, or book, not spam or an affiliate funnel.
+- [ ] **Short description.** One line, plain language, no marketing copy.
+
+---
 
 ## Contributing
 
 PRs adding a resource are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and PR checklist, and the [Code of Conduct](CODE_OF_CONDUCT.md) for how we expect people to treat each other here. See [CHANGELOG.md](CHANGELOG.md) for release history.
+
+---
 
 ## License
 

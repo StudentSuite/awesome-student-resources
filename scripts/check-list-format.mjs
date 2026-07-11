@@ -101,10 +101,12 @@ for (const block of blocks) {
 const tocStart = lines.findIndex((l) => l.trim() === '## Table of Contents');
 const tocEnd = lines.findIndex((l, i) => i > tocStart && l.startsWith('## '));
 const tocLines = lines.slice(tocStart + 1, tocEnd);
-const tocEntries = tocLines
-  .map((l) => l.match(/^- \[(.+?)\]\(#(.+?)\)/))
-  .filter(Boolean)
-  .map((m) => ({ text: m[1], slug: m[2] }));
+// The ToC can be a bullet list, a table, or a line of "·"-separated links, so scan for
+// every markdown link that points at an in-page anchor rather than assuming one shape.
+const tocEntries = [...tocLines.join('\n').matchAll(/\[(.+?)\]\(#(.+?)\)/g)].map((m) => ({
+  text: m[1],
+  slug: m[2],
+}));
 
 const realHeadings = h2Headings.filter((h) => h.text !== 'Table of Contents');
 
