@@ -212,6 +212,18 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 </details>
 
+### Business Studies
+
+<details open>
+<summary>Show resources</summary>
+
+- **[IGCSE Business](https://www.igcsebusiness.co.uk)** - Free Cambridge IGCSE Business notes and past papers by topic.
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive business revision (freemium).
+- **[TakingTheBiz](https://www.youtube.com/TakingTheBiz)** - Video revision lessons for GCSE, A-Level, and IB Business.
+- **[tutor2u](https://www.tutor2u.net/business)** - Notes, revision, and exam support for Business Studies.
+
+</details>
+
 ### English Language and Literature
 
 <details open>
