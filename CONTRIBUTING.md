@@ -42,6 +42,7 @@ Add your single bullet to the closest matching section:
 - Building Software / Learn to Code
 - Student Discounts & Free Access
 - Scholarships & Financial Aid
+- University & Career Prep
 - FOSS Picks (fully free and open source only)
 - YouTube Channels We Trust
 - Blogs, Newsletters & Podcasts

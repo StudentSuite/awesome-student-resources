@@ -32,6 +32,7 @@ Maintained by [StudentSuite](https://github.com/StudentSuite).
 - [Building Software / Learn to Code](#building-software--learn-to-code)
 - [Student Discounts & Free Access](#student-discounts--free-access)
 - [Scholarships & Financial Aid](#scholarships--financial-aid)
+- [University & Career Prep](#university--career-prep)
 - [FOSS Picks](#foss-picks)
 - [YouTube Channels We Trust](#youtube-channels-we-trust)
 - [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)
@@ -411,6 +412,21 @@ Legitimate, fee-free places to find money for school.
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners.
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans.
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants.
+
+</details>
+
+## University & Career Prep
+
+What comes after exams: applications, resumes, and interviews.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays.
+- **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges.
+- **[Exponent](https://www.tryexponent.com/practice)** - Free peer and AI mock interviews for tech and PM roles.
+- **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates.
+- **[Yoodli](https://yoodli.ai)** - Free AI coach for interview and communication practice (freemium).
 
 </details>
 
