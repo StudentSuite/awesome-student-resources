@@ -93,6 +93,19 @@ Official and community prep for the big exams and curricula.
 
 </details>
 
+### GCSE
+
+<details open>
+<summary>Show resources</summary>
+
+- **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core GCSE subject.
+- **[Mr Bruff](https://www.youtube.com/@mrbruff)** - Free video walkthroughs for GCSE English Language and Literature.
+- **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across GCSE subjects.
+- **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
+- **[Seneca Learning](https://senecalearning.com)** - Free interactive revision across every core GCSE subject (freemium).
+
+</details>
+
 ### IB (IBDP)
 
 <details open>
