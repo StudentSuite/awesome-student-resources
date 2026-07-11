@@ -41,6 +41,7 @@ Add your single bullet to the closest matching section:
 - Diagramming & STEM Tools
 - Building Software / Learn to Code
 - Student Discounts & Free Access
+- Scholarships & Financial Aid
 - FOSS Picks (fully free and open source only)
 - YouTube Channels We Trust
 - Blogs, Newsletters & Podcasts

@@ -31,6 +31,7 @@ Maintained by [StudentSuite](https://github.com/StudentSuite).
 - [Diagramming & STEM Tools](#diagramming--stem-tools)
 - [Building Software / Learn to Code](#building-software--learn-to-code)
 - [Student Discounts & Free Access](#student-discounts--free-access)
+- [Scholarships & Financial Aid](#scholarships--financial-aid)
 - [FOSS Picks](#foss-picks)
 - [YouTube Channels We Trust](#youtube-channels-we-trust)
 - [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)
@@ -396,6 +397,20 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students.
 - **[JetBrains for Students](https://www.jetbrains.com/academy/student-pack/)** - All JetBrains IDEs free for students with a school email.
 - **[Notion for Education](https://www.notion.com/product/notion-for-education)** - Notion's paid plan free for students with a school email.
+
+</details>
+
+## Scholarships & Financial Aid
+
+Legitimate, fee-free places to find money for school.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily.
+- **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners.
+- **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans.
+- **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants.
 
 </details>
 
