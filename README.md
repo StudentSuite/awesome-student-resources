@@ -412,6 +412,8 @@ Graph, compute, and sketch ideas.
 
 Go from first line to shipped project.
 
+### Learn to Code
+
 <details open>
 <summary>Show resources</summary>
 
@@ -420,6 +422,18 @@ Go from first line to shipped project.
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students.
 - **[The Odin Project](https://www.theodinproject.com)** - Free project-based path into web development.
 - **[Visual Studio Code](https://code.visualstudio.com)** - Free, extensible code editor from Microsoft.
+
+</details>
+
+### Coding Practice
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Advent of Code](https://adventofcode.com)** - Free annual puzzle set, one bite-sized challenge per day each December.
+- **[Codewars](https://www.codewars.com)** - Free, community-built code katas across 55+ languages.
+- **[Exercism](https://exercism.org)** - Free coding exercises with real mentor feedback across 80+ languages.
+- **[LeetCode](https://leetcode.com)** - Practice problems for coding interviews and data structures (freemium).
 
 </details>
 
