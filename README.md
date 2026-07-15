@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-219-blue)
+![Resources](https://img.shields.io/badge/resources-223-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 46 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 50 |
 | 📚 | [By Subject](#by-subject) | 67 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
@@ -98,6 +98,18 @@ Official and community prep for the big exams and curricula.
 - **[Brainscape AP](https://www.brainscape.com/subjects/entrance-exams/ap-exams)** - Adaptive flashcards for every AP subject (freemium).
 - **[Fiveable](https://fiveable.me)** - Free study guides, practice questions, and exam-day reviews for all 38 AP subjects.
 - **[Knowt](https://knowt.com/exams/AP)** - Free student-written study guides and flashcards by AP subject and unit.
+
+</details>
+
+### Extended Essay
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Clastify](https://www.clastify.com/ee)** - Examiner-verified Extended Essay examples across every IB subject (freemium).
+- **[IB Extended Essay](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/extended-essay/)** - The IB's official overview of the Extended Essay requirements and process.
+- **[Lanterna Education](https://lanterna.com/resources/ib-extended-essay-ee-guide)** - Free guide to choosing a topic and structuring an Extended Essay.
+- **[PrepScholar EE](https://blog.prepscholar.com/complete-guide-to-ib-extended-essay-tips-grading-guideline-and-sample-essays)** - Free guide covering EE grading, structure, and sample essays.
 
 </details>
 
