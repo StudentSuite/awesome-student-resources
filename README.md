@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-231-blue)
+![Resources](https://img.shields.io/badge/resources-235-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 58 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 62 |
 | 📚 | [By Subject](#by-subject) | 67 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
@@ -98,6 +98,18 @@ Official and community prep for the big exams and curricula.
 - **[Brainscape AP](https://www.brainscape.com/subjects/entrance-exams/ap-exams)** - Adaptive flashcards for every AP subject (freemium).
 - **[Fiveable](https://fiveable.me)** - Free study guides, practice questions, and exam-day reviews for all 38 AP subjects.
 - **[Knowt](https://knowt.com/exams/AP)** - Free student-written study guides and flashcards by AP subject and unit.
+
+</details>
+
+### AP Computer Science
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Code.org](https://code.org/en-US/curriculum/computer-science-principles)** - Free, official AP CSP curriculum with lesson plans and practice.
+- **[CodeHS](https://codehs.com)** - College Board-endorsed AP CSA and CSP curriculum (paid; often free via school license).
+- **[CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html)** - Free, open Java textbook and practice for the AP CSA exam.
+- **[Khan Academy AP Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)** - Free lessons and practice for the AP CSP exam.
 
 </details>
 
