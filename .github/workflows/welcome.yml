@@ -31,6 +31,6 @@ jobs:
             alphabetical position, and make sure it meets the
             [Quality Standards](https://github.com/StudentSuite/awesome-student-resources/blob/main/README.md#quality-standards)
             (real, maintained, reputable, with pricing noted). CI will check the entry
-            format and alphabetical order automatically — see
+            format and alphabetical order automatically, see
             [CONTRIBUTING.md](https://github.com/StudentSuite/awesome-student-resources/blob/main/CONTRIBUTING.md)
             for the full checklist.

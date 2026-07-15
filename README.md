@@ -19,7 +19,7 @@
 
 ---
 
-This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else, not to something hosted here. IB, IGCSE, SAT, and any student anywhere — add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
+This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else, not to something hosted here. IB, IGCSE, SAT, and any student anywhere: add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 > Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
 >
