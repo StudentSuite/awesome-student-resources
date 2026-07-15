@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-223-blue)
+![Resources](https://img.shields.io/badge/resources-231-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 50 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 58 |
 | 📚 | [By Subject](#by-subject) | 67 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
@@ -101,6 +101,18 @@ Official and community prep for the big exams and curricula.
 
 </details>
 
+### CBSE
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CBSE](https://www.cbse.gov.in)** - The official CBSE board site for syllabus, circulars, and sample papers.
+- **[NCERT](https://ncert.nic.in/textbook.php)** - Free official NCERT textbooks and solutions for every CBSE class.
+- **[Physics Wallah](https://www.pw.live)** - Free video lessons and notes for CBSE, JEE, and NEET (freemium).
+- **[Vedantu](https://www.vedantu.com/cbse)** - Free CBSE study material, sample papers, and NCERT solutions (freemium).
+
+</details>
+
 ### Extended Essay
 
 <details open>
@@ -137,6 +149,18 @@ Official and community prep for the big exams and curricula.
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus.
 - **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus.
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
+
+</details>
+
+### ICSE
+
+<details open>
+<summary>Show resources</summary>
+
+- **[CISCE](https://cisce.org)** - The official ICSE/ISC board site for syllabus and exam information.
+- **[SelfStudys](https://www.selfstudys.com)** - Free NCERT solutions and study material for ICSE and CISCE boards.
+- **[TopperLearning](https://www.topperlearning.com)** - Free study tools and video lessons for ICSE and CBSE (freemium).
+- **[Vedantu](https://www.vedantu.com/study-material/icse-study-material)** - Free ICSE study material, sample papers, and Selina solutions.
 
 </details>
 
