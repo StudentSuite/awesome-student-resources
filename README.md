@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-211-blue)
+![Resources](https://img.shields.io/badge/resources-215-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 42 |
-| 📚 | [By Subject](#by-subject) | 63 |
+| 📚 | [By Subject](#by-subject) | 67 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
 | ⏰ | [Task, Time & Planning](#task-time--planning) | 4 |
@@ -172,6 +172,18 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Brilliant](https://brilliant.org)** - Interactive courses that build intuition through problem solving (freemium).
 - **[Desmos](https://www.desmos.com)** - Free graphing and geometry calculators for exploring functions.
 - **[Paul's Online Math Notes](https://tutorial.math.lamar.edu)** - Free, thorough notes and examples from algebra to differential equations.
+
+</details>
+
+### Statistics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)** - Free lessons and practice across statistics and probability.
+- **[OpenIntro Statistics](https://www.openintro.org/book/os/)** - Free, open-source statistics textbook used by universities worldwide.
+- **[Stat Trek](https://stattrek.com)** - Free tutorials, calculators, and video lessons for AP Statistics.
+- **[StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)** - Clear, visual explanations of statistics and machine learning concepts.
 
 </details>
 
