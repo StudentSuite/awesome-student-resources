@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-215-blue)
+![Resources](https://img.shields.io/badge/resources-219-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 42 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 46 |
 | 📚 | [By Subject](#by-subject) | 67 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
@@ -154,6 +154,18 @@ Official and community prep for the big exams and curricula.
 - **[PrepScholar](https://www.prepscholar.com)** - Free study guides, score strategies, and section-by-section practice for the SAT.
 - **[The Princeton Review SAT](https://www.princetonreview.com/college/free-digitalsat-practice-test)** - Free full-length Digital SAT practice test with a score report.
 - **[UWorld SAT](https://collegeprep.uworld.com/sat/)** - Large question bank with detailed explanations (paid).
+
+</details>
+
+### Theory of Knowledge
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Clastify](https://www.clastify.com)** - Examiner-verified TOK essay and exhibition examples from real IB students (freemium).
+- **[IB Theory of Knowledge](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/theory-of-knowledge/)** - The IB's official overview of the TOK course, essay, and exhibition.
+- **[Theory of Knowledge](https://theoryofknowledge.net)** - Free video explainers and guides for the TOK essay and exhibition.
+- **[TOK Resource](https://www.tokresource.org)** - Free, non-commercial TOK concepts, prompts, and lesson ideas.
 
 </details>
 
