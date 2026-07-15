@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-235-blue)
+![Resources](https://img.shields.io/badge/resources-238-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -44,7 +44,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎯 | [University & Career Prep](#university--career-prep) | 5 |
 | 🔓 | [FOSS Picks](#foss-picks) | 6 |
 | 📺 | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
-| 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 7 |
+| 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 5 |
 | 📗 | [Great Textbooks](#great-textbooks) | 6 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 4 |
@@ -638,12 +638,15 @@ Written and audio deep dives on how to learn, focus, and work better.
 <details open>
 <summary>Show resources</summary>
 
+- **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click.
 - **[Deep Questions with Cal Newport](https://www.thedeeplife.com/listen/)** - Weekly podcast on deep work, focus, and study strategy.
 - **[Farnam Street](https://fs.blog)** - Essays on mental models, decision-making, and clearer thinking.
 - **[Hidden Brain](https://www.hiddenbrain.org)** - NPR podcast exploring the psychology behind everyday decisions.
 - **[James Clear's 3-2-1 Newsletter](https://jamesclear.com/3-2-1)** - Weekly ideas, quotes, and questions on habits and learning.
 - **[Ness Labs Newsletter](https://nesslabs.com/newsletter)** - Neuroscience-backed insights on productivity, focus, and learning.
+- **[Radiolab](https://radiolab.org)** - Science, philosophy, and human-interest stories from WNYC Studios.
 - **[Scott Young's Blog](https://www.scotthyoung.com/blog/)** - Deep dives on learning faster and building hard skills.
+- **[Stuff You Missed in History Class](https://missedinhistory.com)** - Two-a-week deep dives into overlooked history.
 - **[The Learning Scientists Podcast](https://www.learningscientists.org/learning-scientists-podcast)** - Evidence-based study techniques explained by cognitive scientists.
 
 </details>
