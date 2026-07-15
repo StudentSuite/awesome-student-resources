@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-209-blue)
+![Resources](https://img.shields.io/badge/resources-211-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | :-: | --- | :-: |
 | 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 42 |
 | 📚 | [By Subject](#by-subject) | 63 |
-| 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 4 |
+| 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
 | ⏰ | [Task, Time & Planning](#task-time--planning) | 4 |
 | ✍️ | [Writing, Citations & Reference](#writing-citations--reference) | 4 |
@@ -356,7 +356,9 @@ Capture, link, and organize what you learn.
 <summary>Show resources</summary>
 
 - **[Logseq](https://logseq.com)** - Free, open-source outliner for networked notes.
+- **[LYT Kit](https://www.linkingyourthinking.com/myideaverse/enter)** - Free starter Obsidian vault for organizing notes and classes.
 - **[Notion](https://www.notion.com)** - All-in-one notes, databases, and docs (freemium, free for students).
+- **[Notion Student Planner Templates](https://www.notion.com/templates/category/free-student-planner-templates)** - Free, official templates for tracking classes, assignments, and deadlines.
 - **[Obsidian](https://obsidian.md)** - Local-first linked notes with a large plugin ecosystem (free).
 - **[RemNote](https://www.remnote.com)** - Notes with built-in spaced-repetition flashcards (freemium).
 
