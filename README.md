@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-238-blue)
+![Resources](https://img.shields.io/badge/resources-242-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 62 |
-| 📚 | [By Subject](#by-subject) | 67 |
+| 📚 | [By Subject](#by-subject) | 71 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
 | ⏰ | [Task, Time & Planning](#task-time--planning) | 4 |
@@ -244,6 +244,18 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[OpenIntro Statistics](https://www.openintro.org/book/os/)** - Free, open-source statistics textbook used by universities worldwide.
 - **[Stat Trek](https://stattrek.com)** - Free tutorials, calculators, and video lessons for AP Statistics.
 - **[StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)** - Clear, visual explanations of statistics and machine learning concepts.
+
+</details>
+
+### Further Mathematics
+
+<details open>
+<summary>Show resources</summary>
+
+- **[ExamSolutions](https://www.examsolutions.net)** - Video tutorials covering A-Level Maths and Further Maths topics.
+- **[Further Mathematics Support Programme](https://furthermaths.org.uk)** - Resources and videos supporting A-Level Further Maths students.
+- **[Revision Village](https://www.revisionvillage.com)** - Video lessons and past papers for IB Math AA/AI HL.
+- **[Underground Mathematics](https://undergroundmathematics.org)** - Rich problem sets for A-Level Maths and Further Maths.
 
 </details>
 
