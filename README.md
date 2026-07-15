@@ -23,7 +23,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 > Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
 >
-> Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-student-resources/issues/new/choose) &middot; [Changelog](CHANGELOG.md)
+> Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-student-resources/issues/new/choose) &middot; [Ask a question](https://github.com/StudentSuite/awesome-student-resources/discussions) &middot; [Changelog](CHANGELOG.md)
 
 ---
 

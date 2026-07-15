@@ -4,6 +4,8 @@ This repository curates links only. The tool, channel, or book you add lives whe
 
 By participating, you're expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
+Have an open-ended question rather than a resource to add, a broken link, or a new-section proposal? Ask it in [Discussions](https://github.com/StudentSuite/awesome-student-resources/discussions) instead of opening an issue.
+
 ---
 
 ## Before you open a PR

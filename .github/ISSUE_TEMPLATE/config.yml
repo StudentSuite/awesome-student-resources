@@ -3,3 +3,6 @@ contact_links:
   - name: Contributing Guide
     url: https://github.com/StudentSuite/awesome-student-resources/blob/main/CONTRIBUTING.md
     about: Read this before adding a resource yourself via PR.
+  - name: Ask a question
+    url: https://github.com/StudentSuite/awesome-student-resources/discussions/categories/q-a
+    about: Have an open-ended question that isn't a resource suggestion, broken link, or new-section proposal? Ask it in Discussions instead.
