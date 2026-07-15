@@ -6,6 +6,10 @@
   // README.md opens with a centered logo block, not a heading.
   "MD041": false,
 
+  // CHANGELOG.md repeats "Added"/"Changed"/etc. under each version, which is the
+  // Keep a Changelog convention; only flag duplicate headings that are siblings.
+  "MD024": { "siblings_only": true },
+
   // Only allow the inline HTML this repo actually uses on purpose: the collapsible
   // per-section resource lists, and the light/dark logo picture in the header.
   "MD033": {

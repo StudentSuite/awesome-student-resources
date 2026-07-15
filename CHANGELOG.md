@@ -8,6 +8,14 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Added
+
+- `SECURITY.md` scoped to a curated list, and an `.editorconfig`, matching the
+  sibling awesome-skills-plugins-for-students list so both repos ship the same
+  OSS file set.
+- `MD024` (`siblings_only`) in the markdownlint config, so changelog entries
+  that repeat "Added"/"Changed" headings across versions lint clean.
+
 ## [1.0.0] - 2026-07-11
 
 ### Added
