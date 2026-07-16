@@ -1,0 +1,10 @@
+# Code owners for awesome-student-resources.
+#
+# Owners listed here are automatically requested for review when someone
+# opens a PR that touches matching paths. Order matters: the last matching
+# pattern wins.
+#
+# Docs: https://docs.github.com/repositories/managing-your-repos-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything in the repo.
+* @AnayDhawan
