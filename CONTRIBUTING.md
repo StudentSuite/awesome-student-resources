@@ -8,6 +8,15 @@ Have an open-ended question rather than a resource to add, a broken link, or a n
 
 ---
 
+## Finding an issue
+
+If you want to contribute but aren't sure where to start, check out our open issues:
+
+- If you're new to the project or open source, we recommend starting with issues labeled **good first issue**.
+- If you have more experience, you can also look for **help wanted** issues.
+
+---
+
 ## Before you open a PR
 
 Check the entry meets the [Quality Standards](README.md#quality-standards):
