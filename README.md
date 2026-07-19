@@ -315,6 +315,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[CORE Econ](https://www.core-econ.org)** - Free, modern economics textbook used worldwide.
+- **[Primate economics](https://www.youtube.com/@Primateeconomics)** - Basics of Economic theories explained in a comedic manner.
 - **[EconplusDal](https://www.youtube.com/@EconplusDal)** - Exam-focused economics tutorials for A-Level and IB.
 - **[Marginal Revolution University](https://mru.org)** - Free economics videos from working economists.
 - **[tutor2u](https://www.tutor2u.net)** - Notes, revision, and exam support for economics and business.
