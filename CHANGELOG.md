@@ -16,6 +16,18 @@ software), but releases are still tagged so changes are easy to point to.
 - `MD024` (`siblings_only`) in the markdownlint config, so changelog entries
   that repeat "Added"/"Changed" headings across versions lint clean.
 
+### Removed
+
+- NCERT (CBSE) and Clastify (Theory of Knowledge, Extended Essay). The
+  scheduled dead-link check couldn't reliably verify these from CI (a WAF
+  block and a network reset respectively, confirmed as false positives from
+  a normal network), so rather than carry permanent lint exceptions for
+  links our own tooling can't verify, they were removed instead.
+- Underground Mathematics (Further Mathematics). The site consistently timed
+  out (confirmed with repeated direct requests, up to 25s, not just from CI),
+  unlike the false positives above, so this one was a genuine dead/unreachable
+  link rather than an automated-traffic block.
+
 ## [1.0.0] - 2026-07-11
 
 ### Added

@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-242-blue)
+![Resources](https://img.shields.io/badge/resources-239-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 62 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 59 |
 | 📚 | [By Subject](#by-subject) | 71 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
@@ -119,7 +119,6 @@ Official and community prep for the big exams and curricula.
 <summary>Show resources</summary>
 
 - **[CBSE](https://www.cbse.gov.in)** - The official CBSE board site for syllabus, circulars, and sample papers.
-- **[NCERT](https://ncert.nic.in/textbook.php)** - Free official NCERT textbooks and solutions for every CBSE class.
 - **[Physics Wallah](https://www.pw.live)** - Free video lessons and notes for CBSE, JEE, and NEET (freemium).
 - **[Vedantu](https://www.vedantu.com/cbse)** - Free CBSE study material, sample papers, and NCERT solutions (freemium).
 
@@ -130,7 +129,6 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>Show resources</summary>
 
-- **[Clastify](https://www.clastify.com/ee)** - Examiner-verified Extended Essay examples across every IB subject (freemium).
 - **[IB Extended Essay](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/extended-essay/)** - The IB's official overview of the Extended Essay requirements and process.
 - **[Lanterna Education](https://lanterna.com/resources/ib-extended-essay-ee-guide)** - Free guide to choosing a topic and structuring an Extended Essay.
 - **[PrepScholar EE](https://blog.prepscholar.com/complete-guide-to-ib-extended-essay-tips-grading-guideline-and-sample-essays)** - Free guide covering EE grading, structure, and sample essays.
@@ -210,7 +208,6 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>Show resources</summary>
 
-- **[Clastify](https://www.clastify.com)** - Examiner-verified TOK essay and exhibition examples from real IB students (freemium).
 - **[IB Theory of Knowledge](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/theory-of-knowledge/)** - The IB's official overview of the TOK course, essay, and exhibition.
 - **[Theory of Knowledge](https://theoryofknowledge.net)** - Free video explainers and guides for the TOK essay and exhibition.
 - **[TOK Resource](https://www.tokresource.org)** - Free, non-commercial TOK concepts, prompts, and lesson ideas.
@@ -255,7 +252,6 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[ExamSolutions](https://www.examsolutions.net)** - Video tutorials covering A-Level Maths and Further Maths topics.
 - **[Further Mathematics Support Programme](https://furthermaths.org.uk)** - Resources and videos supporting A-Level Further Maths students.
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and past papers for IB Math AA/AI HL.
-- **[Underground Mathematics](https://undergroundmathematics.org)** - Rich problem sets for A-Level Maths and Further Maths.
 
 </details>
 

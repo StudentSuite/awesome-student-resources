@@ -50,7 +50,7 @@ Keep the description to one line, roughly 10 words or fewer. Lead with a verb wh
 Add your single bullet to the closest matching section:
 
 - Exam & Curriculum Prep (A-Level, ACT, AP, AP Computer Science, CBSE, Extended Essay, GCSE, IB, ICSE, IGCSE, SAT, Theory of Knowledge)
-- By Subject (Mathematics, Statistics, Physics, Chemistry, Biology, Computer Science, Economics, Business Studies, English Language and Literature, Foreign Languages, History, Geography, Environmental Systems & Societies, Psychology, Art, Music)
+- By Subject (Mathematics, Statistics, Further Mathematics, Physics, Chemistry, Biology, Computer Science, Economics, Business Studies, English Language and Literature, Foreign Languages, History, Geography, Environmental Systems & Societies, Psychology, Art, Music)
 - Notes & Knowledge Management
 - Flashcards & Spaced Repetition
 - Task, Time & Planning
@@ -80,6 +80,8 @@ If nothing fits, open an issue first to discuss a new section before adding one.
 3. In the PR description, link the resource and say in one sentence why it helps students.
 
 One entry per PR keeps review fast. Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
+
+If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.
 
 ---
 
