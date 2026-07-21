@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-239-blue)
+![Resources](https://img.shields.io/badge/resources-244-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 59 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 63 |
 | 📚 | [By Subject](#by-subject) | 71 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
@@ -41,7 +41,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 💻 | [Building Software / Learn to Code](#building-software--learn-to-code) | 9 |
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 4 |
-| 🎯 | [University & Career Prep](#university--career-prep) | 5 |
+| 🎯 | [University & Career Prep](#university--career-prep) | 6 |
 | 🔓 | [FOSS Picks](#foss-picks) | 6 |
 | 📺 | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
@@ -185,6 +185,18 @@ Official and community prep for the big exams and curricula.
 - **[Revision World](https://revisionworld.com)** - Free revision guides, quizzes, and past papers across IGCSE and GCSE subjects (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
 - **[ZNotes](https://znotes.org)** - Free community-written summary notes for Cambridge and Edexcel (free).
+
+</details>
+
+### PSAT
+
+<details open>
+<summary>Show resources</summary>
+
+- **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests (free).
+- **[College Board PSAT/NMSQT](https://satsuite.collegeboard.org/psat-nmsqt)** - The official overview, dates, and score info for the PSAT/NMSQT (free).
+- **[Khan Academy PSAT Practice](https://www.khanacademy.org/digital-sat)** - Free official practice built with College Board, aligned to the PSAT (free).
+- **[PrepScholar PSAT](https://www.prepscholar.com/psat-test-prep/)** - Free study guides, practice tests, and score strategies for the PSAT (free).
 
 </details>
 
@@ -587,6 +599,7 @@ What comes after exams: applications, resumes, and interviews.
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges (free).
 - **[Exponent](https://www.tryexponent.com/practice)** - Free peer and AI mock interviews for tech and PM roles (freemium).
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates (freemium).
+- **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses (free).
 - **[Yoodli](https://yoodli.ai)** - Free AI coach for interview and communication practice (freemium).
 
 </details>

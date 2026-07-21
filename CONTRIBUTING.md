@@ -51,7 +51,7 @@ Keep the description to one line, roughly 10 words or fewer. Lead with a verb wh
 
 Add your single bullet to the closest matching section:
 
-- Exam & Curriculum Prep (A-Level, ACT, AP, AP Computer Science, CBSE, Extended Essay, GCSE, IB, ICSE, IGCSE, SAT, Theory of Knowledge)
+- Exam & Curriculum Prep (A-Level, ACT, AP, AP Computer Science, CBSE, Extended Essay, GCSE, IB, ICSE, IGCSE, PSAT, SAT, Theory of Knowledge)
 - By Subject (Mathematics, Statistics, Further Mathematics, Physics, Chemistry, Biology, Computer Science, Economics, Business Studies, English Language and Literature, Foreign Languages, History, Geography, Environmental Systems & Societies, Psychology, Art, Music)
 - Notes & Knowledge Management
 - Flashcards & Spaced Repetition
