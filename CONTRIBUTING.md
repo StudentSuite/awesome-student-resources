@@ -89,7 +89,7 @@ If your PR removes an entry (dead link, discontinued service, no longer meets th
 
 ## CI checks
 
-A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.md. It verifies the entry format, alphabetical order, and that the Table of Contents matches the section headings. Run it yourself before opening a PR with:
+A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.md. It verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, and that descriptions don't use marketing adjectives ("amazing," "powerful," and similar; see the `BANNED_ADJECTIVES` list in the script). Run it yourself before opening a PR with:
 
 ```sh
 node scripts/check-list-format.mjs

@@ -4,6 +4,8 @@
 //   - entries within each list are sorted alphabetically, case-insensitive
 //   - no duplicate URLs within the same list
 //   - every section heading has a matching Table of Contents entry, and vice versa
+//   - no marketing adjectives in descriptions (CONTRIBUTING.md: "skip adjectives
+//     like 'amazing' or 'powerful'")
 
 import { readFileSync } from 'node:fs';
 
@@ -12,6 +14,44 @@ const readme = readFileSync(README_PATH, 'utf8');
 const lines = readme.split('\n');
 
 const errors = [];
+
+// Case-insensitive, whole-word/phrase. Extend this list as new marketing fluff
+// slips into a description; keep it to words CONTRIBUTING.md would actually reject.
+const BANNED_ADJECTIVES = [
+  'amazing',
+  'powerful',
+  'revolutionary',
+  'game-changing',
+  'game changer',
+  'incredible',
+  'unbelievable',
+  'cutting-edge',
+  'cutting edge',
+  'state-of-the-art',
+  'world-class',
+  'best-in-class',
+  'next-level',
+  'groundbreaking',
+  'innovative',
+  'unparalleled',
+  'unmatched',
+  'unrivaled',
+  'unrivalled',
+  'ultimate',
+  'must-have',
+  'life-changing',
+  'mind-blowing',
+  'top-notch',
+];
+
+function findBannedAdjective(desc) {
+  const lower = desc.toLowerCase();
+  for (const phrase of BANNED_ADJECTIVES) {
+    const pattern = new RegExp(`\\b${phrase.replace(/[- ]/g, '[- ]')}\\b`);
+    if (pattern.test(lower)) return phrase;
+  }
+  return null;
+}
 
 function slugify(text) {
   return text
@@ -71,7 +111,12 @@ for (let i = 0; i < lines.length; i++) {
       continue;
     }
     const item = line.match(/^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*-\s*(.+)$/);
-    currentItems.push({ name: item[1], url: item[2], line: i + 1 });
+    currentItems.push({ name: item[1], url: item[2], desc: item[3], line: i + 1 });
+
+    const banned = findBannedAdjective(item[3]);
+    if (banned) {
+      errors.push(`README.md:${i + 1}  Description uses a marketing adjective ("${banned}"): ${line}`);
+    }
   }
 }
 flushBlock();
