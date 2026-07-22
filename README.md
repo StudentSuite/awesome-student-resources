@@ -11,8 +11,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-248-blue)
-![Sections](https://img.shields.io/badge/sections-19-purple)
+![Resources](https://img.shields.io/badge/resources-253-blue)
+![Sections](https://img.shields.io/badge/sections-20-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
 </div>
@@ -42,6 +42,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 4 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 6 |
+| 🏠 | [Homeschooling](#homeschooling) | 5 |
 | 🔓 | [FOSS Picks](#foss-picks) | 6 |
 | 📺 | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
@@ -613,6 +614,23 @@ What comes after exams: applications, resumes, and interviews.
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates (freemium).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses (free).
 - **[Yoodli](https://yoodli.ai)** - Free AI coach for interview and communication practice (freemium).
+
+</details>
+
+---
+
+## Homeschooling
+
+Curriculum, planning, record-keeping, and the logistics of learning at home.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Ambleside Online](https://amblesideonline.org)** - Free, complete Charlotte Mason curriculum with book lists and schedules (free).
+- **[Easy Peasy All-in-One Homeschool](https://allinonehomeschool.com)** - Free, complete K-12 curriculum you can follow day by day (free).
+- **[Freedom Homeschooling](https://freedomhomeschooling.com)** - Free directory of free homeschool curricula sorted by subject (free).
+- **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state (free).
+- **[The Homeschool Mom](https://www.thehomeschoolmom.com)** - Free planners, record-keeping printables, and getting-started guides (free).
 
 </details>
 
