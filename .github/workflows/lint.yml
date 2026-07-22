@@ -6,6 +6,7 @@ on:
       - README.md
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
+      - scripts/update-counts.mjs
   push:
     branches:
       - main
@@ -13,6 +14,7 @@ on:
       - README.md
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
+      - scripts/update-counts.mjs
 
 jobs:
   check-list-format:
@@ -23,5 +25,8 @@ jobs:
         with:
           node-version: 20
       - run: node scripts/check-list-format.mjs
+      # Fails if the resource-count badge, sections badge, or Table of Contents
+      # counts have drifted; run `node scripts/update-counts.mjs` to regenerate.
+      - run: node scripts/update-counts.mjs --check
       # Informational only: reports cross-section URL reuse, never fails the job.
       - run: node scripts/audit-duplicate-urls.mjs

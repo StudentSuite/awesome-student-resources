@@ -95,6 +95,14 @@ A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.
 node scripts/check-list-format.mjs
 ```
 
+The header badges (`resources-N`, `sections-N`) and the per-section counts in the Table of Contents are generated, not hand-maintained. After adding or removing an entry, regenerate them with:
+
+```sh
+node scripts/update-counts.mjs
+```
+
+CI runs `node scripts/update-counts.mjs --check` and fails the build if any of those numbers have drifted, so don't edit them by hand.
+
 A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks every link in README.md, CONTRIBUTING.md, and CODE_OF_CONDUCT.md weekly using [lychee](https://github.com/lycheeverse/lychee), configured via `lychee.toml`. Some legitimate sites reject automated requests with a 403, so that status is accepted rather than treated as broken; see the comments in `lychee.toml` for the current exceptions.
 
 A third workflow (`.github/workflows/markdownlint.yml`) runs `markdownlint-cli2` on every Markdown file. Its config, `.markdownlint.jsonc`, turns off the rules that conflict with this repo's intentional style: long single-line entries (MD013) and the `<details>`/`<picture>` inline HTML used for collapsible sections and the logo (MD033, scoped to just those elements).
