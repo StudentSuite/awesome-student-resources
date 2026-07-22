@@ -1,0 +1,27 @@
+name: Pricing Review
+
+on:
+  schedule:
+    # 09:00 UTC on the 1st of each month
+    - cron: "0 9 1 * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  pricing-review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 20
+      - name: Build this month's review checklist
+        run: node scripts/pricing-review.mjs > pricing-review.md
+      - name: Open the review issue
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Monthly pricing re-review"
+          content-filepath: pricing-review.md
+          labels: pricing-review
