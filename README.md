@@ -11,8 +11,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-253-blue)
-![Sections](https://img.shields.io/badge/sections-20-purple)
+![Resources](https://img.shields.io/badge/resources-257-blue)
+![Sections](https://img.shields.io/badge/sections-21-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
 </div>
@@ -42,6 +42,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 4 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 6 |
+| 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 5 |
 | 🔓 | [FOSS Picks](#foss-picks) | 6 |
 | 📺 | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
@@ -614,6 +615,22 @@ What comes after exams: applications, resumes, and interviews.
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates (freemium).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses (free).
 - **[Yoodli](https://yoodli.ai)** - Free AI coach for interview and communication practice (freemium).
+
+</details>
+
+---
+
+## Debate & Public Speaking
+
+Argumentation, Model UN, and speaking skills that carry into essays and interviews.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Best Delegate](https://bestdelegate.com)** - Free Model UN guides, cheat sheets, and training resources (freemium).
+- **[IDEA Debatabase](https://idebate.net/resources/debatabase)** - Free database of arguments for and against 700+ debate motions (free).
+- **[National Speech & Debate Association](https://www.speechanddebate.org)** - Topic analysis, competition resources, and event guides (freemium).
+- **[Toastmasters International](https://www.toastmasters.org)** - Global public-speaking clubs and self-study materials (freemium).
 
 </details>
 
