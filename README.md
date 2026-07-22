@@ -11,8 +11,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-257-blue)
-![Sections](https://img.shields.io/badge/sections-21-purple)
+![Resources](https://img.shields.io/badge/resources-261-blue)
+![Sections](https://img.shields.io/badge/sections-22-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
 </div>
@@ -37,6 +37,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
 | ⏰ | [Task, Time & Planning](#task-time--planning) | 4 |
 | ✍️ | [Writing, Citations & Reference](#writing-citations--reference) | 4 |
+| ⚖️ | [AI & Academic Integrity](#ai--academic-integrity) | 4 |
 | 📐 | [Diagramming & STEM Tools](#diagramming--stem-tools) | 5 |
 | 💻 | [Building Software / Learn to Code](#building-software--learn-to-code) | 9 |
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
@@ -516,6 +517,22 @@ Draft, cite, and polish papers.
 - **[LanguageTool](https://languagetool.org)** - Free, open-source grammar and style checker (freemium).
 - **[Overleaf](https://www.overleaf.com)** - Collaborative online LaTeX editor for formatted papers (freemium).
 - **[Zotero](https://www.zotero.org)** - Free, open-source reference manager with one-click citations (free).
+
+</details>
+
+---
+
+## AI & Academic Integrity
+
+Know what's allowed, and how to cite AI-assisted work, before you submit.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[APA Style: Citing ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)** - Official APA guidance on citing AI-generated content (free).
+- **[IB AI Guidance](https://ibo.org/programmes/artificial-intelligence-ai-in-learning-teaching-and-assessment/)** - The IB's official position on using AI in coursework (free).
+- **[International Center for Academic Integrity](https://www.academicintegrity.org)** - Nonprofit resources on what integrity and misconduct mean (free).
+- **[MLA Style Center: Citing Generative AI](https://style.mla.org/citing-generative-ai-updated-revised/)** - Official MLA guidance on citing generative AI (free).
 
 </details>
 

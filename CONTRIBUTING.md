@@ -57,6 +57,7 @@ Add your single bullet to the closest matching section:
 - Flashcards & Spaced Repetition
 - Task, Time & Planning
 - Writing, Citations & Reference
+- AI & Academic Integrity
 - Diagramming & STEM Tools
 - Building Software / Learn to Code (Learn to Code, Coding Practice)
 - Student Discounts & Free Access
