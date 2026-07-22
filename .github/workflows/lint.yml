@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - README.md
+      - CONTRIBUTING.md
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs
@@ -12,6 +13,7 @@ on:
       - main
     paths:
       - README.md
+      - CONTRIBUTING.md
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs

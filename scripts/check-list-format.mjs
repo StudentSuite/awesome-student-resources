@@ -6,14 +6,28 @@
 //   - every section heading has a matching Table of Contents entry, and vice versa
 //   - no marketing adjectives in descriptions (CONTRIBUTING.md: "skip adjectives
 //     like 'amazing' or 'powerful'")
+//   - CONTRIBUTING.md's "Where it goes" list stays in sync with README's sections
 
 import { readFileSync } from 'node:fs';
 
 const README_PATH = new URL('../README.md', import.meta.url);
+const CONTRIBUTING_PATH = new URL('../CONTRIBUTING.md', import.meta.url);
 const readme = readFileSync(README_PATH, 'utf8');
 const lines = readme.split('\n');
 
 const errors = [];
+
+// README `##` headings that are front-matter/footer, not resource categories a
+// contributor would add to. Everything else must appear in CONTRIBUTING.md's
+// "Where it goes" list (and vice versa). Add here when a new meta section lands.
+const NON_CONTENT_SECTIONS = new Set([
+  'Table of Contents',
+  'More from StudentSuite',
+  'A Note on Links',
+  'Quality Standards',
+  'Contributing',
+  'License',
+]);
 
 // Case-insensitive, whole-word/phrase. Extend this list as new marketing fluff
 // slips into a description; keep it to words CONTRIBUTING.md would actually reject.
@@ -164,6 +178,50 @@ for (const heading of realHeadings) {
 for (const entry of tocEntries) {
   if (!realHeadings.some((h) => slugify(h.text) === entry.slug)) {
     errors.push(`Table of Contents entry "${entry.text}" (#${entry.slug}) doesn't match any section heading.`);
+  }
+}
+
+// --- Rule: CONTRIBUTING.md's "Where it goes" list matches README's content sections ---
+// The README content sections, in document order.
+const readmeSections = h2Headings.map((h) => h.text).filter((t) => !NON_CONTENT_SECTIONS.has(t));
+
+const contributing = readFileSync(CONTRIBUTING_PATH, 'utf8').split('\n');
+const whereStart = contributing.findIndex((l) => /^##\s+Where it goes\s*$/.test(l));
+if (whereStart === -1) {
+  errors.push(`CONTRIBUTING.md is missing a "## Where it goes" section.`);
+} else {
+  const whereEnd = contributing.findIndex((l, i) => i > whereStart && l.startsWith('## '));
+  const whereLines = contributing.slice(whereStart + 1, whereEnd === -1 ? undefined : whereEnd);
+  // Bullet section names, with any trailing " (...)" note stripped off.
+  const contributingSections = whereLines
+    .map((l) => l.match(/^- (.+)$/))
+    .filter(Boolean)
+    .map((m) => m[1].replace(/\s*\([^)]*\)\s*$/, '').trim());
+
+  const readmeSet = new Set(readmeSections);
+  const contributingSet = new Set(contributingSections);
+
+  for (const s of readmeSections) {
+    if (!contributingSet.has(s)) {
+      errors.push(`Section "${s}" is a README content section but is missing from CONTRIBUTING.md's "Where it goes" list.`);
+    }
+  }
+  for (const s of contributingSections) {
+    if (!readmeSet.has(s)) {
+      errors.push(`"Where it goes" in CONTRIBUTING.md lists "${s}", which isn't a README content section (renamed, removed, or add it to NON_CONTENT_SECTIONS).`);
+    }
+  }
+  // Same membership but different order: flag so the two lists read the same top to bottom.
+  if (
+    readmeSet.size === contributingSet.size &&
+    [...readmeSet].every((s) => contributingSet.has(s)) &&
+    JSON.stringify(readmeSections) !== JSON.stringify(contributingSections)
+  ) {
+    errors.push(
+      `CONTRIBUTING.md's "Where it goes" list is in a different order than README's sections.\n` +
+        `    README:       ${readmeSections.join(', ')}\n` +
+        `    CONTRIBUTING: ${contributingSections.join(', ')}`
+    );
   }
 }
 
