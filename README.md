@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-244-blue)
+![Resources](https://img.shields.io/badge/resources-248-blue)
 ![Sections](https://img.shields.io/badge/sections-19-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,7 +31,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 63 |
+| 📝 | [Exam & Curriculum Prep](#exam--curriculum-prep) | 67 |
 | 📚 | [By Subject](#by-subject) | 71 |
 | 🗒️ | [Notes & Knowledge Management](#notes--knowledge-management) | 6 |
 | 🧠 | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 4 |
@@ -110,6 +110,18 @@ Official and community prep for the big exams and curricula.
 - **[CodeHS](https://codehs.com)** - College Board-endorsed AP CSA and CSP curriculum (paid; often free via school license).
 - **[CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html)** - Free, open Java textbook and practice for the AP CSA exam (free).
 - **[Khan Academy AP Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)** - Free lessons and practice for the AP CSP exam (free).
+
+</details>
+
+### CAS
+
+<details open>
+<summary>Show resources</summary>
+
+- **[IB Creativity, Activity, Service](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/creativity-activity-and-service/)** - The IB's official overview of CAS and its seven learning outcomes (free).
+- **[Lanterna Education](https://lanterna.com/resources/the-basics-of-ib-cas)** - Free guide to CAS experiences, the project, and reflections (free).
+- **[Rustic Pathways](https://rusticpathways.com/educational-travel/cas-project-ideas)** - Free list of 100+ CAS project ideas across all three strands (free).
+- **[TutorChase](https://www.tutorchase.com/blog/ib-cas-creativity-activity-service-a-complete-guide)** - Free end-to-end guide to planning and documenting CAS (free).
 
 </details>
 
