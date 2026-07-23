@@ -27,7 +27,7 @@ jobs:
             for how this list is maintained.
           pr_message: >
             Thanks for your first PR! A couple of things that'll speed up review:
-            keep it to one resource per PR, place your entry in its correct
+            place your entry in its correct
             alphabetical position, and make sure it meets the
             [Quality Standards](https://github.com/StudentSuite/awesome-student-resources/blob/main/README.md#quality-standards)
             (real, maintained, reputable, with pricing noted). CI will check the entry

@@ -69,11 +69,11 @@ If nothing fits, open an issue first to discuss a new section before adding one.
 
 ## Submitting
 
-1. Fork the repo, add your single bullet in the right section, in its correct alphabetical position.
+1. Fork the repo, add your entries in the right section, in their correct alphabetical position.
 2. Open a PR titled `Add resource: Name`.
 3. In the PR description, link the resource and say in one sentence why it helps students.
 
-One entry per PR keeps review fast. Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
+Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
 
 If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.
 
