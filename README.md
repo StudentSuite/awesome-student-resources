@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-71-blue)
+![Resources](https://img.shields.io/badge/resources-67-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎯 | [University & Career Prep](#university--career-prep) | 6 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 5 |
-| 🔓 | [FOSS Picks](#foss-picks) | 8 |
+| 🔓 | [FOSS Picks](#foss-picks) | 11 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 5 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 4 |
