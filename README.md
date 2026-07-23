@@ -145,8 +145,8 @@ Fully free and open-source tools worth installing.
 - **[Joplin](https://joplinapp.org)** - Free, open note-taking app with markdown and sync (free).
 - **[Krita](https://krita.org)** - Free, open painting and illustration app (free).
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides (free).
-- **[Okular](https://okular.kde.org)** - Free, open universal document viewer with annotations (free).
 - **[OBS Studio](https://obsproject.com)** - Free, open screen recording and live streaming (free).
+- **[Okular](https://okular.kde.org)** - Free, open universal document viewer with annotations (free).
 - **[Vikunja](https://vikunja.io)** - Free, open task and project manager (free).
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager (free).
 
