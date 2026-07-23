@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-72-blue)
+![Resources](https://img.shields.io/badge/resources-73-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
-| 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 6 |
+| 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 7 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 6 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 5 |
@@ -76,6 +76,7 @@ Legitimate, fee-free places to find money for school.
 - **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide.
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners (free).
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans (free).
+- **[International Scholarships](https://www.internationalscholarships.com)** - Free searchable database of global scholarships for international students (free).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants (free).
 
 </details>
