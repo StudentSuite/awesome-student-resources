@@ -72,8 +72,8 @@ Legitimate, fee-free places to find money for school.
 <summary>Show resources</summary>
 
 - **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily (free).
-- **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide.
 - **[Chevening Scholarships](https://www.chevening.org)** - UK government scholarship for future leaders to study in the UK.
+- **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide.
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners (free).
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans (free).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants (free).
