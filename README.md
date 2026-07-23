@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-74-blue)
+![Resources](https://img.shields.io/badge/resources-75-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -129,6 +129,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[Freedom Homeschooling](https://freedomhomeschooling.com)** - Free directory of free homeschool curricula sorted by subject (free).
 - **[GOV.UK Home Education](https://www.gov.uk/home-education)** - Official UK government guidance on home education rights.
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state (free).
+- **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance.
 - **[The Homeschool Mom](https://www.thehomeschoolmom.com)** - Free planners, record-keeping printables, and getting-started guides (free).
 
 </details>
