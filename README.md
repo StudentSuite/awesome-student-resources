@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-70-blue)
+![Resources](https://img.shields.io/badge/resources-65-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎯 | [University & Career Prep](#university--career-prep) | 6 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 5 |
-| 🔓 | [FOSS Picks](#foss-picks) | 11 |
+| 🔓 | [FOSS Picks](#foss-picks) | 6 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 5 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 4 |
@@ -139,15 +139,10 @@ Fully free and open-source tools worth installing.
 <summary>Show resources</summary>
 
 - **[Anki](https://apps.ankiweb.net)** - Free, open spaced-repetition flashcards (free).
-- **[FreeMind](https://freemind.sourceforge.net)** - Free, open mind-mapping and brainstorming tool (free).
 - **[GIMP](https://www.gimp.org)** - Free, open image editor (free).
 - **[Inkscape](https://inkscape.org)** - Free, open vector graphics editor (free).
-- **[Joplin](https://joplinapp.org)** - Free, open note-taking app with markdown and sync (free).
 - **[Krita](https://krita.org)** - Free, open painting and illustration app (free).
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides (free).
-- **[OBS Studio](https://obsproject.com)** - Free, open screen recording and live streaming (free).
-- **[Okular](https://okular.kde.org)** - Free, open universal document viewer with annotations (free).
-- **[Vikunja](https://vikunja.io)** - Free, open task and project manager (free).
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager (free).
 
 </details>
