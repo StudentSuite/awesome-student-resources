@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-71-blue)
+![Resources](https://img.shields.io/badge/resources-72-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
-| 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 5 |
+| 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 6 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 6 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 5 |
