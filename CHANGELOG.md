@@ -18,6 +18,14 @@ software), but releases are still tagged so changes are easy to point to.
 
 ### Removed
 
+- Exam & Curriculum Prep, By Subject, Notes & Knowledge Management,
+  Flashcards & Spaced Repetition, Task/Time & Planning, Writing/Citations &
+  Reference, AI & Academic Integrity, Diagramming & STEM Tools, Building
+  Software / Learn to Code, YouTube Channels We Trust, and Great Textbooks.
+  This content now lives in the new sibling list
+  [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources),
+  linked from More from StudentSuite; this repo keeps the sections about life
+  around school rather than the curriculum itself.
 - NCERT (CBSE) and Clastify (Theory of Knowledge, Extended Essay). The
   scheduled dead-link check couldn't reliably verify these from CI (a WAF
   block and a network reset respectively, confirmed as false positives from

@@ -51,30 +51,19 @@ Keep the description to one line, roughly 10 words or fewer. Lead with a verb wh
 
 Add your single bullet to the closest matching section:
 
-- Exam & Curriculum Prep (A-Level, ACT, AP, AP Computer Science, CAS, Extended Essay, GCSE, IB, IGCSE, PSAT, SAT, Theory of Knowledge)
-- By Subject (Mathematics, Statistics, Further Mathematics, Physics, Chemistry, Biology, Computer Science, Economics, Business Studies, English Language and Literature, Foreign Languages, History, Geography, Environmental Systems & Societies, Psychology, Art, Music)
-- Notes & Knowledge Management
-- Flashcards & Spaced Repetition
-- Task, Time & Planning
-- Writing, Citations & Reference
-- AI & Academic Integrity
-- Diagramming & STEM Tools
-- Building Software / Learn to Code (Learn to Code, Coding Practice)
 - Student Discounts & Free Access
 - Scholarships & Financial Aid
 - University & Career Prep
 - Debate & Public Speaking
 - Homeschooling
 - FOSS Picks (fully free and open source only)
-- YouTube Channels We Trust
 - Blogs, Newsletters & Podcasts
 - Books We Trust (study skill and mindset books)
-- Great Textbooks (subject textbooks)
 - Guides & How-Tos
 - Mental Health & Wellbeing
 - Communities
 
-If nothing fits, open an issue first to discuss a new section before adding one.
+If nothing fits, open an issue first to discuss a new section before adding one. Exam, curriculum, and subject-study resources now live in [Awesome Study Resources](https://github.com/StudentSuite/awesome-study-resources) instead.
 
 ---
 
