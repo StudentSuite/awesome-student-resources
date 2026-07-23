@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-65-blue)
+![Resources](https://img.shields.io/badge/resources-66-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎯 | [University & Career Prep](#university--career-prep) | 6 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 5 |
-| 🔓 | [FOSS Picks](#foss-picks) | 6 |
+| 🔓 | [FOSS Picks](#foss-picks) | 7 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 5 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 4 |
@@ -143,6 +143,7 @@ Fully free and open-source tools worth installing.
 - **[Inkscape](https://inkscape.org)** - Free, open vector graphics editor (free).
 - **[Krita](https://krita.org)** - Free, open painting and illustration app (free).
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides (free).
+- **[Okular](https://okular.kde.org)** - Free, open universal document viewer with annotations (free).
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager (free).
 
 </details>
