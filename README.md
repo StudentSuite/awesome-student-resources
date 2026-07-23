@@ -35,7 +35,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 7 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 6 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
-| 🏠 | [Homeschooling](#homeschooling) | 6 |
+| 🏠 | [Homeschooling](#homeschooling) | 7 |
 | 🔓 | [FOSS Picks](#foss-picks) | 11 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 5 |
