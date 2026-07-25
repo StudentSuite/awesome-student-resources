@@ -20,7 +20,7 @@ jobs:
       - name: Build this month's review checklist
         run: node scripts/pricing-review.mjs > pricing-review.md
       - name: Open the review issue
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: "Monthly pricing re-review"
           content-filepath: pricing-review.md
