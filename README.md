@@ -11,8 +11,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-78-blue)
-![Sections](https://img.shields.io/badge/sections-11-purple)
+![Resources](https://img.shields.io/badge/resources-83-blue)
+![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
 </div>
@@ -33,6 +33,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | :-: | --- | :-: |
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 6 |
+| 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 5 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 10 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 7 |
@@ -77,6 +78,23 @@ Legitimate, fee-free places to find money for school.
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans (free).
 - **[International Scholarships](https://www.internationalscholarships.com)** - Free searchable database of global scholarships for international students (free).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants (free).
+
+</details>
+
+---
+
+## Financial Literacy & Money Management
+
+Budgeting, credit, and banking basics for the money you already have.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Credit Karma](https://www.creditkarma.com)** - Free credit score monitoring and personalized financial guidance (free).
+- **[Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)** - Free course covering budgeting, credit, and investing basics (free).
+- **[Money Saving Expert](https://www.moneysavingexpert.com)** - Martin Lewis's free UK consumer and student money guidance (free).
+- **[MyMoney.gov](https://www.mymoney.gov)** - The official US government financial literacy hub (free).
+- **[YNAB](https://www.ynab.com)** - Budgeting app with a free year-long trial for verified students (freemium).
 
 </details>
 

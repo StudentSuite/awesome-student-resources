@@ -53,6 +53,7 @@ Add your single bullet to the closest matching section:
 
 - Student Discounts & Free Access
 - Scholarships & Financial Aid
+- Financial Literacy & Money Management
 - University & Career Prep
 - Debate & Public Speaking
 - Homeschooling
