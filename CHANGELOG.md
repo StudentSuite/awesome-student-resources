@@ -18,6 +18,12 @@ software), but releases are still tagged so changes are easy to point to.
 
 ### Removed
 
+- Chevening Scholarships (Scholarships & Financial Aid). The scheduled
+  dead-link check flagged an HTTP/2 protocol error; manually confirmed (curl,
+  both HTTP/1.1 and HTTP/2, plus a separate fetch from a different network)
+  that the CDN edge responds but the origin never returns a response for the
+  actual page, unlike the bot-detection false positives elsewhere in this
+  file. Treated as a genuine outage rather than an exception to carry.
 - Exam & Curriculum Prep, By Subject, Notes & Knowledge Management,
   Flashcards & Spaced Repetition, Task/Time & Planning, Writing/Citations &
   Reference, AI & Academic Integrity, Diagramming & STEM Tools, Building

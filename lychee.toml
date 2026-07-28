@@ -18,6 +18,13 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # autodesk.com: manually verified (curl, both HTTP/1.1 and HTTP/2) to return a 403 like the
 # other bot-blocked domains above, but lychee's HTTP client fails to negotiate HTTP/2 with
 # this specific server and errors before it can even read the status code.
+#
+# freedomhomeschooling.com: CI got a 401, but manually verified (curl, 3 consecutive
+# requests with the configured browser user agent) to return a clean 200 with real content.
+# Looks like bot-detection keyed on the GitHub Actions runner IP range rather than an
+# actual outage, so excluding rather than accepting 401 globally (a status too easily
+# masking a genuinely gated resource elsewhere).
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
+  "https://freedomhomeschooling.com/",
 ]
