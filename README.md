@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-75-blue)
+![Resources](https://img.shields.io/badge/resources-79-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | :-: | --- | :-: |
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 5 |
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 7 |
-| 🎯 | [University & Career Prep](#university--career-prep) | 6 |
+| 🎯 | [University & Career Prep](#university--career-prep) | 10 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 7 |
 | 🔓 | [FOSS Picks](#foss-picks) | 11 |
@@ -85,7 +85,9 @@ Legitimate, fee-free places to find money for school.
 
 ## University & Career Prep
 
-What comes after exams: applications, resumes, and interviews.
+What comes after exams: applications, resumes, interviews, and time away from the classroom.
+
+### Applications & Resumes
 
 <details open>
 <summary>Show resources</summary>
@@ -96,6 +98,18 @@ What comes after exams: applications, resumes, and interviews.
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates (freemium).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses (free).
 - **[Yoodli](https://yoodli.ai)** - Free AI coach for interview and communication practice (freemium).
+
+</details>
+
+### Gap Year & Study Abroad
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Diversity Abroad](https://www.diversityabroad.org)** - Study abroad and global program directory focused on accessibility (free).
+- **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program (free).
+- **[Gap Year Association](https://usagapyearassociations.org)** - Accredited gap year program directory and planning resources (free).
+- **[GoAbroad](https://www.goabroad.com)** - Directory of study abroad, volunteer, and internship programs worldwide (freemium).
 
 </details>
 
