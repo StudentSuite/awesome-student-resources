@@ -80,7 +80,7 @@ export function compareNames(a, b) {
 
 // Pure: takes the two file contents, returns an array of human-readable errors.
 export function checkListFormat(readmeText, contributingText) {
-  const lines = readmeText.split('\n');
+  const lines = readmeText.split(/\r?\n/);
   const errors = [];
 
   // --- Parse headings and resource-list blocks (the "<details>" sections) ---
@@ -188,7 +188,7 @@ export function checkListFormat(readmeText, contributingText) {
   // The README content sections, in document order.
   const readmeSections = h2Headings.map((h) => h.text).filter((t) => !NON_CONTENT_SECTIONS.has(t));
 
-  const contributing = contributingText.split('\n');
+  const contributing = contributingText.split(/\r?\n/);
   const whereStart = contributing.findIndex((l) => /^##\s+Where it goes\s*$/.test(l));
   if (whereStart === -1) {
     errors.push(`CONTRIBUTING.md is missing a "## Where it goes" section.`);

@@ -28,7 +28,7 @@ function slugify(text) {
 // Pure: returns { updated, problems }. `updated` is README text with every derived
 // count corrected; `problems` lists each count that was wrong (empty = all correct).
 export function applyCounts(readmeText) {
-  const lines = readmeText.split('\n');
+  const lines = readmeText.split(/\r?\n/);
 
   // --- Count entries per top-level (##) section, and the grand total ---
   const sectionCounts = new Map(); // slug -> entry count
