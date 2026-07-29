@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-88-blue)
+![Resources](https://img.shields.io/badge/resources-89-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -37,7 +37,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎯 | [University & Career Prep](#university--career-prep) | 10 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 7 |
-| 🔓 | [FOSS Picks](#foss-picks) | 11 |
+| 🔓 | [FOSS Picks](#foss-picks) | 12 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 5 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 4 |
@@ -45,6 +45,8 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 👥 | [Communities](#communities) | 9 |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
+
+> Looking for quiet study spots or exam locations? [StudyMap](https://github.com/StudentSuite/StudyMap) is a crowdsourced map of student-important places like libraries and exam centres.
 
 ---
 
@@ -188,6 +190,7 @@ Fully free and open-source tools worth installing.
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides (free).
 - **[OBS Studio](https://obsproject.com)** - Free, open screen recording and live streaming (free).
 - **[Okular](https://okular.kde.org)** - Free, open universal document viewer with annotations (free).
+- **[StudyMap](https://github.com/StudentSuite/StudyMap)** - Crowdsourced map of student-important places like exam centres and libraries (free).
 - **[Vikunja](https://vikunja.io)** - Free, open task and project manager (free).
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager (free).
 

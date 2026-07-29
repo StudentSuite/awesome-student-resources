@@ -19,7 +19,7 @@ export const BATCH_SIZE = 15;
 // `tag` is the trailing (free|freemium|paid) if present, else null.
 // `section` is the nearest preceding heading (## or ###).
 export function parseEntries(readmeText) {
-  const lines = readmeText.split('\n');
+  const lines = readmeText.split(/\r?\n/);
   const entries = [];
   let section = null;
 
