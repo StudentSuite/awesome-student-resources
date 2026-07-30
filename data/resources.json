@@ -568,6 +568,14 @@
     "subsection": null
   },
   {
+    "name": "Cornell Note-Taking System",
+    "url": "https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/",
+    "description": "Cornell University's official guide to the Cornell note-taking method",
+    "pricing": "free",
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
     "name": "How to Remember Anything Forever-ish",
     "url": "https://ncase.me/remember/",
     "description": "Playable primer on spaced repetition",
@@ -580,6 +588,22 @@
     "url": "https://www.coursera.org/learn/learning-how-to-learn",
     "description": "The popular free course on how learning works",
     "pricing": "freemium",
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
+    "name": "Pomodoro Technique",
+    "url": "https://francescocirillo.com/pages/pomodoro-technique",
+    "description": "Francesco Cirillo's official guide to the Pomodoro time-management method",
+    "pricing": "free",
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
+    "name": "Zettelkasten.de",
+    "url": "https://zettelkasten.de",
+    "description": "In-depth guide to the Zettelkasten note-taking and thinking method",
+    "pricing": "free",
     "section": "Guides & How-Tos",
     "subsection": null
   },

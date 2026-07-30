@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-91-blue)
+![Resources](https://img.shields.io/badge/resources-94-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🔓 | [FOSS Picks](#foss-picks) | 12 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 5 |
-| 💡 | [Guides & How-Tos](#guides--how-tos) | 4 |
+| 💡 | [Guides & How-Tos](#guides--how-tos) | 7 |
 | 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 4 |
 | 👥 | [Communities](#communities) | 11 |
 
@@ -246,8 +246,11 @@ Meta-skills: how to study, remember, and focus.
 
 - **[Ali Abdaal](https://aliabdaal.com)** - Evidence-based study and productivity guides (free).
 - **[Anki Manual](https://docs.ankiweb.net/)** - The official guide to spaced repetition with Anki (free).
+- **[Cornell Note-Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)** - Cornell University's official guide to the Cornell note-taking method (free).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition (free).
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works (freemium).
+- **[Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)** - Francesco Cirillo's official guide to the Pomodoro time-management method (free).
+- **[Zettelkasten.de](https://zettelkasten.de)** - In-depth guide to the Zettelkasten note-taking and thinking method (free).
 
 </details>
 
