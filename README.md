@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-94-blue)
+![Resources](https://img.shields.io/badge/resources-95-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🏠 | [Homeschooling](#homeschooling) | 7 |
 | 🔓 | [FOSS Picks](#foss-picks) | 12 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
-| 📖 | [Books We Trust](#books-we-trust) | 5 |
+| 📖 | [Books We Trust](#books-we-trust) | 6 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 7 |
 | 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 4 |
 | 👥 | [Communities](#communities) | 11 |
@@ -232,6 +232,7 @@ Study skill and mindset books worth your time.
 - **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction (paid).
 - **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system (paid).
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning (paid).
+- **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets (paid).
 
 </details>
 
