@@ -5,6 +5,9 @@ import {
   slugify,
   compareNames,
   findBannedAdjective,
+  countDescriptionWords,
+  checkDescriptionLengths,
+  DESCRIPTION_WORD_WARNING_THRESHOLD,
 } from './check-list-format.mjs';
 
 // A minimal, fully-valid README + CONTRIBUTING pair. Each negative test starts
@@ -177,4 +180,38 @@ test('findBannedAdjective matches hyphen and space variants, respects word bound
   assert.equal(findBannedAdjective('a game changing tool'), 'game-changing');
   assert.equal(findBannedAdjective('reliable power tools listed here'), null);
   assert.equal(findBannedAdjective('clear, plain description'), null);
+});
+
+test('countDescriptionWords ignores the trailing pricing tag and period', () => {
+  assert.equal(countDescriptionWords('One two three (free).'), 3);
+  assert.equal(countDescriptionWords('One two three (freemium).'), 3);
+  assert.equal(countDescriptionWords('One two three.'), 3);
+});
+
+test('checkDescriptionLengths is silent for descriptions at or under the threshold', () => {
+  const readme = `## Alpha
+
+- **[Apple](https://apple.example)** - ${'word '.repeat(DESCRIPTION_WORD_WARNING_THRESHOLD).trim()} (free).
+`;
+  assert.deepEqual(checkDescriptionLengths(readme), []);
+});
+
+test('checkDescriptionLengths warns once a description runs past the threshold', () => {
+  const longDesc = 'word '.repeat(DESCRIPTION_WORD_WARNING_THRESHOLD + 1).trim();
+  const readme = `## Alpha
+
+- **[Apple](https://apple.example)** - ${longDesc} (free).
+`;
+  const warnings = checkDescriptionLengths(readme);
+  assert.equal(warnings.length, 1);
+  assert.match(warnings[0], /"Apple" description is \d+ words/);
+});
+
+test('checkListFormat does not fail on an over-length description (advisory only)', () => {
+  const longDesc = 'word '.repeat(DESCRIPTION_WORD_WARNING_THRESHOLD + 5).trim();
+  const readme = VALID_README.replace(
+    '- **[Apple](https://apple.example)** - A fruit tool (free).',
+    `- **[Apple](https://apple.example)** - ${longDesc} (free).`
+  );
+  assert.deepEqual(errorsFor(readme), []);
 });

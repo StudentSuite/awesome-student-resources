@@ -18,6 +18,10 @@ Validates README.md against the rules in CONTRIBUTING.md:
 - CONTRIBUTING.md's "Where it goes" list stays in sync with README's section
   headings (same names, same order)
 
+It also prints an advisory (non-fatal) warning for any description running
+significantly past the ~10-word guideline (`DESCRIPTION_WORD_WARNING_THRESHOLD`,
+currently 15) — these are printed but never fail the build.
+
 ```sh
 node scripts/check-list-format.mjs
 ```

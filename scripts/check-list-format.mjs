@@ -231,6 +231,40 @@ export function checkListFormat(readmeText, contributingText) {
   return errors;
 }
 
+// CONTRIBUTING.md's guideline is "roughly 10 words or fewer." Only warn once an
+// entry runs significantly past that, so normal variance doesn't nag every review.
+export const DESCRIPTION_WORD_WARNING_THRESHOLD = 15;
+
+// Pure: word count of a description, with the trailing pricing tag and
+// closing period stripped so neither counts toward the guideline.
+export function countDescriptionWords(description) {
+  const stripped = description
+    .replace(/\s*\((free|freemium|paid)\)\.$/, '')
+    .replace(/\.$/, '')
+    .trim();
+  return stripped ? stripped.split(/\s+/).length : 0;
+}
+
+// Pure: returns a warning string per entry whose description runs
+// significantly past the ~10-word guideline. Separate from checkListFormat's
+// errors on purpose — this is advisory (surfaced during review), not a CI
+// failure, since word count alone doesn't make an entry wrong.
+export function checkDescriptionLengths(readmeText) {
+  const lines = readmeText.split('\n');
+  const warnings = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    const m = lines[i].match(/^- \*\*\[(.+?)\]\(.+?\)\*\*\s*-\s*(.+)$/);
+    if (!m) continue;
+    const [, name, desc] = m;
+    const words = countDescriptionWords(desc);
+    if (words > DESCRIPTION_WORD_WARNING_THRESHOLD) {
+      warnings.push(`README.md:${i + 1}  "${name}" description is ${words} words (guideline is ~10 or fewer): ${desc}`);
+    }
+  }
+  return warnings;
+}
+
 // --- CLI (runs only when this file is executed directly, not when imported) ---
 function invokedDirectly() {
   return process.argv[1] && realpathSync(process.argv[1]) === realpathSync(fileURLToPath(import.meta.url));
@@ -247,5 +281,12 @@ if (invokedDirectly()) {
     process.exit(1);
   } else {
     console.log('✔ README.md list format, alphabetical order, and Table of Contents all check out.');
+  }
+
+  // Advisory only: never fails the build, just surfaces drift during review.
+  const warnings = checkDescriptionLengths(readFileSync(README_PATH, 'utf8'));
+  if (warnings.length) {
+    console.warn(`\n⚠ ${warnings.length} description(s) run well past the ~10-word guideline:\n`);
+    for (const w of warnings) console.warn(`  ${w}\n`);
   }
 }
