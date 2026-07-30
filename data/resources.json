@@ -264,6 +264,22 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "New Colombo Plan",
+    "url": "https://www.dfat.gov.au/people-to-people/new-colombo-plan",
+    "description": "Australian government program funding study and internships across the Indo-Pacific",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
+    "name": "Turing Scheme",
+    "url": "https://www.turing-scheme.org.uk",
+    "description": "The UK's official global study and work abroad funding scheme",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "Best Delegate",
     "url": "https://bestdelegate.com",
     "description": "Free Model UN guides, cheat sheets, and training resources",

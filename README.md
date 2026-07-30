@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-99-blue)
+![Resources](https://img.shields.io/badge/resources-101-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 10 |
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 6 |
 | 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 7 |
-| 🎯 | [University & Career Prep](#university--career-prep) | 10 |
+| 🎯 | [University & Career Prep](#university--career-prep) | 12 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 7 |
 | 🔓 | [FOSS Picks](#foss-picks) | 12 |
@@ -136,6 +136,8 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program (free).
 - **[Gap Year Association](https://usagapyearassociations.org)** - Accredited gap year program directory and planning resources (free).
 - **[GoAbroad](https://www.goabroad.com)** - Directory of study abroad, volunteer, and internship programs worldwide (freemium).
+- **[New Colombo Plan](https://www.dfat.gov.au/people-to-people/new-colombo-plan)** - Australian government program funding study and internships across the Indo-Pacific (free).
+- **[Turing Scheme](https://www.turing-scheme.org.uk)** - The UK's official global study and work abroad funding scheme (free).
 
 </details>
 
