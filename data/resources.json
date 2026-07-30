@@ -152,9 +152,25 @@
     "subsection": null
   },
   {
+    "name": "MoneySmart",
+    "url": "https://moneysmart.gov.au",
+    "description": "The Australian government's official financial literacy and calculator hub",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "MyMoney.gov",
     "url": "https://www.mymoney.gov",
     "description": "The official US government financial literacy hub",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
+    "name": "Practical Money Skills",
+    "url": "https://www.practicalmoneyskills.com",
+    "description": "Visa's free global financial literacy program and resources",
     "pricing": "free",
     "section": "Financial Literacy & Money Management",
     "subsection": null

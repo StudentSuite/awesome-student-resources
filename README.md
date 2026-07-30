@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-97-blue)
+![Resources](https://img.shields.io/badge/resources-99-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | :-: | --- | :-: |
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 10 |
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 6 |
-| 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 5 |
+| 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 7 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 10 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 7 |
@@ -100,7 +100,9 @@ Budgeting, credit, and banking basics for the money you already have.
 - **[Credit Karma](https://www.creditkarma.com)** - Free credit score monitoring and personalized financial guidance (free).
 - **[Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)** - Free course covering budgeting, credit, and investing basics (free).
 - **[Money Saving Expert](https://www.moneysavingexpert.com)** - Martin Lewis's free UK consumer and student money guidance (free).
+- **[MoneySmart](https://moneysmart.gov.au)** - The Australian government's official financial literacy and calculator hub (free).
 - **[MyMoney.gov](https://www.mymoney.gov)** - The official US government financial literacy hub (free).
+- **[Practical Money Skills](https://www.practicalmoneyskills.com)** - Visa's free global financial literacy program and resources (free).
 - **[YNAB](https://www.ynab.com)** - Budgeting app with a free year-long trial for verified students (freemium).
 
 </details>
