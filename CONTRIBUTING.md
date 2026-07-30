@@ -114,6 +114,12 @@ A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks e
 
 A third workflow (`.github/workflows/markdownlint.yml`) runs `markdownlint-cli2` on every Markdown file. Its config, `.markdownlint.jsonc`, turns off the rules that conflict with this repo's intentional style: long single-line entries (MD013) and the `<details>`/`<picture>` inline HTML used for collapsible sections and the logo (MD033, scoped to just those elements).
 
+A fourth workflow (`.github/workflows/spellcheck.yml`) runs [codespell](https://github.com/codespell-project/codespell) over README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, and CHANGELOG.md. Tool and channel names occasionally look like typos to a spellchecker; add them to `.codespellignore` (one word per line) rather than disabling the check. Run it yourself with:
+
+```sh
+codespell README.md CONTRIBUTING.md CODE_OF_CONDUCT.md CHANGELOG.md --ignore-words=.codespellignore
+```
+
 The lint workflow also runs `scripts/audit-duplicate-urls.mjs`, which reports every URL used more than once anywhere in README.md. This is informational only and never fails the build: the same resource legitimately appears in more than one section (e.g. Physics & Maths Tutor under both A-Level and IGCSE), so a duplicate URL isn't a bug on its own, just something worth a glance during review.
 
 The lint scripts have their own unit tests (`scripts/*.test.mjs`, using Node's built-in `node:test`), run by `.github/workflows/test.yml` whenever anything under `scripts/` changes. Run them locally with:
