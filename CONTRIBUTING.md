@@ -112,6 +112,14 @@ node scripts/update-counts.mjs
 
 CI runs `node scripts/update-counts.mjs --check` and fails the build if any of those numbers have drifted, so don't edit them by hand.
 
+`data/resources.json` is a generated machine-readable export of the same entries (name, url, description, pricing, section, subsection), rebuilt from README.md the same way:
+
+```sh
+node scripts/export-json.mjs
+```
+
+CI runs `node scripts/export-json.mjs --check` and fails if it's drifted from README.md.
+
 A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks every link in README.md, CONTRIBUTING.md, and CODE_OF_CONDUCT.md weekly using [lychee](https://github.com/lycheeverse/lychee), configured via `lychee.toml`. Some legitimate sites reject automated requests with a 403, so that status is accepted rather than treated as broken; see the comments in `lychee.toml` for the current exceptions.
 
 A third workflow (`.github/workflows/markdownlint.yml`) runs `markdownlint-cli2` on every Markdown file. Its config, `.markdownlint.jsonc`, turns off the rules that conflict with this repo's intentional style: long single-line entries (MD013) and the `<details>`/`<picture>` inline HTML used for collapsible sections and the logo (MD033, scoped to just those elements).

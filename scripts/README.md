@@ -60,6 +60,24 @@ node scripts/audit-duplicate-urls.mjs
 **Runs in:** `.github/workflows/lint.yml`, same triggers as above; always
 runs, never fails the job.
 
+## export-json.mjs
+
+Parses README.md into `data/resources.json`: one record per resource entry
+(`name`, `url`, `description`, `pricing`, `section`, `subsection`), skipping
+front-matter/footer sections like More from StudentSuite. Gives tools other
+than a human reading the page something to consume.
+
+```sh
+node scripts/export-json.mjs           # writes data/resources.json
+node scripts/export-json.mjs --check   # exits 1 if data/resources.json is out of date; writes nothing
+```
+
+Run the plain version after adding or removing an entry, same as
+`update-counts.mjs`.
+
+**Runs in:** `.github/workflows/lint.yml`, on changes to README.md,
+scripts/export-json.mjs, or data/resources.json (via `--check`).
+
 ## pricing-review.mjs
 
 Builds a rotating spot-check batch for the monthly pricing re-review. Pricing
@@ -81,8 +99,9 @@ the month), which opens an issue from the script's output.
 ## Tests
 
 Every script above exports its core logic as pure functions (`checkListFormat`,
-`applyCounts`, `findDuplicateUrls`, `parseEntries`/`selectBatch`/`buildChecklist`)
-so it can be tested against inline fixtures.
+`applyCounts`, `findDuplicateUrls`, `parseResources`/`buildResourcesData`,
+`parseEntries`/`selectBatch`/`buildChecklist`) so it can be tested against
+inline fixtures.
 
 ```sh
 node --test scripts/*.test.mjs

@@ -8,6 +8,8 @@ on:
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs
+      - scripts/export-json.mjs
+      - data/resources.json
   push:
     branches:
       - main
@@ -17,6 +19,8 @@ on:
       - scripts/check-list-format.mjs
       - scripts/audit-duplicate-urls.mjs
       - scripts/update-counts.mjs
+      - scripts/export-json.mjs
+      - data/resources.json
 
 jobs:
   check-list-format:
@@ -32,3 +36,6 @@ jobs:
       - run: node scripts/update-counts.mjs --check
       # Informational only: reports cross-section URL reuse, never fails the job.
       - run: node scripts/audit-duplicate-urls.mjs
+      # Fails if data/resources.json has drifted from README.md; run
+      # `node scripts/export-json.mjs` to regenerate.
+      - run: node scripts/export-json.mjs --check

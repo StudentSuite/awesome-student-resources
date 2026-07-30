@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Adobe Creative Cloud",
+    "url": "https://www.adobe.com/creativecloud/buy/students.html",
+    "description": "Discounted Creative Cloud subscription for verified students",
+    "pricing": "paid",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Amazon Prime Student",
+    "url": "https://www.amazon.com/joinstudent",
+    "description": "Free six-month trial, then discounted Prime shipping and streaming",
+    "pricing": "freemium",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Apple Education Store",
+    "url": "https://www.apple.com/shop/education",
+    "description": "Official discount pricing on Mac and iPad for students",
+    "pricing": "paid",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Autodesk Education",
+    "url": "https://www.autodesk.com/education/edu-software/overview",
+    "description": "Free one-year access to Autodesk design and engineering software for verified students",
+    "pricing": "free",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Figma Education",
+    "url": "https://www.figma.com/education/",
+    "description": "Figma's paid plan free for students and educators with verification",
+    "pricing": "free",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "GitHub Student Developer Pack",
+    "url": "https://education.github.com/pack",
+    "description": "Free developer tools and credits for verified students",
+    "pricing": "free",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "JetBrains for Students",
+    "url": "https://www.jetbrains.com/academy/student-pack/",
+    "description": "All JetBrains IDEs free for students with a school email",
+    "pricing": "free",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Notion for Education",
+    "url": "https://www.notion.com/product/notion-for-education",
+    "description": "Notion's paid plan free for students with a school email",
+    "pricing": "free",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Spotify Premium Student",
+    "url": "https://www.spotify.com/student/",
+    "description": "Discounted ad-free music streaming for verified students",
+    "pricing": "paid",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "UNiDAYS",
+    "url": "https://www.myunidays.com",
+    "description": "Free student-verification platform unlocking discounts across hundreds of brands",
+    "pricing": "free",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Bold.org",
+    "url": "https://bold.org",
+    "description": "Free, no-fee scholarships matched to your profile daily",
+    "pricing": "free",
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
+    "name": "Erasmus Mundus Joint Masters",
+    "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+    "description": "EU-funded full scholarships for joint master's programmes worldwide",
+    "pricing": null,
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
+    "name": "Fastweb",
+    "url": "https://www.fastweb.com",
+    "description": "Free scholarship search vetted against 1,000+ college partners",
+    "pricing": "free",
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
+    "name": "Federal Student Aid",
+    "url": "https://studentaid.gov",
+    "description": "The official FAFSA portal for US grants, work-study, and loans",
+    "pricing": "free",
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
+    "name": "International Scholarships",
+    "url": "https://www.internationalscholarships.com",
+    "description": "Free searchable database of global scholarships for international students",
+    "pricing": "free",
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
+    "name": "Scholarships.com",
+    "url": "https://www.scholarships.com",
+    "description": "Free, vetted search across millions of scholarships and grants",
+    "pricing": "free",
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
+    "name": "Credit Karma",
+    "url": "https://www.creditkarma.com",
+    "description": "Free credit score monitoring and personalized financial guidance",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
+    "name": "Khan Academy Personal Finance",
+    "url": "https://www.khanacademy.org/college-careers-more/personal-finance",
+    "description": "Free course covering budgeting, credit, and investing basics",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
+    "name": "Money Saving Expert",
+    "url": "https://www.moneysavingexpert.com",
+    "description": "Martin Lewis's free UK consumer and student money guidance",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
+    "name": "MyMoney.gov",
+    "url": "https://www.mymoney.gov",
+    "description": "The official US government financial literacy hub",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
+    "name": "YNAB",
+    "url": "https://www.ynab.com",
+    "description": "Budgeting app with a free year-long trial for verified students",
+    "pricing": "freemium",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
+    "name": "CollegeVine",
+    "url": "https://www.collegevine.com",
+    "description": "Free peer and expert reviews for your college application essays",
+    "pricing": "freemium",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "Common App",
+    "url": "https://www.commonapp.org",
+    "description": "The official application portal used by 1,000+ colleges",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "Exponent",
+    "url": "https://www.tryexponent.com/practice",
+    "description": "Free peer and AI mock interviews for tech and PM roles",
+    "pricing": "freemium",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "Novoresume",
+    "url": "https://novoresume.com",
+    "description": "Free, ATS-friendly resume builder with student-focused templates",
+    "pricing": "freemium",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "UCAS",
+    "url": "https://www.ucas.com",
+    "description": "The official UK application portal for undergraduate degree courses",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "Yoodli",
+    "url": "https://yoodli.ai",
+    "description": "Free AI coach for interview and communication practice",
+    "pricing": "freemium",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "Diversity Abroad",
+    "url": "https://www.diversityabroad.org",
+    "description": "Study abroad and global program directory focused on accessibility",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
+    "name": "Erasmus+",
+    "url": "https://erasmus-plus.ec.europa.eu",
+    "description": "The EU's official student mobility and exchange program",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
+    "name": "Gap Year Association",
+    "url": "https://usagapyearassociations.org",
+    "description": "Accredited gap year program directory and planning resources",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
+    "name": "GoAbroad",
+    "url": "https://www.goabroad.com",
+    "description": "Directory of study abroad, volunteer, and internship programs worldwide",
+    "pricing": "freemium",
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
+    "name": "Best Delegate",
+    "url": "https://bestdelegate.com",
+    "description": "Free Model UN guides, cheat sheets, and training resources",
+    "pricing": "freemium",
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
+    "name": "IDEA Debatabase",
+    "url": "https://idebate.net/resources/debatabase",
+    "description": "Free database of arguments for and against 700+ debate motions",
+    "pricing": "free",
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
+    "name": "National Speech & Debate Association",
+    "url": "https://www.speechanddebate.org",
+    "description": "Topic analysis, competition resources, and event guides",
+    "pricing": "freemium",
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
+    "name": "Toastmasters International",
+    "url": "https://www.toastmasters.org",
+    "description": "Global public-speaking clubs and self-study materials",
+    "pricing": "freemium",
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
+    "name": "Ambleside Online",
+    "url": "https://amblesideonline.org",
+    "description": "Free, complete Charlotte Mason curriculum with book lists and schedules",
+    "pricing": "free",
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
+    "name": "Easy Peasy All-in-One Homeschool",
+    "url": "https://allinonehomeschool.com",
+    "description": "Free, complete K-12 curriculum you can follow day by day",
+    "pricing": "free",
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
+    "name": "Freedom Homeschooling",
+    "url": "https://freedomhomeschooling.com",
+    "description": "Free directory of free homeschool curricula sorted by subject",
+    "pricing": "free",
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
+    "name": "GOV.UK Home Education",
+    "url": "https://www.gov.uk/home-education",
+    "description": "Official UK government guidance on home education rights",
+    "pricing": null,
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
+    "name": "HSLDA",
+    "url": "https://hslda.org/legal/",
+    "description": "US homeschool laws, record-keeping, and testing requirements by state",
+    "pricing": "free",
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
+    "name": "HSLDA Canada",
+    "url": "https://hslda.ca",
+    "description": "Canadian home education legal protection and guidance",
+    "pricing": null,
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
+    "name": "The Homeschool Mom",
+    "url": "https://www.thehomeschoolmom.com",
+    "description": "Free planners, record-keeping printables, and getting-started guides",
+    "pricing": "free",
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
+    "name": "Anki",
+    "url": "https://apps.ankiweb.net",
+    "description": "Free, open spaced-repetition flashcards",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "Freeplane",
+    "url": "https://www.freeplane.org",
+    "description": "Free, open mind-mapping tool with AI integration",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "GIMP",
+    "url": "https://www.gimp.org",
+    "description": "Free, open image editor",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "Inkscape",
+    "url": "https://inkscape.org",
+    "description": "Free, open vector graphics editor",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "Joplin",
+    "url": "https://joplinapp.org",
+    "description": "Free, open note-taking app with markdown and sync",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "Krita",
+    "url": "https://krita.org",
+    "description": "Free, open painting and illustration app",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "LibreOffice",
+    "url": "https://www.libreoffice.org",
+    "description": "Free, open office suite: documents, spreadsheets, slides",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "OBS Studio",
+    "url": "https://obsproject.com",
+    "description": "Free, open screen recording and live streaming",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "Okular",
+    "url": "https://okular.kde.org",
+    "description": "Free, open universal document viewer with annotations",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "StudyMap",
+    "url": "https://github.com/StudentSuite/StudyMap",
+    "description": "Crowdsourced map of student-important places like exam centres and libraries",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "Vikunja",
+    "url": "https://vikunja.io",
+    "description": "Free, open task and project manager",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "Zotero",
+    "url": "https://www.zotero.org",
+    "description": "Free, open reference and citation manager",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "Breaking Math",
+    "url": "https://www.breakingmath.io",
+    "description": "Weekly conversations making math concepts click",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "Deep Questions with Cal Newport",
+    "url": "https://www.thedeeplife.com/listen/",
+    "description": "Weekly podcast on deep work, focus, and study strategy",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "Farnam Street",
+    "url": "https://fs.blog",
+    "description": "Essays on mental models, decision-making, and clearer thinking",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "Hidden Brain",
+    "url": "https://www.hiddenbrain.org",
+    "description": "NPR podcast exploring the psychology behind everyday decisions",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "James Clear's 3-2-1 Newsletter",
+    "url": "https://jamesclear.com/3-2-1",
+    "description": "Weekly ideas, quotes, and questions on habits and learning",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "Ness Labs Newsletter",
+    "url": "https://nesslabs.com/newsletter",
+    "description": "Neuroscience-backed insights on productivity, focus, and learning",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "Radiolab",
+    "url": "https://radiolab.org",
+    "description": "Science, philosophy, and human-interest stories from WNYC Studios",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "Scott Young's Blog",
+    "url": "https://www.scotthyoung.com/blog/",
+    "description": "Deep dives on learning faster and building hard skills",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "Stuff You Missed in History Class",
+    "url": "https://missedinhistory.com",
+    "description": "Two-a-week deep dives into overlooked history",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "The Learning Scientists Podcast",
+    "url": "https://www.learningscientists.org/learning-scientists-podcast",
+    "description": "Evidence-based study techniques explained by cognitive scientists",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "A Mind for Numbers",
+    "url": "https://barbaraoakley.com/books/a-mind-for-numbers/",
+    "description": "Learn math and science even if you struggle",
+    "pricing": "paid",
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Atomic Habits",
+    "url": "https://jamesclear.com/atomic-habits",
+    "description": "Build study habits that actually stick",
+    "pricing": "paid",
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Deep Work",
+    "url": "https://calnewport.com/books/deep-work/",
+    "description": "Build the ability to focus without distraction",
+    "pricing": "paid",
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
+    "name": "How to Take Smart Notes",
+    "url": "https://takesmartnotes.com",
+    "description": "Turn reading into writing with a note system",
+    "pricing": "paid",
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Make It Stick",
+    "url": "https://www.hup.harvard.edu/books/9780674729018",
+    "description": "The science of durable, effective learning",
+    "pricing": "paid",
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Ali Abdaal",
+    "url": "https://aliabdaal.com",
+    "description": "Evidence-based study and productivity guides",
+    "pricing": "free",
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
+    "name": "Anki Manual",
+    "url": "https://docs.ankiweb.net/",
+    "description": "The official guide to spaced repetition with Anki",
+    "pricing": "free",
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
+    "name": "How to Remember Anything Forever-ish",
+    "url": "https://ncase.me/remember/",
+    "description": "Playable primer on spaced repetition",
+    "pricing": "free",
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
+    "name": "Learning How to Learn",
+    "url": "https://www.coursera.org/learn/learning-how-to-learn",
+    "description": "The popular free course on how learning works",
+    "pricing": "freemium",
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
+    "name": "7 Cups",
+    "url": "https://www.7cups.com",
+    "description": "Free, anonymous chat with trained volunteer listeners, 24/7",
+    "pricing": "freemium",
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
+    "name": "Befrienders Worldwide",
+    "url": "https://befrienders.org",
+    "description": "Free directory of confidential emotional-support helplines worldwide",
+    "pricing": "free",
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
+    "name": "Headspace",
+    "url": "https://www.headspace.com",
+    "description": "Guided meditation and sleep, free for teens and students",
+    "pricing": "freemium",
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
+    "name": "NHS Every Mind Matters",
+    "url": "https://www.nhs.uk/every-mind-matters/",
+    "description": "Free official guidance on stress, anxiety, and sleep",
+    "pricing": "free",
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
+    "name": "Academia Stack Exchange",
+    "url": "https://academia.stackexchange.com",
+    "description": "Q&A on academic life, research, and navigating school systems",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Focusmate",
+    "url": "https://www.focusmate.com",
+    "description": "Free virtual body-doubling sessions to stay accountable while studying",
+    "pricing": "freemium",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Mathematics Stack Exchange",
+    "url": "https://math.stackexchange.com",
+    "description": "Q&A for working through math problems step by step",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "r/APStudents",
+    "url": "https://www.reddit.com/r/APStudents/",
+    "description": "Community for AP course and exam prep",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "r/GetStudying",
+    "url": "https://www.reddit.com/r/GetStudying/",
+    "description": "Study motivation, methods, and accountability",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "r/HomeworkHelp",
+    "url": "https://www.reddit.com/r/HomeworkHelp/",
+    "description": "Large, active community for help across every school subject",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "r/IBO",
+    "url": "https://www.reddit.com/r/IBO/",
+    "description": "The main community for IB Diploma students",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "r/igcse",
+    "url": "https://www.reddit.com/r/igcse/",
+    "description": "Support and resources for IGCSE students",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "r/SAT",
+    "url": "https://www.reddit.com/r/SAT/",
+    "description": "Strategy, practice, and score discussion for the SAT",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Study Together",
+    "url": "https://studytogether.com",
+    "description": "Large Discord and livestream community for study accountability",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "StudyStream",
+    "url": "https://www.studystream.live",
+    "description": "24/7 video study rooms and a Discord community to stay accountable",
+    "pricing": "freemium",
+    "section": "Communities",
+    "subsection": null
+  }
+]
