@@ -8,13 +8,54 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-07-30
+
+### Changed
+
+- Split the list: moved every exam, curriculum, and subject-study section
+  (Exam & Curriculum Prep, By Subject, Notes & Knowledge Management,
+  Flashcards & Spaced Repetition, Task/Time & Planning, Writing/Citations &
+  Reference, AI & Academic Integrity, Diagramming & STEM Tools, Building
+  Software / Learn to Code, YouTube Channels We Trust, and Great Textbooks)
+  into the new sibling list
+  [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources).
+  This repo now focuses on life around school rather than the curriculum
+  itself. This is the breaking change behind the major version bump: old
+  in-page anchors to those sections no longer resolve here.
+
 ### Added
 
-- `SECURITY.md` scoped to a curated list, and an `.editorconfig`, matching the
-  sibling awesome-skills-plugins-for-students list so both repos ship the same
-  OSS file set.
-- `MD024` (`siblings_only`) in the markdownlint config, so changelog entries
-  that repeat "Added"/"Changed" headings across versions lint clean.
+- A new Financial Literacy & Money Management section (budgeting, credit,
+  and banking basics), including non-US entries (MoneySmart, Practical
+  Money Skills) alongside the US/UK ones.
+- **Applications & Resumes** and **Gap Year & Study Abroad** subsections
+  under University & Career Prep, the latter expanded with non-US/EU
+  programs (New Colombo Plan, Turing Scheme).
+- A **Sister lists** cross-link block and an expanded **More from
+  StudentSuite** section (Awesome Study Resources, StudyMap).
+- Community-contributed expansion across Scholarships & Financial Aid
+  (Chevening, Erasmus Mundus, International Scholarships), Homeschooling
+  (GOV.UK Home Education, HSLDA Canada), FOSS Picks (Freeplane, Joplin, OBS
+  Studio, Okular), Student Discounts & Free Access (Adobe Creative Cloud,
+  Amazon Prime Student, Apple Education Store, Spotify Premium Student,
+  UNiDAYS), Communities (Focusmate, Study Together), Guides & How-Tos
+  (Cornell Note-Taking System, Pomodoro Technique, Zettelkasten.de), Books
+  We Trust (Mindset), and Mental Health & Wellbeing (ADDitude, CHADD).
+- New tooling: `scripts/export-json.mjs` generating `data/resources.json`
+  (with a `--check` mode), a codespell spellcheck workflow, an opt-in
+  pre-commit hook (`.githooks/`), a `Makefile` task runner, an
+  `actions/labeler` PR auto-labeler, description-length linting in
+  `check-list-format.mjs`, a `scripts/README.md` reference, and
+  `.github/FUNDING.yml`.
+- `CONTRIBUTORS.md`, `.github/CODEOWNERS`, a stale issue/PR bot, a
+  first-time-contributor welcome bot, and GitHub Discussions as the Q&A
+  venue.
+- `SECURITY.md` scoped to a curated list, and an `.editorconfig`, matching
+  the sibling awesome-skills-plugins-for-students list so both repos ship
+  the same OSS file set.
+- `MD024` (`siblings_only`) in the markdownlint config, so changelog
+  entries that repeat "Added"/"Changed" headings across versions lint
+  clean.
 
 ### Removed
 
@@ -24,14 +65,6 @@ software), but releases are still tagged so changes are easy to point to.
   that the CDN edge responds but the origin never returns a response for the
   actual page, unlike the bot-detection false positives elsewhere in this
   file. Treated as a genuine outage rather than an exception to carry.
-- Exam & Curriculum Prep, By Subject, Notes & Knowledge Management,
-  Flashcards & Spaced Repetition, Task/Time & Planning, Writing/Citations &
-  Reference, AI & Academic Integrity, Diagramming & STEM Tools, Building
-  Software / Learn to Code, YouTube Channels We Trust, and Great Textbooks.
-  This content now lives in the new sibling list
-  [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources),
-  linked from More from StudentSuite; this repo keeps the sections about life
-  around school rather than the curriculum itself.
 - NCERT (CBSE) and Clastify (Theory of Knowledge, Extended Essay). The
   scheduled dead-link check couldn't reliably verify these from CI (a WAF
   block and a network reset respectively, confirmed as false positives from
@@ -43,7 +76,7 @@ software), but releases are still tagged so changes are easy to point to.
   link rather than an automated-traffic block.
 - The CBSE and ICSE subsections (Indian national boards). Dropped to keep
   Exam & Curriculum Prep focused on the exams the rest of the list is built
-  around.
+  around, shortly before that section moved out entirely (see Changed above).
 
 ## [1.0.0] - 2026-07-11
 
@@ -95,5 +128,6 @@ software), but releases are still tagged so changes are easy to point to.
 - Removed out-of-syllabus entries from Computer Science.
 - Removed the Studynova entry after confirming the site is no longer live.
 
-[Unreleased]: https://github.com/StudentSuite/awesome-student-resources/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/StudentSuite/awesome-student-resources/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/StudentSuite/awesome-student-resources/compare/v1.0.0...v2.0.0
 [1.0.0]: https://github.com/StudentSuite/awesome-student-resources/releases/tag/v1.0.0
