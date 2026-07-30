@@ -624,9 +624,25 @@
     "subsection": null
   },
   {
+    "name": "ADDitude",
+    "url": "https://www.additudemag.com",
+    "description": "Strategies and community support for ADHD and neurodivergent students",
+    "pricing": "freemium",
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "Befrienders Worldwide",
     "url": "https://befrienders.org",
     "description": "Free directory of confidential emotional-support helplines worldwide",
+    "pricing": "free",
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
+    "name": "CHADD",
+    "url": "https://chadd.org",
+    "description": "Nonprofit support and resources for ADHD, from Children and Adults with ADHD",
     "pricing": "free",
     "section": "Mental Health & Wellbeing",
     "subsection": null

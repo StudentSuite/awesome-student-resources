@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-95-blue)
+![Resources](https://img.shields.io/badge/resources-97-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -41,7 +41,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 6 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 7 |
-| 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 4 |
+| 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 6 |
 | 👥 | [Communities](#communities) | 11 |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
@@ -265,7 +265,9 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 <summary>Show resources</summary>
 
 - **[7 Cups](https://www.7cups.com)** - Free, anonymous chat with trained volunteer listeners, 24/7 (freemium).
+- **[ADDitude](https://www.additudemag.com)** - Strategies and community support for ADHD and neurodivergent students (freemium).
 - **[Befrienders Worldwide](https://befrienders.org)** - Free directory of confidential emotional-support helplines worldwide (free).
+- **[CHADD](https://chadd.org)** - Nonprofit support and resources for ADHD, from Children and Adults with ADHD (free).
 - **[Headspace](https://www.headspace.com)** - Guided meditation and sleep, free for teens and students (freemium).
 - **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep (free).
 
