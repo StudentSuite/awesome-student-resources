@@ -44,7 +44,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 4 |
 | 👥 | [Communities](#communities) | 11 |
 
-[More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
+[More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
 
 > Looking for quiet study spots or exam locations? [StudyMap](https://github.com/StudentSuite/StudyMap) is a crowdsourced map of student-important places like libraries and exam centres.
 
@@ -297,6 +297,14 @@ Ask questions and study alongside other students.
 - **[Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students)** - Curated AI coding-agent skills and plugins built for students (free).
 - **[Awesome Study Resources](https://github.com/StudentSuite/awesome-study-resources)** - Curated exam, curriculum, and subject-study resources for students (free).
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - A crowdsourced map of student-important places: exam centres, libraries, and more (free).
+
+---
+
+## Sister lists
+
+- [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources) - Tools, textbooks and channels for students.
+- [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) - Exam and subject study material.
+- [awesome-skills-plugins-for-students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - AI coding agent skills and plugins.
 
 ---
 

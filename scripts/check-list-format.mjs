@@ -50,6 +50,7 @@ export const BANNED_ADJECTIVES = [
 export const NON_CONTENT_SECTIONS = new Set([
   'Table of Contents',
   'More from StudentSuite',
+  'Sister lists',
   'A Note on Links',
   'Quality Standards',
   'Contributing',
