@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-89-blue)
+![Resources](https://img.shields.io/badge/resources-91-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -42,7 +42,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 📖 | [Books We Trust](#books-we-trust) | 5 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 4 |
 | 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 4 |
-| 👥 | [Communities](#communities) | 9 |
+| 👥 | [Communities](#communities) | 11 |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
 
@@ -277,6 +277,7 @@ Ask questions and study alongside other students.
 <summary>Show resources</summary>
 
 - **[Academia Stack Exchange](https://academia.stackexchange.com)** - Q&A on academic life, research, and navigating school systems (free).
+- **[Focusmate](https://www.focusmate.com)** - Free virtual body-doubling sessions to stay accountable while studying (freemium).
 - **[Mathematics Stack Exchange](https://math.stackexchange.com)** - Q&A for working through math problems step by step (free).
 - **[r/APStudents](https://www.reddit.com/r/APStudents/)** - Community for AP course and exam prep (free).
 - **[r/GetStudying](https://www.reddit.com/r/GetStudying/)** - Study motivation, methods, and accountability (free).
@@ -284,6 +285,7 @@ Ask questions and study alongside other students.
 - **[r/IBO](https://www.reddit.com/r/IBO/)** - The main community for IB Diploma students (free).
 - **[r/igcse](https://www.reddit.com/r/igcse/)** - Support and resources for IGCSE students (free).
 - **[r/SAT](https://www.reddit.com/r/SAT/)** - Strategy, practice, and score discussion for the SAT (free).
+- **[Study Together](https://studytogether.com)** - Large Discord and livestream community for study accountability (free).
 - **[StudyStream](https://www.studystream.live)** - 24/7 video study rooms and a Discord community to stay accountable (freemium).
 
 </details>
