@@ -80,6 +80,18 @@ If your PR removes an entry (dead link, discontinued service, no longer meets th
 
 ---
 
+## Optional: run checks locally before you push
+
+A committed, opt-in pre-commit hook mirrors the CI lint job. Enable it once per clone with:
+
+```sh
+git config core.hooksPath .githooks
+```
+
+After that, committing with README.md or CONTRIBUTING.md staged runs `scripts/check-list-format.mjs` and `scripts/update-counts.mjs --check` automatically, so format or count problems surface before you push instead of after CI fails on your PR. It's entirely optional and doesn't install anything beyond what's already in this repo; see `.githooks/pre-commit` for the script itself.
+
+---
+
 ## CI checks
 
 See [scripts/README.md](scripts/README.md) for a one-page reference of every script, its flags, and which workflow runs it. The rest of this section covers the same ground in prose.
