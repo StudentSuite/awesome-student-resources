@@ -1,0 +1,30 @@
+# Config for .github/workflows/labeler.yml (actions/labeler).
+#
+# Deliberately a few broad categories, not one label per README section —
+# per-section labels would need updating every time a section is added,
+# renamed, or removed.
+
+content:
+  - changed-files:
+      - any-glob-to-any-file: "README.md"
+
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "CONTRIBUTING.md"
+          - "CODE_OF_CONDUCT.md"
+          - "CHANGELOG.md"
+          - "SECURITY.md"
+          - "scripts/README.md"
+
+infra:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "scripts/**"
+          - ".github/workflows/**"
+          - ".githooks/**"
+          - "Makefile"
+          - ".markdownlint.jsonc"
+          - "lychee.toml"
+          - ".codespellignore"
+          - ".editorconfig"
