@@ -343,6 +343,14 @@ PRs adding a resource are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for th
 
 ---
 
+## Contributors
+
+Thanks to everyone who has added a resource, fixed a link, or improved the format.
+
+[![Contributors](https://contrib.rocks/image?repo=StudentSuite/awesome-student-resources)](https://github.com/StudentSuite/awesome-student-resources/graphs/contributors)
+
+---
+
 ## License
 
 This repository is released under the [MIT License](LICENSE). The license covers this list itself: the README, CONTRIBUTING.md, and curation structure. It does not cover the tools, channels, or books linked from it, each of those is owned and licensed by its own author.
