@@ -54,6 +54,7 @@ export const NON_CONTENT_SECTIONS = new Set([
   'A Note on Links',
   'Quality Standards',
   'Contributing',
+  'Contributors',
   'License',
 ]);
 

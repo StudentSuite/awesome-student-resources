@@ -44,7 +44,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 6 |
 | 👥 | [Communities](#communities) | 11 |
 
-[More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [License](#license)
+[More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
 > Looking for quiet study spots or exam locations? [StudyMap](https://github.com/StudentSuite/StudyMap) is a crowdsourced map of student-important places like libraries and exam centres.
 
