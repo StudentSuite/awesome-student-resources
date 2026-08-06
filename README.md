@@ -174,7 +174,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance.
 - **[The Homeschool Mom](https://www.thehomeschoolmom.com)** - Free planners, record-keeping printables, and getting-started guides (free).
 - **[Wrightslaw](https://www.wrightslaw.com)** - Special education law, IEP, and Section 504 advocacy guidance (free).
-  
+
 </details>
 
 ---
