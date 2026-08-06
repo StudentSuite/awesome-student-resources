@@ -17,7 +17,7 @@
   },
   {
     "name": "Apple Education Store",
-    "url": "https://www.apple.com/shop/education",
+    "url": "https://www.apple.com/us-edu/store",
     "description": "Official discount pricing on Mac and iPad for students",
     "pricing": "paid",
     "section": "Student Discounts & Free Access",
@@ -232,9 +232,9 @@
     "subsection": "Applications & Resumes"
   },
   {
-    "name": "Diversity Abroad",
-    "url": "https://www.diversityabroad.org",
-    "description": "Study abroad and global program directory focused on accessibility",
+    "name": "DA Global",
+    "url": "https://daglobal.org",
+    "description": "Global education access network, formerly Diversity Abroad, covering study abroad and student global programs",
     "pricing": "free",
     "section": "University & Career Prep",
     "subsection": "Gap Year & Study Abroad"
@@ -249,7 +249,7 @@
   },
   {
     "name": "Gap Year Association",
-    "url": "https://usagapyearassociations.org",
+    "url": "https://www.gapyearassociation.org",
     "description": "Accredited gap year program directory and planning resources",
     "pricing": "free",
     "section": "University & Career Prep",
@@ -641,7 +641,7 @@
   },
   {
     "name": "Pomodoro Technique",
-    "url": "https://francescocirillo.com/pages/pomodoro-technique",
+    "url": "https://www.pomodorotechnique.com",
     "description": "Francesco Cirillo's official guide to the Pomodoro time-management method",
     "pricing": "free",
     "section": "Guides & How-Tos",

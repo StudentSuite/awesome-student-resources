@@ -24,7 +24,18 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # Looks like bot-detection keyed on the GitHub Actions runner IP range rather than an
 # actual outage, so excluding rather than accepting 401 globally (a status too easily
 # masking a genuinely gated resource elsewhere).
+#
+# adobe.com, dfat.gov.au, turing-scheme.org.uk: reported in the 2026-08-03 run as
+# "HTTP/2 protocol error", "HTTP/2 protocol error" and "SSL certificate error"
+# respectively. All three refuse to complete a connection for non-browser clients
+# (reproduced with curl over both HTTP/2 and HTTP/1.1, and with a separate fetcher
+# on a different network, all hanging until timeout rather than returning a status).
+# Three unrelated institutional sites do not go down together; this is bot blocking
+# at the edge, so excluding rather than deleting live entries from the list.
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
+  "https://www.adobe.com/creativecloud/buy/students.html",
+  "https://www.dfat.gov.au/people-to-people/new-colombo-plan",
+  "https://www.turing-scheme.org.uk",
 ]

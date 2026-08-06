@@ -59,7 +59,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 
 - **[Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html)** - Discounted Creative Cloud subscription for verified students (paid).
 - **[Amazon Prime Student](https://www.amazon.com/joinstudent)** - Free six-month trial, then discounted Prime shipping and streaming (freemium).
-- **[Apple Education Store](https://www.apple.com/shop/education)** - Official discount pricing on Mac and iPad for students (paid).
+- **[Apple Education Store](https://www.apple.com/us-edu/store)** - Official discount pricing on Mac and iPad for students (paid).
 - **[Autodesk Education](https://www.autodesk.com/education/edu-software/overview)** - Free one-year access to Autodesk design and engineering software for verified students (free).
 - **[Figma Education](https://www.figma.com/education/)** - Figma's paid plan free for students and educators with verification (free).
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students (free).
@@ -132,9 +132,9 @@ What comes after exams: applications, resumes, interviews, and time away from th
 <details open>
 <summary>Show resources</summary>
 
-- **[Diversity Abroad](https://www.diversityabroad.org)** - Study abroad and global program directory focused on accessibility (free).
+- **[DA Global](https://daglobal.org)** - Global education access network, formerly Diversity Abroad, covering study abroad and student global programs (free).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program (free).
-- **[Gap Year Association](https://usagapyearassociations.org)** - Accredited gap year program directory and planning resources (free).
+- **[Gap Year Association](https://www.gapyearassociation.org)** - Accredited gap year program directory and planning resources (free).
 - **[GoAbroad](https://www.goabroad.com)** - Directory of study abroad, volunteer, and internship programs worldwide (freemium).
 - **[New Colombo Plan](https://www.dfat.gov.au/people-to-people/new-colombo-plan)** - Australian government program funding study and internships across the Indo-Pacific (free).
 - **[Turing Scheme](https://www.turing-scheme.org.uk)** - The UK's official global study and work abroad funding scheme (free).
@@ -255,7 +255,7 @@ Meta-skills: how to study, remember, and focus.
 - **[Cornell Note-Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)** - Cornell University's official guide to the Cornell note-taking method (free).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition (free).
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works (freemium).
-- **[Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)** - Francesco Cirillo's official guide to the Pomodoro time-management method (free).
+- **[Pomodoro Technique](https://www.pomodorotechnique.com)** - Francesco Cirillo's official guide to the Pomodoro time-management method (free).
 - **[Zettelkasten.de](https://zettelkasten.de)** - In-depth guide to the Zettelkasten note-taking and thinking method (free).
 
 </details>
