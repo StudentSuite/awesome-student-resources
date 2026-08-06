@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-101-blue)
+![Resources](https://img.shields.io/badge/resources-102-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 7 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 12 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
-| 🏠 | [Homeschooling](#homeschooling) | 7 |
+| 🏠 | [Homeschooling](#homeschooling) | 8 |
 | 🔓 | [FOSS Picks](#foss-picks) | 12 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
 | 📖 | [Books We Trust](#books-we-trust) | 6 |
