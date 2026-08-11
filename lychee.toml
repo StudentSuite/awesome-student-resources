@@ -32,10 +32,18 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # on a different network, all hanging until timeout rather than returning a status).
 # Three unrelated institutional sites do not go down together; this is bot blocking
 # at the edge, so excluding rather than deleting live entries from the list.
+#
+# chadd.org: reported in the 2026-08-10 run as "SSL certificate expired", but manually
+# verified (curl and a separate fetcher, from two different networks) that the TCP
+# connection itself never completes, it just hangs until timeout, the same signature
+# as the bot-blocking-at-the-edge sites above rather than a server presenting an
+# actually-expired certificate (which would complete the handshake and hand back a
+# cert). Excluding rather than removing a live, real ADHD-support nonprofit entry.
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
   "https://www.adobe.com/creativecloud/buy/students.html",
   "https://www.dfat.gov.au/people-to-people/new-colombo-plan",
   "https://www.turing-scheme.org.uk",
+  "https://chadd.org/",
 ]
