@@ -12,6 +12,14 @@ against the [Quality Standards](README.md#quality-standards), and open a PR.
 
 ## Contributors
 
+- [@deepusnath](https://github.com/deepusnath) - added a homeschooling resource
+- [@di3go04](https://github.com/di3go04) - added multiple FOSS tool and scholarship resources
+- [@lokeshsahu2804-korba](https://github.com/lokeshsahu2804-korba) - added contributor labeling guidance
+- [@ResourceMint](https://github.com/ResourceMint) - added a pricing-tag correction issue template
+- [@ShahbazCoder1](https://github.com/ShahbazCoder1) - added a StudyMap callout and a FOSS Picks entry
+- [@shauryajani](https://github.com/shauryajani) - added a resource entry
+- [@Shivam-1502](https://github.com/Shivam-1502) - added the Further Mathematics subsection
+
 Open a PR that adds or fixes a resource and your name goes here. If you would
 rather not be listed, say so in the PR and we will leave you off.
 
