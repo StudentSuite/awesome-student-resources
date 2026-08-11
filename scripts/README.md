@@ -115,6 +115,26 @@ node scripts/weekly-digest.mjs > digest.md
 08:00 UTC), which opens or updates a single pinned issue titled "Weekly
 digest: new issues and PRs" from the script's output.
 
+## run-awesome-lint.mjs
+
+Runs [awesome-lint](https://github.com/sindresorhus/awesome-lint) against
+README.md, the conformance gate for a future `sindresorhus/awesome`
+submission (#102). The awesome-lint CLI has no flag to disable a rule, so
+this calls its `lint()` API directly and drops messages from three rules
+that are genuinely wrong for this list (each documented inline in the
+script): `awesome-list-item` (conflicts with the bold entry names this repo
+enforces itself), `double-link` (flags intentional repeat navigation links),
+and `awesome-license` (flags having a License section at all). Every other
+rule still runs and still fails the build.
+
+```sh
+npm install --no-save awesome-lint   # not a committed dependency
+node scripts/run-awesome-lint.mjs
+```
+
+**Runs in:** `.github/workflows/awesome-lint.yml`, on PRs and pushes to
+`main` touching README.md or this script.
+
 ## Tests
 
 Every script above exports its core logic as pure functions (`checkListFormat`,

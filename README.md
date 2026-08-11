@@ -7,7 +7,7 @@
 
 # Awesome Student Resources
 
-**A curated list of the best software, tools, textbooks, channels, and resources for students.**
+A curated list of the best software, tools, textbooks, channels, and resources for students.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -31,21 +31,21 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 ## Table of Contents
 
-| | Section | Resources |
-| :-: | --- | :-: |
-| 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 10 |
-| 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 8 |
-| 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 7 |
-| 🎯 | [University & Career Prep](#university--career-prep) | 16 |
-| 🛠️ | [Vocational & Alternative Paths](#vocational--alternative-paths) | 4 |
-| 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 6 |
-| 🏠 | [Homeschooling](#homeschooling) | 9 |
-| 🔓 | [FOSS Picks](#foss-picks) | 12 |
-| 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 11 |
-| 📖 | [Books We Trust](#books-we-trust) | 6 |
-| 💡 | [Guides & How-Tos](#guides--how-tos) | 7 |
-| 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 7 |
-| 👥 | [Communities](#communities) | 11 |
+|     | Section                                                                        | Resources |
+| :-: | ------------------------------------------------------------------------------ | :-------: |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    10     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |     8     |
+| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     7     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    16     |
+| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     6     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |     9     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    12     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |     6     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     7     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     7     |
+| 👥  | [Communities](#communities)                                                    |    11     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 

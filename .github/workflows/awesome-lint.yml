@@ -1,0 +1,26 @@
+name: Awesome Lint
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - scripts/run-awesome-lint.mjs
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - scripts/run-awesome-lint.mjs
+
+jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 20
+      # No committed package.json (this repo is otherwise dependency-free),
+      # so install awesome-lint just for this job instead of adding one.
+      - run: npm install --no-save awesome-lint
+      - run: node scripts/run-awesome-lint.mjs

@@ -144,3 +144,10 @@ A `.github/workflows/welcome.yml` workflow (via `actions/first-interaction`) lea
 A monthly workflow (`.github/workflows/pricing-review.yml`) opens an issue with a rotating sample of entries (built by `scripts/pricing-review.mjs`) for a maintainer to spot-check that pricing tags are still accurate. A tool that quietly starts charging still returns HTTP 200, so the dead-link check won't catch it; this is the manual backstop. Preview the current sample locally with `node scripts/pricing-review.mjs`.
 
 A weekly workflow (`.github/workflows/weekly-digest.yml`) opens or updates a single pinned issue ("Weekly digest: new issues and PRs", built by `scripts/weekly-digest.mjs`) summarizing everything opened in the last 7 days, so a maintainer has one place to check instead of the Issues and PRs tabs separately.
+
+A PR-gated workflow (`.github/workflows/awesome-lint.yml`) runs [awesome-lint](https://github.com/sindresorhus/awesome-lint) on every PR touching README.md, required before merge. It disables three rules that are genuinely incompatible with choices this list makes deliberately (bold entry names, intentional repeat navigation links, and keeping a License section); see the comments in `scripts/run-awesome-lint.mjs` for why. Run it yourself with:
+
+```sh
+npm install --no-save awesome-lint
+node scripts/run-awesome-lint.mjs
+```
