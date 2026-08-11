@@ -21,6 +21,8 @@
 
 This is a curation list, not a code library. Every entry links out to a tool, channel, or book maintained by someone else, not to something hosted here. Any student, anywhere: add yours by opening a PR, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
+This list covers life around school: discounts, money, career prep, and wellbeing. [Awesome Study Resources](https://github.com/StudentSuite/awesome-study-resources) covers exam, curriculum, and subject-specific study material instead, and [Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) covers AI coding-agent skills and plugins built for students. They stay separate because the logistics of being a student and the coursework itself call for different resources, and splitting keeps each list focused enough to be useful.
+
 > Entries note when something is free, freemium, paid, or open source (FOSS), so you know before you click. Resources within each list are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
 >
 > Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-student-resources/issues/new/choose) &middot; [Ask a question](https://github.com/StudentSuite/awesome-student-resources/discussions) &middot; [Changelog](CHANGELOG.md)
