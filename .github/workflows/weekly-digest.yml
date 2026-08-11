@@ -1,0 +1,44 @@
+name: Weekly Digest
+
+on:
+  schedule:
+    # 08:00 UTC every Monday
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 20
+
+      - name: Build this week's digest
+        run: node scripts/weekly-digest.mjs > digest.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Find the existing pinned digest issue
+        id: find
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          NUMBER=$(gh issue list --state open --search "Weekly digest: new issues and PRs in:title" \
+            --json number,title --jq '[.[] | select(.title == "Weekly digest: new issues and PRs")][0].number // ""')
+          echo "number=$NUMBER" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update the digest issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "${{ steps.find.outputs.number }}" ]; then
+            gh issue edit "${{ steps.find.outputs.number }}" --body-file digest.md
+          else
+            gh issue create --title "Weekly digest: new issues and PRs" --body-file digest.md
+          fi

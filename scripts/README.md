@@ -100,6 +100,21 @@ node scripts/pricing-review.mjs --batch N  # print a specific batch number (for 
 **Runs in:** `.github/workflows/pricing-review.yml`, on a monthly cron (1st of
 the month), which opens an issue from the script's output.
 
+## weekly-digest.mjs
+
+Summarizes issues and PRs opened in the last 7 days, so a maintainer has one
+place to glance at instead of opening the Issues/PRs tabs separately. Calls
+the GitHub search API directly (`GITHUB_TOKEN`/`GITHUB_REPOSITORY` from the
+environment), so it only runs meaningfully in CI.
+
+```sh
+node scripts/weekly-digest.mjs > digest.md
+```
+
+**Runs in:** `.github/workflows/weekly-digest.yml`, on a weekly cron (Monday
+08:00 UTC), which opens or updates a single pinned issue titled "Weekly
+digest: new issues and PRs" from the script's output.
+
 ## Tests
 
 Every script above exports its core logic as pure functions (`checkListFormat`,
