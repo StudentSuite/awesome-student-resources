@@ -89,7 +89,7 @@ A committed, opt-in pre-commit hook mirrors the CI lint job. Enable it once per 
 git config core.hooksPath .githooks
 ```
 
-After that, committing with README.md or CONTRIBUTING.md staged runs `scripts/check-list-format.mjs` and `scripts/update-counts.mjs --check` automatically, so format or count problems surface before you push instead of after CI fails on your PR. It's entirely optional and doesn't install anything beyond what's already in this repo; see `.githooks/pre-commit` for the script itself.
+After that, committing with README.md or CONTRIBUTING.md staged runs `scripts/check-list-format.mjs`, `scripts/update-counts.mjs --check`, and `scripts/export-json.mjs --check` automatically, so format, count, or generated JSON drift surfaces before you push instead of after CI fails on your PR. It's entirely optional and doesn't install anything beyond what's already in this repo; see `.githooks/pre-commit` for the script itself.
 
 ---
 
