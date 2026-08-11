@@ -277,6 +277,7 @@ Study skill and mindset books worth your time.
 - **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets (paid).
 - **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise (paid).
 - **[The 7 Habits of Highly Effective People](https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/)** - Build habits for effective goals and priorities (paid).
+
 </details>
 
 ---
