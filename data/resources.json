@@ -296,6 +296,30 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "Handshake",
+    "url": "https://joinhandshake.com",
+    "description": "Free campus recruiting platform connecting students to part-time jobs and internships",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
+    "name": "Snagajob",
+    "url": "https://www.snagajob.com",
+    "description": "Free marketplace for hourly and part-time jobs near campus",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
+    "name": "WayUp",
+    "url": "https://www.wayup.com",
+    "description": "Free job board for internships and part-time work aimed at students",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
     "name": "Best Delegate",
     "url": "https://bestdelegate.com",
     "description": "Free Model UN guides, cheat sheets, and training resources",
