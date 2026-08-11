@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-105-blue)
+![Resources](https://img.shields.io/badge/resources-107-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -32,7 +32,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | | Section | Resources |
 | :-: | --- | :-: |
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 10 |
-| 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 6 |
+| 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 8 |
 | 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 7 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 12 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
@@ -84,6 +84,8 @@ Legitimate, fee-free places to find money for school.
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners (free).
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans (free).
 - **[International Scholarships](https://www.internationalscholarships.com)** - Free searchable database of global scholarships for international students (free).
+- **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/our-work/current-programs/scholars-program/)** - Free, no-fee scholarships and mentorship for African students (free).
+- **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search engine for students across Asia, Africa, and other developing regions (free).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants (free).
 
 </details>
