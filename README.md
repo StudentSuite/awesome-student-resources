@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-112-blue)
+![Resources](https://img.shields.io/badge/resources-113-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓 | [Student Discounts & Free Access](#student-discounts--free-access) | 10 |
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 8 |
 | 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 7 |
-| 🎯 | [University & Career Prep](#university--career-prep) | 15 |
+| 🎯 | [University & Career Prep](#university--career-prep) | 16 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 6 |
 | 🏠 | [Homeschooling](#homeschooling) | 9 |
 | 🔓 | [FOSS Picks](#foss-picks) | 12 |
@@ -138,6 +138,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 
 - **[DA Global](https://daglobal.org)** - Global education access network, formerly Diversity Abroad, covering study abroad and student global programs (free).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program (free).
+- **[EU Immigration Portal](https://immigration-portal.ec.europa.eu)** - Official European Commission guidance on study visas and residence permits across the EU (free).
 - **[Gap Year Association](https://www.gapyearassociation.org)** - Accredited gap year program directory and planning resources (free).
 - **[GoAbroad](https://www.goabroad.com)** - Directory of study abroad, volunteer, and internship programs worldwide (freemium).
 - **[New Colombo Plan](https://www.dfat.gov.au/people-to-people/new-colombo-plan)** - Australian government program funding study and internships across the Indo-Pacific (free).
