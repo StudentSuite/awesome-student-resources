@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-117-blue)
+![Resources](https://img.shields.io/badge/resources-119-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -42,7 +42,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🏠  | [Homeschooling](#homeschooling)                                                |     9     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    12     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |     6     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |     8     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     7     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     7     |
 | 👥  | [Communities](#communities)                                                    |    11     |
@@ -275,7 +275,8 @@ Study skill and mindset books worth your time.
 - **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system (paid).
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning (paid).
 - **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets (paid).
-
+- **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise (paid).
+- **[The 7 Habits of Highly Effective People](https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/)** - Build habits for effective goals and priorities (paid).
 </details>
 
 ---
