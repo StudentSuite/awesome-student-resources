@@ -55,6 +55,7 @@ Add your single bullet to the closest matching section:
 - Scholarships & Financial Aid
 - Financial Literacy & Money Management
 - University & Career Prep
+- Vocational & Alternative Paths
 - Debate & Public Speaking
 - Homeschooling
 - FOSS Picks (fully free and open source only)

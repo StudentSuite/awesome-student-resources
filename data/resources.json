@@ -328,6 +328,38 @@
     "subsection": "Part-Time & Student Jobs"
   },
   {
+    "name": "Apprenticeship.gov",
+    "url": "https://www.apprenticeship.gov",
+    "description": "The official US government registered apprenticeship finder",
+    "pricing": "free",
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
+    "name": "Course Report",
+    "url": "https://www.coursereport.com",
+    "description": "Free directory and reviews of coding and tech bootcamps worldwide",
+    "pricing": "free",
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
+    "name": "Find an Apprenticeship",
+    "url": "https://www.gov.uk/apply-apprenticeship",
+    "description": "The official UK government apprenticeship search and application service",
+    "pricing": "free",
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
+    "name": "Mike Rowe Works Foundation",
+    "url": "https://www.mikeroweworks.org",
+    "description": "Nonprofit scholarships and advocacy for skilled trades careers",
+    "pricing": "free",
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "Best Delegate",
     "url": "https://bestdelegate.com",
     "description": "Free Model UN guides, cheat sheets, and training resources",

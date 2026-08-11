@@ -11,8 +11,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-113-blue)
-![Sections](https://img.shields.io/badge/sections-12-purple)
+![Resources](https://img.shields.io/badge/resources-117-blue)
+![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
 </div>
@@ -37,6 +37,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💰 | [Scholarships & Financial Aid](#scholarships--financial-aid) | 8 |
 | 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 7 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 16 |
+| 🛠️ | [Vocational & Alternative Paths](#vocational--alternative-paths) | 4 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 6 |
 | 🏠 | [Homeschooling](#homeschooling) | 9 |
 | 🔓 | [FOSS Picks](#foss-picks) | 12 |
@@ -154,6 +155,22 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[Handshake](https://joinhandshake.com)** - Free campus recruiting platform connecting students to part-time jobs and internships (free).
 - **[Snagajob](https://www.snagajob.com)** - Free marketplace for hourly and part-time jobs near campus (free).
 - **[WayUp](https://www.wayup.com)** - Free job board for internships and part-time work aimed at students (free).
+
+</details>
+
+---
+
+## Vocational & Alternative Paths
+
+Apprenticeships, trades, and bootcamps for students on a non-degree path.
+
+<details open>
+<summary>Show resources</summary>
+
+- **[Apprenticeship.gov](https://www.apprenticeship.gov)** - The official US government registered apprenticeship finder (free).
+- **[Course Report](https://www.coursereport.com)** - Free directory and reviews of coding and tech bootcamps worldwide (free).
+- **[Find an Apprenticeship](https://www.gov.uk/apply-apprenticeship)** - The official UK government apprenticeship search and application service (free).
+- **[Mike Rowe Works Foundation](https://www.mikeroweworks.org)** - Nonprofit scholarships and advocacy for skilled trades careers (free).
 
 </details>
 
