@@ -480,6 +480,14 @@
     "subsection": null
   },
   {
+    "name": "Cortex",
+    "url": "https://www.relay.fm/cortex",
+    "description": "Weekly conversations on productivity systems, tools, and workflows",
+    "pricing": "free",
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "Deep Questions with Cal Newport",
     "url": "https://www.thedeeplife.com/listen/",
     "description": "Weekly podcast on deep work, focus, and study strategy",

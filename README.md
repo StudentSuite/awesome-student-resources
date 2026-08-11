@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-102-blue)
+![Resources](https://img.shields.io/badge/resources-103-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
 | 🏠 | [Homeschooling](#homeschooling) | 8 |
 | 🔓 | [FOSS Picks](#foss-picks) | 12 |
-| 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 10 |
+| 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 11 |
 | 📖 | [Books We Trust](#books-we-trust) | 6 |
 | 💡 | [Guides & How-Tos](#guides--how-tos) | 7 |
 | 🧘 | [Mental Health & Wellbeing](#mental-health--wellbeing) | 6 |
@@ -211,6 +211,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 <summary>Show resources</summary>
 
 - **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click (free).
+- **[Cortex](https://www.relay.fm/cortex)** - Weekly conversations on productivity systems, tools, and workflows (free).
 - **[Deep Questions with Cal Newport](https://www.thedeeplife.com/listen/)** - Weekly podcast on deep work, focus, and study strategy (free).
 - **[Farnam Street](https://fs.blog)** - Essays on mental models, decision-making, and clearer thinking (free).
 - **[Hidden Brain](https://www.hiddenbrain.org)** - NPR podcast exploring the psychology behind everyday decisions (free).
