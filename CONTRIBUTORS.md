@@ -8,6 +8,7 @@ against the [Quality Standards](README.md#quality-standards), and open a PR.
 ## Maintainers
 
 - [@AnayDhawan](https://github.com/AnayDhawan) - creator and maintainer
+- [@yakew7](https://github.com/yakew7) - creator and maintainer
 
 ## Contributors
 
