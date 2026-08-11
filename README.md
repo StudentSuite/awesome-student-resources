@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-103-blue)
+![Resources](https://img.shields.io/badge/resources-104-blue)
 ![Sections](https://img.shields.io/badge/sections-12-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This is a curation list, not a code library. Every entry links out to a tool, ch
 | 💵 | [Financial Literacy & Money Management](#financial-literacy--money-management) | 7 |
 | 🎯 | [University & Career Prep](#university--career-prep) | 12 |
 | 🎤 | [Debate & Public Speaking](#debate--public-speaking) | 4 |
-| 🏠 | [Homeschooling](#homeschooling) | 8 |
+| 🏠 | [Homeschooling](#homeschooling) | 9 |
 | 🔓 | [FOSS Picks](#foss-picks) | 12 |
 | 🎙️ | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 11 |
 | 📖 | [Books We Trust](#books-we-trust) | 6 |
@@ -173,6 +173,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state (free).
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance.
 - **[The Homeschool Mom](https://www.thehomeschoolmom.com)** - Free planners, record-keeping printables, and getting-started guides (free).
+- **[Understood.org](https://www.understood.org)** - Free guidance on homeschooling kids with an IEP, 504 plan, or learning difference (free).
 - **[Wrightslaw](https://www.wrightslaw.com)** - Special education law, IEP, and Section 504 advocacy guidance (free).
 
 </details>
