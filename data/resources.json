@@ -304,10 +304,26 @@
     "subsection": null
   },
   {
+    "name": "English-Speaking Union",
+    "url": "https://www.esu.org",
+    "description": "International nonprofit promoting debate, public speaking, and language skills",
+    "pricing": "free",
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
     "name": "IDEA Debatabase",
     "url": "https://idebate.net/resources/debatabase",
     "description": "Free database of arguments for and against 700+ debate motions",
     "pricing": "free",
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
+    "name": "National Model United Nations",
+    "url": "https://www.nmun.org",
+    "description": "Model UN conferences and preparation resources from a nonprofit educational organization",
+    "pricing": "freemium",
     "section": "Debate & Public Speaking",
     "subsection": null
   },
