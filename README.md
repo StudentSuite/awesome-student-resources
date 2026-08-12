@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-123-blue)
+![Resources](https://img.shields.io/badge/resources-124-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     6     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |     10     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    12     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    13     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |     8     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     7     |
@@ -229,6 +229,7 @@ Fully free and open-source tools worth installing.
 - **[Anki](https://apps.ankiweb.net)** - Free, open spaced-repetition flashcards (free).
 - **[Freeplane](https://www.freeplane.org)** - Free, open mind-mapping tool with AI integration (free).
 - **[GIMP](https://www.gimp.org)** - Free, open image editor (free).
+- **[Habitica](https://habitica.com)** - Free, open-source habit and task tracker with RPG-style gamification (free).
 - **[Inkscape](https://inkscape.org)** - Free, open vector graphics editor (free).
 - **[Joplin](https://joplinapp.org)** - Free, open note-taking app with markdown and sync (free).
 - **[Krita](https://krita.org)** - Free, open painting and illustration app (free).

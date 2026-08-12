@@ -536,6 +536,14 @@
     "subsection": null
   },
   {
+    "name": "Habitica",
+    "url": "https://habitica.com",
+    "description": "Free, open-source habit and task tracker with RPG-style gamification",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Inkscape",
     "url": "https://inkscape.org",
     "description": "Free, open vector graphics editor",
