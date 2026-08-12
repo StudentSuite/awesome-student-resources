@@ -8,6 +8,38 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Added
+
+- A new **Vocational & Alternative Paths** top-level section (apprenticeships,
+  trades, bootcamps): Apprenticeship.gov, Course Report, Find an
+  Apprenticeship, Mike Rowe Works Foundation.
+- A **Part-Time & Student Jobs** subsection under University & Career Prep:
+  Handshake, Snagajob, WayUp.
+- 22 new resource entries closing #122, #123, #124, #125, #127, #130, #157,
+  #158, #159, #160, #161, #162, #163, #164, #165, and #166: Cortex,
+  Understood.org, Child Mind Institute, Mastercard Foundation Scholars
+  Program, Scholars4Dev, English-Speaking Union, National Model United
+  Nations, EU Immigration Portal, LASPAU, MoneyHelper, Transferology,
+  Pestalozzi Trust, Habitica, JED Foundation, Jugend debattiert,
+  International Student Insurance, The Muse, and AHEAD.
+- A short paragraph after the opening description explaining why this list,
+  [Awesome Study Resources](https://github.com/StudentSuite/awesome-study-resources),
+  and [Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students)
+  stay separate lists rather than one (#111).
+- `scripts/weekly-digest.mjs` and `.github/workflows/weekly-digest.yml`: a
+  weekly pinned issue summarizing issues and PRs opened in the last 7 days
+  (#129).
+- `scripts/run-awesome-lint.mjs` and `.github/workflows/awesome-lint.yml`:
+  `awesome-lint` now runs on every PR touching README.md, required before
+  merge, working toward the `sindresorhus/awesome` submission checklist
+  (#103, #102).
+
+### Fixed
+
+- `chadd.org` excluded from the dead-link check config, the same
+  bot-blocking-at-the-edge signature as the existing exclusions rather than
+  a real outage (#139).
+
 ## [2.0.0] - 2026-07-30
 
 ### Changed
