@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-122-blue)
+![Resources](https://img.shields.io/badge/resources-123-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    17     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     6     |
-| 🏠  | [Homeschooling](#homeschooling)                                                |     9     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |     10     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    12     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |     8     |
@@ -210,6 +210,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[GOV.UK Home Education](https://www.gov.uk/home-education)** - Official UK government guidance on home education rights.
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state (free).
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance.
+- **[Pestalozzi Trust](https://pestalozzi.org)** - South African home education legal defense association and guidance (free).
 - **[The Homeschool Mom](https://www.thehomeschoolmom.com)** - Free planners, record-keeping printables, and getting-started guides (free).
 - **[Understood.org](https://www.understood.org)** - Free guidance on homeschooling kids with an IEP, 504 plan, or learning difference (free).
 - **[Wrightslaw](https://www.wrightslaw.com)** - Special education law, IEP, and Section 504 advocacy guidance (free).
