@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-127-blue)
+![Resources](https://img.shields.io/badge/resources-128-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    10     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |     9     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     8     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    18     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    19     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     7     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |     10     |
@@ -129,6 +129,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges (free).
 - **[Exponent](https://www.tryexponent.com/practice)** - Free peer and AI mock interviews for tech and PM roles (freemium).
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates (freemium).
+- **[The Muse](https://www.themuse.com/advice/cover-letter)** - Free cover letter guides, templates, and examples (free).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges (free).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses (free).
 - **[Yoodli](https://yoodli.ai)** - Free AI coach for interview and communication practice (freemium).
