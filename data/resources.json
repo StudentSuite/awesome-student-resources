@@ -176,6 +176,14 @@
     "subsection": null
   },
   {
+    "name": "MoneyHelper",
+    "url": "https://www.moneyhelper.org.uk",
+    "description": "UK government-backed, free guidance on student loan repayment and money management",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "MoneySmart",
     "url": "https://moneysmart.gov.au",
     "description": "The Australian government's official financial literacy and calculator hub",

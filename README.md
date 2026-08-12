@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-120-blue)
+![Resources](https://img.shields.io/badge/resources-121-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    10     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |     9     |
-| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     7     |
+| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     8     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    16     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     6     |
@@ -106,6 +106,7 @@ Budgeting, credit, and banking basics for the money you already have.
 - **[Credit Karma](https://www.creditkarma.com)** - Free credit score monitoring and personalized financial guidance (free).
 - **[Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)** - Free course covering budgeting, credit, and investing basics (free).
 - **[Money Saving Expert](https://www.moneysavingexpert.com)** - Martin Lewis's free UK consumer and student money guidance (free).
+- **[MoneyHelper](https://www.moneyhelper.org.uk)** - UK government-backed, free guidance on student loan repayment and money management (free).
 - **[MoneySmart](https://moneysmart.gov.au)** - The Australian government's official financial literacy and calculator hub (free).
 - **[MyMoney.gov](https://www.mymoney.gov)** - The official US government financial literacy hub (free).
 - **[Practical Money Skills](https://www.practicalmoneyskills.com)** - Visa's free global financial literacy program and resources (free).
