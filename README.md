@@ -39,7 +39,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    20     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     7     |
-| 🏠  | [Homeschooling](#homeschooling)                                                |     10     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |    10     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    13     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |     8     |
