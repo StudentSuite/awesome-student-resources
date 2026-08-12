@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-126-blue)
+![Resources](https://img.shields.io/badge/resources-127-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    10     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |     9     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     8     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    17     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    18     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     7     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |     10     |
@@ -145,6 +145,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[EU Immigration Portal](https://immigration-portal.ec.europa.eu)** - Official European Commission guidance on study visas and residence permits across the EU (free).
 - **[Gap Year Association](https://www.gapyearassociation.org)** - Accredited gap year program directory and planning resources (free).
 - **[GoAbroad](https://www.goabroad.com)** - Directory of study abroad, volunteer, and internship programs worldwide (freemium).
+- **[International Student Insurance](https://www.internationalstudentinsurance.com)** - Compare travel and health insurance plans built for study-abroad students (freemium).
 - **[New Colombo Plan](https://www.dfat.gov.au/people-to-people/new-colombo-plan)** - Australian government program funding study and internships across the Indo-Pacific (free).
 - **[Turing Scheme](https://www.turing-scheme.org.uk)** - The UK's official global study and work abroad funding scheme (free).
 
