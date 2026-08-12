@@ -248,6 +248,14 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Transferology",
+    "url": "https://www.transferology.com",
+    "description": "Free tool to check how your course credits transfer between US colleges",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "UCAS",
     "url": "https://www.ucas.com",
     "description": "The official UK application portal for undergraduate degree courses",
