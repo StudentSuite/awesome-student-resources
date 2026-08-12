@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-124-blue)
+![Resources](https://img.shields.io/badge/resources-125-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -44,7 +44,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |     8     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     7     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     7     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     8     |
 | 👥  | [Communities](#communities)                                                    |    11     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
@@ -319,6 +319,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[CHADD](https://chadd.org)** - Nonprofit support and resources for ADHD, from Children and Adults with ADHD (free).
 - **[Child Mind Institute](https://childmind.org)** - Free, expert guidance on managing test anxiety and exam-day stress (free).
 - **[Headspace](https://www.headspace.com)** - Guided meditation and sleep, free for teens and students (freemium).
+- **[JED Foundation](https://jedfoundation.org)** - Nonprofit resources on managing finals-week and exam-period burnout (free).
 - **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep (free).
 
 </details>
