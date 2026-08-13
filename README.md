@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-156-blue)
+![Resources](https://img.shields.io/badge/resources-157-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     11     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    27     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     7     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     7     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     8     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    11     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    15     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
@@ -213,6 +213,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 - **[Jugend debattiert](https://www.jugend-debattiert.de)** - Germany's official youth debate program and training materials, in German (free).
 - **[National Model United Nations](https://www.nmun.org)** - Model UN conferences and preparation resources from a nonprofit educational organization (freemium).
 - **[National Speech & Debate Association](https://www.speechanddebate.org)** - Topic analysis, competition resources, and event guides (freemium).
+- **[ProCon.org](https://www.procon.org)** - Free, nonpartisan pros-and-cons research on debated issues (free).
 - **[Toastmasters International](https://www.toastmasters.org)** - Global public-speaking clubs and self-study materials (freemium).
 
 </details>
