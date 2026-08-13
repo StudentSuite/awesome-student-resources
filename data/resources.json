@@ -648,6 +648,14 @@
     "subsection": null
   },
   {
+    "name": "Cal.com",
+    "url": "https://cal.com",
+    "description": "Free, open-source, self-hostable scheduling and booking tool",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Firefly III",
     "url": "https://www.firefly-iii.org",
     "description": "Free, open, self-hosted personal finance and budgeting manager",
