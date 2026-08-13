@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-135-blue)
+![Resources](https://img.shields.io/badge/resources-137-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
-| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    10     |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    12     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |     10     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     9     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    20     |
@@ -64,9 +64,11 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Amazon Prime Student](https://www.amazon.com/joinstudent)** - Free six-month trial, then discounted Prime shipping and streaming (freemium).
 - **[Apple Education Store](https://www.apple.com/us-edu/store)** - Official discount pricing on Mac and iPad for students (paid).
 - **[Autodesk Education](https://www.autodesk.com/education/edu-software/overview)** - Free one-year access to Autodesk design and engineering software for verified students (free).
+- **[Canva for Education](https://www.canva.com/education/)** - Canva's paid design tools free for verified K-12 students and teachers (free).
 - **[Figma Education](https://www.figma.com/education/)** - Figma's paid plan free for students and educators with verification (free).
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students (free).
 - **[JetBrains for Students](https://www.jetbrains.com/academy/student-pack/)** - All JetBrains IDEs free for students with a school email (free).
+- **[Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office)** - Free Word, Excel, PowerPoint, and Teams with a school email (free).
 - **[Notion for Education](https://www.notion.com/product/notion-for-education)** - Notion's paid plan free for students with a school email (free).
 - **[Spotify Premium Student](https://www.spotify.com/student/)** - Discounted ad-free music streaming for verified students (paid).
 - **[UNiDAYS](https://www.myunidays.com)** - Free student-verification platform unlocking discounts across hundreds of brands (free).

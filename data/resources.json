@@ -32,6 +32,14 @@
     "subsection": null
   },
   {
+    "name": "Canva for Education",
+    "url": "https://www.canva.com/education/",
+    "description": "Canva's paid design tools free for verified K-12 students and teachers",
+    "pricing": "free",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Figma Education",
     "url": "https://www.figma.com/education/",
     "description": "Figma's paid plan free for students and educators with verification",
@@ -51,6 +59,14 @@
     "name": "JetBrains for Students",
     "url": "https://www.jetbrains.com/academy/student-pack/",
     "description": "All JetBrains IDEs free for students with a school email",
+    "pricing": "free",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Microsoft 365 Education",
+    "url": "https://www.microsoft.com/en-us/education/products/office",
+    "description": "Free Word, Excel, PowerPoint, and Teams with a school email",
     "pricing": "free",
     "section": "Student Discounts & Free Access",
     "subsection": null
