@@ -960,6 +960,14 @@
     "subsection": null
   },
   {
+    "name": "The Trevor Project",
+    "url": "https://www.thetrevorproject.org",
+    "description": "Free, confidential crisis support and resources for LGBTQ+ young people",
+    "pricing": "free",
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "Academia Stack Exchange",
     "url": "https://academia.stackexchange.com",
     "description": "Q&A on academic life, research, and navigating school systems",
