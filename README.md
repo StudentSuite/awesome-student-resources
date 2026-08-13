@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-154-blue)
+![Resources](https://img.shields.io/badge/resources-155-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    10     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    11     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     11     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    27     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     7     |
@@ -94,6 +94,7 @@ Legitimate, fee-free places to find money for school.
 - **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/our-work/current-programs/scholars-program/)** - Free, no-fee scholarships and mentorship for African students (free).
 - **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search engine for students across Asia, Africa, and other developing regions (free).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants (free).
+- **[Society of Women Engineers Scholarships](https://swe.org/apply-for-a-swe-scholarship/)** - Free-to-apply scholarships for women pursuing engineering degrees (free).
 - **[The Scholarship Hub](https://www.thescholarshiphub.org.uk)** - No-fee search across UK scholarships, bursaries, and grants (free).
 
 </details>
