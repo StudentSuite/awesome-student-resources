@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-137-blue)
+![Resources](https://img.shields.io/badge/resources-138-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    20     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     7     |
-| 🏠  | [Homeschooling](#homeschooling)                                                |    10     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |    11     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    13     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |     10     |
@@ -216,6 +216,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[Easy Peasy All-in-One Homeschool](https://allinonehomeschool.com)** - Free, complete K-12 curriculum you can follow day by day (free).
 - **[Freedom Homeschooling](https://freedomhomeschooling.com)** - Free directory of free homeschool curricula sorted by subject (free).
 - **[GOV.UK Home Education](https://www.gov.uk/home-education)** - Official UK government guidance on home education rights.
+- **[Home Education Association](https://www.hea.edu.au)** - Australia's national nonprofit for home educator support, advocacy, and registration guidance (free).
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state (free).
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance.
 - **[Pestalozzi Trust](https://pestalozzi.org)** - South African home education legal defense association and guidance (free).
