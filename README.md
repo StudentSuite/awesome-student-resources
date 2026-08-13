@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    12     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |     10     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    10     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     9     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    22     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
@@ -42,7 +42,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🏠  | [Homeschooling](#homeschooling)                                                |    11     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    14     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |     10     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |    10     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     8     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     9     |
 | 👥  | [Communities](#communities)                                                    |    11     |
