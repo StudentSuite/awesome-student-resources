@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-145-blue)
+![Resources](https://img.shields.io/badge/resources-146-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    12     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    10     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     9     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    24     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    25     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     6     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     7     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    11     |
@@ -129,6 +129,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 <details open>
 <summary>Show resources</summary>
 
+- **[AAUW Work Smart](https://www.aauw.org/resources/programs/salary-negotiation/)** - Free self-paced online training on negotiating salary and job offers (free).
 - **[AHEAD](https://www.ahead.org)** - Resources on requesting disability accommodations and services at university (free).
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays (freemium).
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges (free).
