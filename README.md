@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-141-blue)
+![Resources](https://img.shields.io/badge/resources-143-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -37,7 +37,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    10     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     9     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    22     |
-| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
+| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     6     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     7     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    11     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    14     |
@@ -180,8 +180,10 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 <summary>Show resources</summary>
 
 - **[Apprenticeship.gov](https://www.apprenticeship.gov)** - The official US government registered apprenticeship finder (free).
+- **[Australian Apprenticeships](https://www.dewr.gov.au/australian-apprenticeships)** - The Australian government's hub for apprenticeship and traineeship pathways and support (free).
 - **[Course Report](https://www.coursereport.com)** - Free directory and reviews of coding and tech bootcamps worldwide (free).
 - **[Find an Apprenticeship](https://www.gov.uk/apply-apprenticeship)** - The official UK government apprenticeship search and application service (free).
+- **[Make it in Germany](https://www.make-it-in-germany.com)** - The official German government portal for finding an Ausbildung vocational training placement (free).
 - **[Mike Rowe Works Foundation](https://www.mikeroweworks.org)** - Nonprofit scholarships and advocacy for skilled trades careers (free).
 
 </details>

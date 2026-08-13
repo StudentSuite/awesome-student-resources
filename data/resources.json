@@ -432,6 +432,14 @@
     "subsection": null
   },
   {
+    "name": "Australian Apprenticeships",
+    "url": "https://www.dewr.gov.au/australian-apprenticeships",
+    "description": "The Australian government's hub for apprenticeship and traineeship pathways and support",
+    "pricing": "free",
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "Course Report",
     "url": "https://www.coursereport.com",
     "description": "Free directory and reviews of coding and tech bootcamps worldwide",
@@ -443,6 +451,14 @@
     "name": "Find an Apprenticeship",
     "url": "https://www.gov.uk/apply-apprenticeship",
     "description": "The official UK government apprenticeship search and application service",
+    "pricing": "free",
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
+    "name": "Make it in Germany",
+    "url": "https://www.make-it-in-germany.com",
+    "description": "The official German government portal for finding an Ausbildung vocational training placement",
     "pricing": "free",
     "section": "Vocational & Alternative Paths",
     "subsection": null
