@@ -256,6 +256,14 @@
     "subsection": null
   },
   {
+    "name": "Sorted",
+    "url": "https://sorted.org.nz",
+    "description": "New Zealand's free, government-backed personal finance guidance and tools",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "YNAB",
     "url": "https://www.ynab.com",
     "description": "Budgeting app with a free year-long trial for verified students",
