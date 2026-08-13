@@ -375,7 +375,6 @@ Ask questions and study alongside other students.
 
 ## Sister lists
 
-- [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources) - Tools, textbooks and channels for students.
 - [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) - Exam and subject study material.
 - [awesome-skills-plugins-for-students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - AI coding agent skills and plugins.
 
