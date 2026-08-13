@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-129-blue)
+![Resources](https://img.shields.io/badge/resources-131-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -42,7 +42,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🏠  | [Homeschooling](#homeschooling)                                                |    10     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    13     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |     8     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |     10     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     7     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     8     |
 | 👥  | [Communities](#communities)                                                    |    11     |
@@ -281,11 +281,13 @@ Study skill and mindset books worth your time.
 - **[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)** - Learn math and science even if you struggle (paid).
 - **[Atomic Habits](https://jamesclear.com/atomic-habits)** - Build study habits that actually stick (paid).
 - **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction (paid).
+- **[Grit: The Power of Passion and Perseverance](https://www.angeladuckworth.com/grit)** - Angela Duckworth on why passion and persistence beat raw talent (paid).
 - **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system (paid).
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning (paid).
 - **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets (paid).
 - **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise (paid).
 - **[The 7 Habits of Highly Effective People](https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/)** - Build habits for effective goals and priorities (paid).
+- **[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)** - Scott Young's strategies for aggressive, self-directed skill learning (paid).
 
 </details>
 

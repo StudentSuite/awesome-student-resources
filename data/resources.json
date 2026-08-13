@@ -760,6 +760,14 @@
     "subsection": null
   },
   {
+    "name": "Grit: The Power of Passion and Perseverance",
+    "url": "https://www.angeladuckworth.com/grit",
+    "description": "Angela Duckworth on why passion and persistence beat raw talent",
+    "pricing": "paid",
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
     "name": "How to Take Smart Notes",
     "url": "https://takesmartnotes.com",
     "description": "Turn reading into writing with a note system",
@@ -795,6 +803,14 @@
     "name": "The 7 Habits of Highly Effective People",
     "url": "https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/",
     "description": "Build habits for effective goals and priorities",
+    "pricing": "paid",
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Ultralearning",
+    "url": "https://www.scotthyoung.com/blog/ultralearning/",
+    "description": "Scott Young's strategies for aggressive, self-directed skill learning",
     "pricing": "paid",
     "section": "Books We Trust",
     "subsection": null
