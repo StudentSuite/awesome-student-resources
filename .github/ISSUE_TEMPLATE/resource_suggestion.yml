@@ -27,21 +27,18 @@ body:
       label: Where should it go?
       description: Pick the closest matching section from the README
       options:
-        - Exam & Curriculum Prep
-        - By Subject
-        - Notes & Knowledge Management
-        - Flashcards & Spaced Repetition
-        - Task, Time & Planning
-        - Writing, Citations & Reference
-        - Diagramming & STEM Tools
-        - Building Software / Learn to Code
         - Student Discounts & Free Access
+        - Scholarships & Financial Aid
+        - Financial Literacy & Money Management
+        - University & Career Prep
+        - Vocational & Alternative Paths
+        - Debate & Public Speaking
+        - Homeschooling
         - FOSS Picks
-        - YouTube Channels We Trust
         - Blogs, Newsletters & Podcasts
         - Books We Trust
-        - Great Textbooks
         - Guides & How-Tos
+        - Mental Health & Wellbeing
         - Communities
         - Not sure / none of these fit
     validations:
