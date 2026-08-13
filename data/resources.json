@@ -344,6 +344,14 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "UAC",
+    "url": "https://www.uac.edu.au",
+    "description": "The official university application portal for New South Wales and the ACT, Australia",
+    "pricing": "free",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "UCAS",
     "url": "https://www.ucas.com",
     "description": "The official UK application portal for undergraduate degree courses",
