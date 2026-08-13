@@ -1096,6 +1096,14 @@
     "subsection": null
   },
   {
+    "name": "I'm First",
+    "url": "https://www.imfirst.org",
+    "description": "Free community and guidance for first-generation college students",
+    "pricing": "free",
+    "section": "Communities",
+    "subsection": null
+  },
+  {
     "name": "Mathematics Stack Exchange",
     "url": "https://math.stackexchange.com",
     "description": "Q&A for working through math problems step by step",
