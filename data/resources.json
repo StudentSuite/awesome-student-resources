@@ -56,6 +56,14 @@
     "subsection": null
   },
   {
+    "name": "Grammarly for Education",
+    "url": "https://www.grammarly.com/edu",
+    "description": "AI writing assistant free for verified students and schools",
+    "pricing": "freemium",
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "JetBrains for Students",
     "url": "https://www.jetbrains.com/academy/student-pack/",
     "description": "All JetBrains IDEs free for students with a school email",

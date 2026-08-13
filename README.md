@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-148-blue)
+![Resources](https://img.shields.io/badge/resources-149-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
-| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    12     |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    10     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     10     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    25     |
@@ -67,6 +67,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Canva for Education](https://www.canva.com/education/)** - Canva's paid design tools free for verified K-12 students and teachers (free).
 - **[Figma Education](https://www.figma.com/education/)** - Figma's paid plan free for students and educators with verification (free).
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students (free).
+- **[Grammarly for Education](https://www.grammarly.com/edu)** - AI writing assistant free for verified students and schools (freemium).
 - **[JetBrains for Students](https://www.jetbrains.com/academy/student-pack/)** - All JetBrains IDEs free for students with a school email (free).
 - **[Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office)** - Free Word, Excel, PowerPoint, and Teams with a school email (free).
 - **[Notion for Education](https://www.notion.com/product/notion-for-education)** - Notion's paid plan free for students with a school email (free).
