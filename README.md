@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-138-blue)
+![Resources](https://img.shields.io/badge/resources-139-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     4     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     7     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    11     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    13     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    14     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |     10     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     8     |
@@ -236,6 +236,7 @@ Fully free and open-source tools worth installing.
 <summary>Show resources</summary>
 
 - **[Anki](https://apps.ankiweb.net)** - Free, open spaced-repetition flashcards (free).
+- **[Firefly III](https://www.firefly-iii.org)** - Free, open, self-hosted personal finance and budgeting manager (free).
 - **[Freeplane](https://www.freeplane.org)** - Free, open mind-mapping tool with AI integration (free).
 - **[GIMP](https://www.gimp.org)** - Free, open image editor (free).
 - **[Habitica](https://habitica.com)** - Free, open-source habit and task tracker with RPG-style gamification (free).

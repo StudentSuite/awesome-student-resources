@@ -592,6 +592,14 @@
     "subsection": null
   },
   {
+    "name": "Firefly III",
+    "url": "https://www.firefly-iii.org",
+    "description": "Free, open, self-hosted personal finance and budgeting manager",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Freeplane",
     "url": "https://www.freeplane.org",
     "description": "Free, open mind-mapping tool with AI integration",
