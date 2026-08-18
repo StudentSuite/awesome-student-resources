@@ -394,6 +394,7 @@ Ask questions and study alongside other students.
 
 - [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) - Exam and subject study material.
 - [awesome-skills-plugins-for-students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - AI coding agent skills and plugins.
+- [awesome-study-tools](https://github.com/studyarena-com/awesome-study-tools#readme) - Curated directory of 176 study and learning tools by category and region.
 
 ---
 
