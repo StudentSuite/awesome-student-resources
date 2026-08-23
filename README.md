@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-159-blue)
+![Resources](https://img.shields.io/badge/resources-160-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    11     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    12     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    27     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     7     |
@@ -89,6 +89,7 @@ Legitimate, fee-free places to find money for school.
 - **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide.
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners (free).
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans (free).
+- **[FindAPhD](https://www.findaphd.com)** - Free search across PhD studentships, funding, and scholarships worldwide (free).
 - **[International Scholarships](https://www.internationalscholarships.com)** - Free searchable database of global scholarships for international students (free).
 - **[LASPAU](https://www.laspau.org)** - Nonprofit scholarship and fellowship programs for students across Latin America and the Caribbean (free).
 - **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/our-work/current-programs/scholars-program/)** - Free, no-fee scholarships and mentorship for African students (free).
