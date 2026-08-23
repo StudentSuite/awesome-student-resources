@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-170-blue)
+![Resources](https://img.shields.io/badge/resources-171-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    13     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    28     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     8     |
@@ -86,6 +86,7 @@ Legitimate, fee-free places to find money for school.
 <summary>Show resources</summary>
 
 - **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily (free).
+- **[Buddy4Study](https://www.buddy4study.com)** - India's largest free scholarship search platform for students (free).
 - **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide.
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners (free).
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans (free).
