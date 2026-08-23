@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-164-blue)
+![Resources](https://img.shields.io/badge/resources-165-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    28     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     7     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     8     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     9     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    12     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    15     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
@@ -212,6 +212,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 
 - **[Best Delegate](https://bestdelegate.com)** - Free Model UN guides, cheat sheets, and training resources (freemium).
 - **[English-Speaking Union](https://www.esu.org)** - International nonprofit promoting debate, public speaking, and language skills (free).
+- **[How to Ace the Impromptu Speech](https://sixminutes.dlugan.com/how-to-impromptu-speech/)** - Free framework-based guide to structuring impromptu and extemporaneous speeches (free).
 - **[IDEA Debatabase](https://idebate.net/resources/debatabase)** - Free database of arguments for and against 700+ debate motions (free).
 - **[Jugend debattiert](https://www.jugend-debattiert.de)** - Germany's official youth debate program and training materials, in German (free).
 - **[National Model United Nations](https://www.nmun.org)** - Model UN conferences and preparation resources from a nonprofit educational organization (freemium).
