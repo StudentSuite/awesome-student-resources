@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-175-blue)
+![Resources](https://img.shields.io/badge/resources-176-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -45,7 +45,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 📖  | [Books We Trust](#books-we-trust)                                              |    11     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     10     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     11     |
-| 👥  | [Communities](#communities)                                                    |    13     |
+| 👥  | [Communities](#communities)                                                    |    14     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -386,6 +386,7 @@ Ask questions and study alongside other students.
 - **[Focusmate](https://www.focusmate.com)** - Free virtual body-doubling sessions to stay accountable while studying (freemium).
 - **[I'm First](https://www.imfirst.org)** - Free community and guidance for first-generation college students (free).
 - **[Mathematics Stack Exchange](https://math.stackexchange.com)** - Q&A for working through math problems step by step (free).
+- **[oSTEM](https://ostem.org)** - Nonprofit professional association and chapter network for LGBTQ+ people in STEM (free).
 - **[r/APStudents](https://www.reddit.com/r/APStudents/)** - Community for AP course and exam prep (free).
 - **[r/GetStudying](https://www.reddit.com/r/GetStudying/)** - Study motivation, methods, and accountability (free).
 - **[r/HomeworkHelp](https://www.reddit.com/r/HomeworkHelp/)** - Large, active community for help across every school subject (free).
