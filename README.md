@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-174-blue)
+![Resources](https://img.shields.io/badge/resources-175-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -43,7 +43,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    16     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    11     |
-| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     9     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     10     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     11     |
 | 👥  | [Communities](#communities)                                                    |    13     |
 
@@ -344,6 +344,7 @@ Meta-skills: how to study, remember, and focus.
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works (freemium).
 - **[Pomodoro Technique](https://www.pomodorotechnique.com)** - Francesco Cirillo's official guide to the Pomodoro time-management method (free).
 - **[Retrieval Practice](https://www.retrievalpractice.org)** - Pooja Agarwal's free guides on retrieval practice, spacing, and interleaving (free).
+- **[Student Guide to Generative AI](https://cep.barnard.edu/student-guide-generative-ai)** - Barnard College's free guide to using AI tools without compromising academic integrity (free).
 - **[Zettelkasten.de](https://zettelkasten.de)** - In-depth guide to the Zettelkasten note-taking and thinking method (free).
 
 </details>
