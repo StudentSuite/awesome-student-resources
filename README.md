@@ -35,16 +35,16 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
-| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     12     |
+| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    29     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     9     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     10     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    10     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    16     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    11     |
-| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     10     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     11     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    10     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    11     |
 | 👥  | [Communities](#communities)                                                    |    14     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
