@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-176-blue)
+![Resources](https://img.shields.io/badge/resources-177-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -37,7 +37,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    29     |
-| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     8     |
+| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     9     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     10     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    16     |
@@ -202,6 +202,7 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 - **[Mike Rowe Works Foundation](https://www.mikeroweworks.org)** - Nonprofit scholarships and advocacy for skilled trades careers (free).
 - **[Onisep](https://www.onisep.fr/formation/apres-la-3-la-voie-professionnelle/apprentissage-se-former-en-alternance)** - France's official public guide to apprenticeship (alternance) training paths, in French (free).
 - **[Red Seal Program](https://www.red-seal.ca)** - Canada's interprovincial trade certification and apprenticeship standard (free).
+- **[Skill India (NSDC)](https://www.nsdcindia.org)** - India's official government hub for vocational training, skilling programs, and certification (free).
 
 </details>
 
