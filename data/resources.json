@@ -864,6 +864,14 @@
     "subsection": null
   },
   {
+    "name": "KeePassXC",
+    "url": "https://keepassxc.org",
+    "description": "Free, open-source, offline password manager",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Krita",
     "url": "https://krita.org",
     "description": "Free, open painting and illustration app",
