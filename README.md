@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-158-blue)
+![Resources](https://img.shields.io/badge/resources-159-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    11     |
-| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     11     |
+| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    27     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     7     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     8     |
@@ -108,6 +108,7 @@ Budgeting, credit, and banking basics for the money you already have.
 <details open>
 <summary>Show resources</summary>
 
+- **[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/paying-for-college/repay-student-debt/)** - The US government's free guide to federal and private student loan repayment options (free).
 - **[Credit Karma](https://www.creditkarma.com)** - Free credit score monitoring and personalized financial guidance (free).
 - **[Financial Consumer Agency of Canada](https://www.canada.ca/en/financial-consumer-agency.html)** - The Canadian government's official financial literacy and money-management hub (free).
 - **[Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)** - Free course covering budgeting, credit, and investing basics (free).
