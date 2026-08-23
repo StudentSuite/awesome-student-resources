@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-162-blue)
+![Resources](https://img.shields.io/badge/resources-163-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -45,7 +45,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 📖  | [Books We Trust](#books-we-trust)                                              |    11     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |     8     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     10     |
-| 👥  | [Communities](#communities)                                                    |    12     |
+| 👥  | [Communities](#communities)                                                    |    13     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -370,6 +370,7 @@ Ask questions and study alongside other students.
 <summary>Show resources</summary>
 
 - **[Academia Stack Exchange](https://academia.stackexchange.com)** - Q&A on academic life, research, and navigating school systems (free).
+- **[AnitaB.org](https://anitab.org)** - Global nonprofit community, mentorship, and career network for women in tech (free).
 - **[Focusmate](https://www.focusmate.com)** - Free virtual body-doubling sessions to stay accountable while studying (freemium).
 - **[I'm First](https://www.imfirst.org)** - Free community and guidance for first-generation college students (free).
 - **[Mathematics Stack Exchange](https://math.stackexchange.com)** - Q&A for working through math problems step by step (free).
