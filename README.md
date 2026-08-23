@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-165-blue)
+![Resources](https://img.shields.io/badge/resources-166-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -37,7 +37,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    12     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    28     |
-| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     7     |
+| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     8     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     9     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    12     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    15     |
@@ -197,6 +197,7 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 - **[Find an Apprenticeship](https://www.gov.uk/apply-apprenticeship)** - The official UK government apprenticeship search and application service (free).
 - **[Make it in Germany](https://www.make-it-in-germany.com)** - The official German government portal for finding an Ausbildung vocational training placement (free).
 - **[Mike Rowe Works Foundation](https://www.mikeroweworks.org)** - Nonprofit scholarships and advocacy for skilled trades careers (free).
+- **[Onisep](https://www.onisep.fr/formation/apres-la-3-la-voie-professionnelle/apprentissage-se-former-en-alternance)** - France's official public guide to apprenticeship (alternance) training paths, in French (free).
 - **[Red Seal Program](https://www.red-seal.ca)** - Canada's interprovincial trade certification and apprenticeship standard (free).
 
 </details>
