@@ -504,6 +504,14 @@
     "subsection": "Part-Time & Student Jobs"
   },
   {
+    "name": "Upwork",
+    "url": "https://www.upwork.com",
+    "description": "Global freelance marketplace for remote work you can do from anywhere",
+    "pricing": "freemium",
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
     "name": "WayUp",
     "url": "https://www.wayup.com",
     "description": "Free job board for internships and part-time work aimed at students",

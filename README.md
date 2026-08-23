@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-161-blue)
+![Resources](https://img.shields.io/badge/resources-162-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    12     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |     12     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    27     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    28     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     7     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |     8     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    12     |
@@ -177,6 +177,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[Milkround](https://www.milkround.com)** - The UK's leading student and graduate job board for part-time work, internships, and schemes (free).
 - **[Snagajob](https://www.snagajob.com)** - Free marketplace for hourly and part-time jobs near campus (free).
 - **[StudentJob](https://www.studentjob.co.uk)** - Free student job board covering part-time work and internships across nine European countries (free).
+- **[Upwork](https://www.upwork.com)** - Global freelance marketplace for remote work you can do from anywhere (freemium).
 - **[WayUp](https://www.wayup.com)** - Free job board for internships and part-time work aimed at students (free).
 
 </details>
