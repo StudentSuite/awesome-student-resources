@@ -864,6 +864,14 @@
     "subsection": null
   },
   {
+    "name": "Jitsi Meet",
+    "url": "https://meet.jit.si",
+    "description": "Free, open-source video calls with no account required",
+    "pricing": "free",
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Joplin",
     "url": "https://joplinapp.org",
     "description": "Free, open note-taking app with markdown and sync",
@@ -1204,6 +1212,14 @@
     "url": "https://www.additudemag.com",
     "description": "Strategies and community support for ADHD and neurodivergent students",
     "pricing": "freemium",
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
+    "name": "ANAD",
+    "url": "https://anad.org/get-support/eating-disorders-helpline/",
+    "description": "Free peer support and treatment referrals for eating disorders",
+    "pricing": null,
     "section": "Mental Health & Wellbeing",
     "subsection": null
   },
