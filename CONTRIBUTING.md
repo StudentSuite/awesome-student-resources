@@ -81,6 +81,18 @@ If your PR removes an entry (dead link, discontinued service, no longer meets th
 
 Single-resource addition PRs don't need their own changelog line (that would be one line per PR, most of the traffic this repo gets). Instead, a maintainer batches every merged single-resource addition into one `Unreleased > Added` entry periodically (roughly every 15-20 merged additions, or before a release, whichever comes first) rather than letting it fall multiple release cycles behind.
 
+### Getting credited
+
+Contributions are tracked with [all-contributors](https://allcontributors.org) in `.all-contributorsrc`, rendered as a table in README.md's Contributors section. This covers non-code contributions too, not just merged PRs: filing a well-documented bug report, reviewing someone else's PR, improving docs, or suggesting a resource all count, using the [contribution type key](https://allcontributors.org/docs/en/emoji-key).
+
+Once the [all-contributors bot](https://allcontributors.org/docs/en/bot/installation) is installed on this repo, add someone (or yourself) by commenting on an issue or PR:
+
+```text
+@all-contributors please add @their-username for content, doc
+```
+
+Use a comma-separated list of [contribution types](https://allcontributors.org/docs/en/emoji-key) (`code`, `content`, `doc`, `bug`, `ideas`, `review`, `infra`, `maintenance`, and others). The bot opens a PR updating `.all-contributorsrc` and regenerating the README table; merge it like any other PR.
+
 ---
 
 ## Optional: run checks locally before you push

@@ -455,6 +455,42 @@ Thanks to everyone who has added a resource, fixed a link, or improved the forma
 
 [![Contributors](https://contrib.rocks/image?repo=StudentSuite/awesome-student-resources)](https://github.com/StudentSuite/awesome-student-resources/graphs/contributors)
 
+Recognized contributions, including non-code ones (bug reports, docs, ideas), via [all-contributors](https://allcontributors.org):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yakew7"><img src="https://avatars.githubusercontent.com/u/86704881?v=4?s=100" width="100px;" alt="Yash Kewlani"/><br /><sub><b>Yash Kewlani</b></sub></a><br /><a href="#content-yakew7" title="Content">🖋</a> <a href="https://github.com/StudentSuite/awesome-student-resources/commits?author=yakew7" title="Documentation">📖</a> <a href="#maintenance-yakew7" title="Maintenance">🚧</a> <a href="https://github.com/StudentSuite/awesome-student-resources/pulls?q=is%3Apr+reviewed-by%3Ayakew7" title="Reviewed Pull Requests">👀</a> <a href="#infra-yakew7" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AnayDhawan"><img src="https://avatars.githubusercontent.com/u/213218064?v=4?s=100" width="100px;" alt="Anay Dhawan"/><br /><sub><b>Anay Dhawan</b></sub></a><br /><a href="#content-AnayDhawan" title="Content">🖋</a> <a href="https://github.com/StudentSuite/awesome-student-resources/commits?author=AnayDhawan" title="Documentation">📖</a> <a href="#maintenance-AnayDhawan" title="Maintenance">🚧</a> <a href="https://github.com/StudentSuite/awesome-student-resources/pulls?q=is%3Apr+reviewed-by%3AAnayDhawan" title="Reviewed Pull Requests">👀</a> <a href="#infra-AnayDhawan" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/di3go04"><img src="https://avatars.githubusercontent.com/u/266192522?v=4?s=100" width="100px;" alt="di3go04"/><br /><sub><b>di3go04</b></sub></a><br /><a href="#content-di3go04" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/deepusnath"><img src="https://avatars.githubusercontent.com/u/11581972?v=4?s=100" width="100px;" alt="Deepu S Nath"/><br /><sub><b>Deepu S Nath</b></sub></a><br /><a href="#content-deepusnath" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShahbazCoder1"><img src="https://avatars.githubusercontent.com/u/164165855?v=4?s=100" width="100px;" alt="Md. Shahbaz Hashmi Ansari"/><br /><sub><b>Md. Shahbaz Hashmi Ansari</b></sub></a><br /><a href="#content-ShahbazCoder1" title="Content">🖋</a> <a href="https://github.com/StudentSuite/awesome-student-resources/commits?author=ShahbazCoder1" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shauryajani"><img src="https://avatars.githubusercontent.com/u/267958137?v=4?s=100" width="100px;" alt="Shaurya Jani"/><br /><sub><b>Shaurya Jani</b></sub></a><br /><a href="#content-shauryajani" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lokeshsahu2804-korba"><img src="https://avatars.githubusercontent.com/u/230186885?v=4?s=100" width="100px;" alt="Lokesh Kumar Sahu"/><br /><sub><b>Lokesh Kumar Sahu</b></sub></a><br /><a href="https://github.com/StudentSuite/awesome-student-resources/commits?author=lokeshsahu2804-korba" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Shivam-1502"><img src="https://avatars.githubusercontent.com/u/161005737?v=4?s=100" width="100px;" alt="Shivam Kumar"/><br /><sub><b>Shivam Kumar</b></sub></a><br /><a href="#content-Shivam-1502" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/therealkratika"><img src="https://avatars.githubusercontent.com/u/191406776?v=4?s=100" width="100px;" alt="Kratika Gupta"/><br /><sub><b>Kratika Gupta</b></sub></a><br /><a href="#content-therealkratika" title="Content">🖋</a> <a href="https://github.com/StudentSuite/awesome-student-resources/commits?author=therealkratika" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ResourceMint"><img src="https://avatars.githubusercontent.com/u/268529574?v=4?s=100" width="100px;" alt="ResourceMint"/><br /><sub><b>ResourceMint</b></sub></a><br /><a href="https://github.com/StudentSuite/awesome-student-resources/commits?author=ResourceMint" title="Documentation">📖</a> <a href="#infra-ResourceMint" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/floze-the-genius"><img src="https://avatars.githubusercontent.com/u/88098863?v=4?s=100" width="100px;" alt="Floze"/><br /><sub><b>Floze</b></sub></a><br /><a href="https://github.com/StudentSuite/awesome-student-resources/issues?q=author%3Afloze-the-genius" title="Bug reports">🐛</a> <a href="#infra-floze-the-genius" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/propcgamer20-png"><img src="https://avatars.githubusercontent.com/u/276521524?v=4?s=100" width="100px;" alt="propcgamer20-png"/><br /><sub><b>propcgamer20-png</b></sub></a><br /><a href="#content-propcgamer20-png" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pollychen-lab"><img src="https://avatars.githubusercontent.com/u/265131177?v=4?s=100" width="100px;" alt="Polly Labs"/><br /><sub><b>Polly Labs</b></sub></a><br /><a href="#content-pollychen-lab" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AndyNian"><img src="https://avatars.githubusercontent.com/u/266546119?v=4?s=100" width="100px;" alt="AndyNian"/><br /><sub><b>AndyNian</b></sub></a><br /><a href="#content-AndyNian" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/androidwangchong"><img src="https://avatars.githubusercontent.com/u/5102037?v=4?s=100" width="100px;" alt="wangchong"/><br /><sub><b>wangchong</b></sub></a><br /><a href="#ideas-androidwangchong" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ---
 
 ## License

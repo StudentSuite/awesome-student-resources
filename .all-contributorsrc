@@ -1,0 +1,163 @@
+{
+  "projectName": "awesome-student-resources",
+  "projectOwner": "StudentSuite",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "yakew7",
+      "name": "Yash Kewlani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86704881?v=4",
+      "profile": "https://github.com/yakew7",
+      "contributions": [
+        "content",
+        "doc",
+        "maintenance",
+        "review",
+        "infra"
+      ]
+    },
+    {
+      "login": "AnayDhawan",
+      "name": "Anay Dhawan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213218064?v=4",
+      "profile": "https://github.com/AnayDhawan",
+      "contributions": [
+        "content",
+        "doc",
+        "maintenance",
+        "review",
+        "infra"
+      ]
+    },
+    {
+      "login": "di3go04",
+      "name": "di3go04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266192522?v=4",
+      "profile": "https://github.com/di3go04",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "deepusnath",
+      "name": "Deepu S Nath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11581972?v=4",
+      "profile": "https://github.com/deepusnath",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ShahbazCoder1",
+      "name": "Md. Shahbaz Hashmi Ansari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164165855?v=4",
+      "profile": "https://github.com/ShahbazCoder1",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "shauryajani",
+      "name": "Shaurya Jani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267958137?v=4",
+      "profile": "https://github.com/shauryajani",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "lokeshsahu2804-korba",
+      "name": "Lokesh Kumar Sahu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230186885?v=4",
+      "profile": "https://github.com/lokeshsahu2804-korba",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Shivam-1502",
+      "name": "Shivam Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161005737?v=4",
+      "profile": "https://github.com/Shivam-1502",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "therealkratika",
+      "name": "Kratika Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191406776?v=4",
+      "profile": "https://github.com/therealkratika",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "ResourceMint",
+      "name": "ResourceMint",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268529574?v=4",
+      "profile": "https://github.com/ResourceMint",
+      "contributions": [
+        "doc",
+        "infra"
+      ]
+    },
+    {
+      "login": "floze-the-genius",
+      "name": "Floze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88098863?v=4",
+      "profile": "https://github.com/floze-the-genius",
+      "contributions": [
+        "bug",
+        "infra"
+      ]
+    },
+    {
+      "login": "propcgamer20-png",
+      "name": "propcgamer20-png",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276521524?v=4",
+      "profile": "https://github.com/propcgamer20-png",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "pollychen-lab",
+      "name": "Polly Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265131177?v=4",
+      "profile": "https://github.com/pollychen-lab",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "AndyNian",
+      "name": "AndyNian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266546119?v=4",
+      "profile": "https://github.com/AndyNian",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "androidwangchong",
+      "name": "wangchong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5102037?v=4",
+      "profile": "https://github.com/androidwangchong",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ]
+}

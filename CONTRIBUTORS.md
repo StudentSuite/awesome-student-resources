@@ -5,6 +5,13 @@ Thanks to everyone who helps keep this list useful, accurate, and up to date.
 Every resource here landed because someone took the time to find it, vet it
 against the [Quality Standards](README.md#quality-standards), and open a PR.
 
+The canonical, auto-generated contributor list (including non-code
+contributions like bug reports and reviews, via
+[all-contributors](https://allcontributors.org)) lives in README.md's
+[Contributors](README.md#contributors) section. See CONTRIBUTING.md's
+"Getting credited" for how to get added there. This file stays as a
+narrative supplement for what each early contributor specifically added.
+
 ## Maintainers
 
 - [@AnayDhawan](https://github.com/AnayDhawan) - creator and maintainer
