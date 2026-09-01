@@ -1,0 +1,39 @@
+name: Quarterly Resource Verification
+
+on:
+  schedule:
+    # 09:00 UTC on the 1st of January, April, July, and October
+    - cron: "0 9 1 1,4,7,10 *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  verification-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 20
+
+      - name: Build this quarter's verification report
+        run: node scripts/check-verification-age.mjs > verification-report.md
+
+      - name: Check for an existing open issue
+        id: find
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          NUMBER=$(gh issue list --state open --search "Quarterly resource verification in:title" \
+            --json number,title --jq '[.[] | select(.title == "Quarterly resource verification")][0].number // ""')
+          echo "number=$NUMBER" >> "$GITHUB_OUTPUT"
+
+      - name: Open the verification issue
+        if: steps.find.outputs.number == ''
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: "Quarterly resource verification"
+          content-filepath: verification-report.md
+          labels: quality
