@@ -160,16 +160,8 @@
     "subsection": null
   },
   {
-    "name": "LASPAU",
-    "url": "https://www.laspau.org",
-    "description": "Nonprofit scholarship and fellowship programs for students across Latin America and the Caribbean",
-    "pricing": "free",
-    "section": "Scholarships & Financial Aid",
-    "subsection": null
-  },
-  {
     "name": "Mastercard Foundation Scholars Program",
-    "url": "https://mastercardfdn.org/en/our-work/current-programs/scholars-program/",
+    "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/",
     "description": "Free, no-fee scholarships and mentorship for African students",
     "pricing": "free",
     "section": "Scholarships & Financial Aid",
@@ -377,7 +369,7 @@
   },
   {
     "name": "The Muse",
-    "url": "https://www.themuse.com/advice/cover-letter",
+    "url": "https://www.themuse.com/advice/cover-letters",
     "description": "Free cover letter guides, templates, and examples",
     "pricing": "free",
     "section": "University & Career Prep",
@@ -433,7 +425,7 @@
   },
   {
     "name": "EU Immigration Portal",
-    "url": "https://immigration-portal.ec.europa.eu",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en",
     "description": "Official European Commission guidance on study visas and residence permits across the EU",
     "pricing": "free",
     "section": "University & Career Prep",

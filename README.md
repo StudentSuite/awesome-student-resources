@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-180-blue)
+![Resources](https://img.shields.io/badge/resources-179-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    13     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    30     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     9     |
@@ -92,8 +92,7 @@ Legitimate, fee-free places to find money for school.
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans (free).
 - **[FindAPhD](https://www.findaphd.com)** - Free search across PhD studentships, funding, and scholarships worldwide (free).
 - **[International Scholarships](https://www.internationalscholarships.com)** - Free searchable database of global scholarships for international students (free).
-- **[LASPAU](https://www.laspau.org)** - Nonprofit scholarship and fellowship programs for students across Latin America and the Caribbean (free).
-- **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/our-work/current-programs/scholars-program/)** - Free, no-fee scholarships and mentorship for African students (free).
+- **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/)** - Free, no-fee scholarships and mentorship for African students (free).
 - **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search engine for students across Asia, Africa, and other developing regions (free).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants (free).
 - **[Society of Women Engineers Scholarships](https://swe.org/apply-for-a-swe-scholarship/)** - Free-to-apply scholarships for women pursuing engineering degrees (free).
@@ -145,7 +144,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates (freemium).
 - **[OUAC](https://www.ouac.on.ca)** - The official application portal for undergraduate admission to Ontario universities (free).
 - **[PracHub](https://prachub.com/interview-guide)** - Browse interview guides and questions by company, role, and topic (free).
-- **[The Muse](https://www.themuse.com/advice/cover-letter)** - Free cover letter guides, templates, and examples (free).
+- **[The Muse](https://www.themuse.com/advice/cover-letters)** - Free cover letter guides, templates, and examples (free).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges (free).
 - **[UAC](https://www.uac.edu.au)** - The official university application portal for New South Wales and the ACT, Australia (free).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses (free).
@@ -160,7 +159,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 
 - **[DA Global](https://daglobal.org)** - Global education access network, formerly Diversity Abroad, covering study abroad and student global programs (free).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program (free).
-- **[EU Immigration Portal](https://immigration-portal.ec.europa.eu)** - Official European Commission guidance on study visas and residence permits across the EU (free).
+- **[EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en)** - Official European Commission guidance on study visas and residence permits across the EU (free).
 - **[Gap Year Association](https://www.gapyearassociation.org)** - Accredited gap year program directory and planning resources (free).
 - **[GoAbroad](https://www.goabroad.com)** - Directory of study abroad, volunteer, and internship programs worldwide (freemium).
 - **[International Student Insurance](https://www.internationalstudentinsurance.com)** - Compare travel and health insurance plans built for study-abroad students (freemium).

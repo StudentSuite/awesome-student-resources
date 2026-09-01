@@ -39,6 +39,22 @@ software), but releases are still tagged so changes are easy to point to.
 - `chadd.org` excluded from the dead-link check config, the same
   bot-blocking-at-the-edge signature as the existing exclusions rather than
   a real outage (#139).
+- `www.canada.ca` and `www.dewr.gov.au` excluded from the dead-link check
+  config, the same bot-blocking-at-the-edge signature as the existing
+  exclusions rather than a real outage (#197, #215, #220).
+- Mastercard Foundation Scholars Program URL updated: the old path
+  redirect-looped indefinitely (#197, #215, #220).
+- EU Immigration Portal URL updated: `immigration-portal.ec.europa.eu` no
+  longer resolves; now points at the equivalent page on
+  `home-affairs.ec.europa.eu` (#197, #215, #220).
+- The Muse cover letter guide URL updated: the old `/advice/cover-letter`
+  path 404s; now points at `/advice/cover-letters` (#197, #215, #220).
+
+### Removed
+
+- LASPAU: the organization ceased operations on September 30, 2023 (their
+  own site confirms this); the listed URL now serves an expired certificate
+  for a defunct `laspau.harvard.edu` redirect (#197, #215, #220).
 
 ## [2.0.0] - 2026-07-30
 

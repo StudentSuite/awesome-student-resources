@@ -39,6 +39,14 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # as the bot-blocking-at-the-edge sites above rather than a server presenting an
 # actually-expired certificate (which would complete the handshake and hand back a
 # cert). Excluding rather than removing a live, real ADHD-support nonprofit entry.
+#
+# www.canada.ca and www.dewr.gov.au: reported across the #197/#215/#220 runs as
+# "HTTP/2 protocol error". Manually verified (curl, both HTTP/2 and HTTP/1.1, from
+# a separate network) that both present current, validly-signed certificates and
+# complete the TLS handshake, then reset the stream (HTTP/2) or hang until timeout
+# (HTTP/1.1) rather than serving a response. Same bot-blocking-at-the-edge signature
+# as the other institutional/government domains above; excluding rather than
+# removing two live, official government resources.
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
@@ -46,4 +54,6 @@ exclude = [
   "https://www.dfat.gov.au/people-to-people/new-colombo-plan",
   "https://www.turing-scheme.org.uk",
   "https://chadd.org/",
+  "https://www.canada.ca/en/financial-consumer-agency.html",
+  "https://www.dewr.gov.au/australian-apprenticeships",
 ]
