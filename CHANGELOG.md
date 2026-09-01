@@ -22,6 +22,17 @@ software), but releases are still tagged so changes are easy to point to.
   Nations, EU Immigration Portal, LASPAU, MoneyHelper, Transferology,
   Pestalozzi Trust, Habitica, JED Foundation, Jugend debattiert,
   International Student Insurance, The Muse, and AHEAD.
+- 34 further single-resource entries merged since #166, closing #168, #169,
+  #173, #175, #176, #177, #178, #179, #180, #181, #182, #183, and #184 among
+  others: AAUW Work Smart, Cal.com, National Centre for Financial Education,
+  Grammarly for Education, I'm First, Red Seal Program, Internshala, Sorted,
+  UAC, Society of Women Engineers Scholarships, Why We Sleep, ProCon.org,
+  Crisis Text Line, Consumer Financial Protection Bureau, FindAPhD, Eduscol,
+  Upwork, AnitaB.org, A Realistic Guide to Time Management, How to Ace the
+  Impromptu Speech, Onisep, Study in Japan, Global Classrooms, DUNEHA,
+  Student Minds, Buddy4Study, Study in the States, Swashikshan, KeePassXC,
+  Student Guide to Generative AI, oSTEM, Skill India (NSDC), ANAD, and
+  PracHub.
 - A short paragraph after the opening description explaining why this list,
   [Awesome Study Resources](https://github.com/StudentSuite/awesome-study-resources),
   and [Awesome Skills & Plugins for Students](https://github.com/StudentSuite/awesome-skills-plugins-for-students)

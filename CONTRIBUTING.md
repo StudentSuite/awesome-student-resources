@@ -79,6 +79,8 @@ Every list is sorted alphabetically (case-insensitive) by the entry name, so pla
 
 If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.
 
+Single-resource addition PRs don't need their own changelog line (that would be one line per PR, most of the traffic this repo gets). Instead, a maintainer batches every merged single-resource addition into one `Unreleased > Added` entry periodically (roughly every 15-20 merged additions, or before a release, whichever comes first) rather than letting it fall multiple release cycles behind.
+
 ---
 
 ## Optional: run checks locally before you push
