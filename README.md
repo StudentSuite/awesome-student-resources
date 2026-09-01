@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-179-blue)
+![Resources](https://img.shields.io/badge/resources-180-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
-| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    13     |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    14     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    13     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    30     |
@@ -72,6 +72,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office)** - Free Word, Excel, PowerPoint, and Teams with a school email (free).
 - **[Notion for Education](https://www.notion.com/product/notion-for-education)** - Notion's paid plan free for students with a school email (free).
 - **[Spotify Premium Student](https://www.spotify.com/student/)** - Discounted ad-free music streaming for verified students (paid).
+- **[Student Beans](https://www.studentbeans.com)** - Verifies student status for discounts across fashion, food, and tech brands worldwide (free).
 - **[UNiDAYS](https://www.myunidays.com)** - Free student-verification platform unlocking discounts across hundreds of brands (free).
 
 </details>
