@@ -146,6 +146,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates (freemium).
 - **[OUAC](https://www.ouac.on.ca)** - The official application portal for undergraduate admission to Ontario universities (free).
 - **[PracHub](https://prachub.com/interview-guide)** - Browse interview guides and questions by company, role, and topic (free).
+- **[ResumeAI](https://withresumeai.com/)** - Free ATS resume checks against a job description (freemium).
 - **[The Muse](https://www.themuse.com/advice/cover-letters)** - Free cover letter guides, templates, and examples (free).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges (free).
 - **[UAC](https://www.uac.edu.au)** - The official university application portal for New South Wales and the ACT, Australia (free).
