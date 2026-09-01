@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-183-blue)
+![Resources](https://img.shields.io/badge/resources-184-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -41,7 +41,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    10     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    17     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    12     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    12     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    10     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    12     |
@@ -305,6 +305,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 - **[Scott Young's Blog](https://www.scotthyoung.com/blog/)** - Deep dives on learning faster and building hard skills (free).
 - **[Stuff You Missed in History Class](https://missedinhistory.com)** - Two-a-week deep dives into overlooked history (free).
 - **[The Learning Scientists Podcast](https://www.learningscientists.org/learning-scientists-podcast)** - Evidence-based study techniques explained by cognitive scientists (free).
+- **[Zeitblüten](https://www.zeitblueten.com)** - German-language blog on time management, focus, and self-organization (freemium).
 
 </details>
 
