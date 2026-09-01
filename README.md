@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-182-blue)
+![Resources](https://img.shields.io/badge/resources-183-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -42,7 +42,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    17     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    11     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |    11     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |    12     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    10     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    12     |
 | 👥  | [Communities](#communities)                                                    |    15     |
@@ -319,6 +319,7 @@ Study skill and mindset books worth your time.
 
 - **[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)** - Learn math and science even if you struggle (paid).
 - **[Atomic Habits](https://jamesclear.com/atomic-habits)** - Build study habits that actually stick (paid).
+- **[Broke Millennial](https://brokemillennial.com/get-the-book/)** - Erin Lowry on student loans, credit, budgeting, and talking about money (paid).
 - **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction (paid).
 - **[Grit: The Power of Passion and Perseverance](https://www.angeladuckworth.com/grit)** - Angela Duckworth on why passion and persistence beat raw talent (paid).
 - **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system (paid).
