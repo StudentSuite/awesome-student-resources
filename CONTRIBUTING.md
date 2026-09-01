@@ -99,6 +99,8 @@ After that, committing with README.md or CONTRIBUTING.md staged runs `scripts/ch
 
 ## CI checks
 
+Branch protection on `main` requires the `check-list-format`, `markdownlint`, and `awesome-lint` checks to pass before a PR can merge. A red check blocks merge; there's no override, so fix what it reports rather than asking for a manual merge.
+
 See [scripts/README.md](scripts/README.md) for a one-page reference of every script, its flags, and which workflow runs it. The rest of this section covers the same ground in prose.
 
 Shortcuts for the commands below: `make lint`, `make test`, `make counts`, `make spellcheck` (see the `Makefile`). Dependency-free, same as everything else in `scripts/`.
