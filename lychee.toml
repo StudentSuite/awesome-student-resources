@@ -47,6 +47,15 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # (HTTP/1.1) rather than serving a response. Same bot-blocking-at-the-edge signature
 # as the other institutional/government domains above; excluding rather than
 # removing two live, official government resources.
+#
+# ncfe.org.in: reported in the #238 run as "SSL certificate not trusted". Manually
+# verified (curl --insecure, openssl s_client) that the server presents a valid
+# leaf certificate for *.ncfe.org.in (issued by Sectigo) but doesn't serve the
+# intermediate certificate needed to complete the chain, a server-side
+# misconfiguration rather than the site being down; curl succeeds with -k and
+# returns HTTP 200 with real content. NCFE is the RBI/SEBI/IRDAI/PFRDA-backed
+# National Centre for Financial Education, a genuine, live resource. Excluding
+# rather than removing it.
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
@@ -56,4 +65,5 @@ exclude = [
   "https://chadd.org/",
   "https://www.canada.ca/en/financial-consumer-agency.html",
   "https://www.dewr.gov.au/australian-apprenticeships",
+  "https://ncfe.org.in/",
 ]

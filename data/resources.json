@@ -384,6 +384,14 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "ResumeAI",
+    "url": "https://withresumeai.com/",
+    "description": "Free ATS resume checks against a job description",
+    "pricing": "freemium",
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "The Muse",
     "url": "https://www.themuse.com/advice/cover-letters",
     "description": "Free cover letter guides, templates, and examples",
