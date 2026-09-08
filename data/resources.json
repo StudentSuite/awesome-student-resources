@@ -248,6 +248,14 @@
     "subsection": null
   },
   {
+    "name": "Investopedia",
+    "url": "https://www.investopedia.com",
+    "description": "Free glossary, articles, and guides covering every personal-finance and investing basic",
+    "pricing": "free",
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "Khan Academy Personal Finance",
     "url": "https://www.khanacademy.org/college-careers-more/personal-finance",
     "description": "Free course covering budgeting, credit, and investing basics",
