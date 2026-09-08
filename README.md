@@ -41,8 +41,8 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    11     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    17     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |    13     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    13     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |    12     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    11     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    13     |
 | 👥  | [Communities](#communities)                                                    |    15     |
@@ -334,6 +334,7 @@ Study skill and mindset books worth your time.
 - **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets (paid).
 - **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise (paid).
 - **[The 7 Habits of Highly Effective People](https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/)** - Build habits for effective goals and priorities (paid).
+- **[The Art of Learning](https://www.simonandschuster.com/books/The-Art-of-Learning/Josh-Waitzkin/9780743277464)** - Josh Waitzkin on the mental principles behind mastering any skill (paid).
 - **[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)** - Scott Young's strategies for aggressive, self-directed skill learning (paid).
 - **[Why We Sleep](https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325)** - Matthew Walker on how sleep drives memory, learning, and health (paid).
 
