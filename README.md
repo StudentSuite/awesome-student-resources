@@ -41,7 +41,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    11     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    17     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    12     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    13     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    12     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    11     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    13     |
@@ -300,6 +300,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 <summary>Show resources</summary>
 
 - **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click (free).
+- **[College Info Geek](https://collegeinfogeek.com)** - Thomas Frank's long-running blog, podcast, and videos on study skills and student productivity (free).
 - **[Cortex](https://www.relay.fm/cortex)** - Weekly conversations on productivity systems, tools, and workflows (free).
 - **[Deep Questions with Cal Newport](https://www.thedeeplife.com/listen/)** - Weekly podcast on deep work, focus, and study strategy (free).
 - **[Farnam Street](https://fs.blog)** - Essays on mental models, decision-making, and clearer thinking (free).
