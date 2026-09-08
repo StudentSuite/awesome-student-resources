@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-186-blue)
+![Resources](https://img.shields.io/badge/resources-189-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -37,13 +37,13 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    12     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    32     |
-| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     9     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    10     |
+| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     10     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    11     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    17     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    12     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    12     |
-| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    10     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    11     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    12     |
 | 👥  | [Communities](#communities)                                                    |    15     |
 
@@ -207,6 +207,7 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 - **[Onisep](https://www.onisep.fr/formation/apres-la-3-la-voie-professionnelle/apprentissage-se-former-en-alternance)** - France's official public guide to apprenticeship (alternance) training paths, in French (free).
 - **[Red Seal Program](https://www.red-seal.ca)** - Canada's interprovincial trade certification and apprenticeship standard (free).
 - **[Skill India (NSDC)](https://www.nsdcindia.org)** - India's official government hub for vocational training, skilling programs, and certification (free).
+- **[SkillsFuture Singapore](https://www.skillsfuture.gov.sg/)** - Singapore's official portal for skills-training credits and course subsidies (free).
 
 </details>
 
@@ -229,6 +230,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 - **[National Speech & Debate Association](https://www.speechanddebate.org)** - Topic analysis, competition resources, and event guides (freemium).
 - **[ProCon.org](https://www.procon.org)** - Free, nonpartisan pros-and-cons research on debated issues (free).
 - **[Toastmasters International](https://www.toastmasters.org)** - Global public-speaking clubs and self-study materials (freemium).
+- **[World Schools Debating Championships](https://www.wsdcdebating.org/services-4)** - The international high-school debate format's free training and adjudication guides (free).
 
 </details>
 
@@ -353,6 +355,7 @@ Meta-skills: how to study, remember, and focus.
 - **[Pomodoro Technique](https://www.pomodorotechnique.com)** - Francesco Cirillo's official guide to the Pomodoro time-management method (free).
 - **[Retrieval Practice](https://www.retrievalpractice.org)** - Pooja Agarwal's free guides on retrieval practice, spacing, and interleaving (free).
 - **[Student Guide to Generative AI](https://cep.barnard.edu/student-guide-generative-ai)** - Barnard College's free guide to using AI tools without compromising academic integrity (free).
+- **[The Learning Scientists](https://www.learningscientists.org)** - Cognitive scientists' blog and posters on evidence-based study strategies (free).
 - **[Zettelkasten.de](https://zettelkasten.de)** - In-depth guide to the Zettelkasten note-taking and thinking method (free).
 
 </details>
