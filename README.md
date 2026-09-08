@@ -35,16 +35,16 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    14     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
-| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    12     |
+| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    13     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    32     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     10     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    11     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    17     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    12     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    13     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    13     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    11     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    12     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    13     |
 | 👥  | [Communities](#communities)                                                    |    15     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
@@ -115,6 +115,7 @@ Budgeting, credit, and banking basics for the money you already have.
 - **[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/paying-for-college/repay-student-debt/)** - The US government's free guide to federal and private student loan repayment options (free).
 - **[Credit Karma](https://www.creditkarma.com)** - Free credit score monitoring and personalized financial guidance (free).
 - **[Financial Consumer Agency of Canada](https://www.canada.ca/en/financial-consumer-agency.html)** - The Canadian government's official financial literacy and money-management hub (free).
+- **[Investopedia](https://www.investopedia.com)** - Free glossary, articles, and guides covering every personal-finance and investing basic (free).
 - **[Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)** - Free course covering budgeting, credit, and investing basics (free).
 - **[Money Saving Expert](https://www.moneysavingexpert.com)** - Martin Lewis's free UK consumer and student money guidance (free).
 - **[MoneyHelper](https://www.moneyhelper.org.uk)** - UK government-backed, free guidance on student loan repayment and money management (free).
@@ -299,6 +300,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 <summary>Show resources</summary>
 
 - **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click (free).
+- **[College Info Geek](https://collegeinfogeek.com)** - Thomas Frank's long-running blog, podcast, and videos on study skills and student productivity (free).
 - **[Cortex](https://www.relay.fm/cortex)** - Weekly conversations on productivity systems, tools, and workflows (free).
 - **[Deep Questions with Cal Newport](https://www.thedeeplife.com/listen/)** - Weekly podcast on deep work, focus, and study strategy (free).
 - **[Farnam Street](https://fs.blog)** - Essays on mental models, decision-making, and clearer thinking (free).
@@ -379,6 +381,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[Crisis Text Line](https://www.crisistextline.org)** - Free, 24/7 text-based crisis support with trained counselors (free).
 - **[Headspace](https://www.headspace.com)** - Guided meditation and sleep, free for teens and students (freemium).
 - **[JED Foundation](https://jedfoundation.org)** - Nonprofit resources on managing finals-week and exam-period burnout (free).
+- **[NAMI HelpLine](https://www.nami.org/nami-helpline/)** - Free, nationwide peer support and resource referrals for mental health conditions (free).
 - **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep (free).
 - **[Student Minds](https://www.studentminds.org.uk/advice-and-info/feeling-homesick-at-university/)** - UK student mental health charity's free guide to coping with homesickness at university (free).
 - **[The Trevor Project](https://www.thetrevorproject.org)** - Free, confidential crisis support and resources for LGBTQ+ young people (free).
