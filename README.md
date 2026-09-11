@@ -350,6 +350,7 @@ Meta-skills: how to study, remember, and focus.
 <summary>Show resources</summary>
 
 - **[A Realistic Guide to Time Management](https://www.todoist.com/inspiration/time-management)** - Todoist's free guide to time-blocking your calendar and building a workable schedule (free).
+- **[AIGuideDZ](https://aiguidedz.com/ai-guide.html)** - Compares ChatGPT, Claude, Gemini, and other AI tools for beginners (free).
 - **[Ali Abdaal](https://aliabdaal.com)** - Evidence-based study and productivity guides (free).
 - **[Anki Manual](https://docs.ankiweb.net/)** - The official guide to spaced repetition with Anki (free).
 - **[Cornell Note-Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)** - Cornell University's official guide to the Cornell note-taking method (free).
