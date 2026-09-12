@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-193-blue)
+![Resources](https://img.shields.io/badge/resources-194-blue)
 ![Sections](https://img.shields.io/badge/sections-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -43,7 +43,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    17     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    13     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    13     |
-| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    11     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    12     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    13     |
 | 👥  | [Communities](#communities)                                                    |    15     |
 
