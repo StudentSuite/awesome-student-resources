@@ -74,6 +74,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Notion for Education](https://www.notion.com/product/notion-for-education)** - Notion's paid plan free for students with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Spotify Premium Student](https://www.spotify.com/student/)** - Discounted ad-free music streaming for verified students ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Student Beans](https://www.studentbeans.com)** - Verifies student status for discounts across fashion, food, and tech brands worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Student Deals Lab](https://studentdealslab.com/tools/)** - Compare student discounts and education plans with dated source notes ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UNiDAYS](https://www.myunidays.com)** - Free student-verification platform unlocking discounts across hundreds of brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
