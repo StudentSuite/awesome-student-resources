@@ -143,6 +143,17 @@
     "subsection": null
   },
   {
+    "name": "Student Deals Lab",
+    "url": "https://studentdealslab.com/tools/",
+    "description": "Compare student discounts and education plans with dated source notes",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "UNiDAYS",
     "url": "https://www.myunidays.com",
     "description": "Free student-verification platform unlocking discounts across hundreds of brands",
