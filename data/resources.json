@@ -550,6 +550,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "ResumeOrbitz",
+    "url": "https://resumeorbitz.com",
+    "description": "Free, ATS-friendly resume builder with 150+ templates, AI-generated content, and a built-in ATS score checker",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "The Muse",
     "url": "https://www.themuse.com/advice/cover-letters",
     "description": "Free cover letter guides, templates, and examples",
