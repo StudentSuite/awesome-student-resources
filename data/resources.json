@@ -627,6 +627,28 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Devpost",
+    "url": "https://devpost.com/",
+    "description": "Student hackathon platform with thousands of student-run events",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
+    "name": "MLH",
+    "url": "https://mlh.io/",
+    "description": "Free calendar of student hackathons and events worldwide",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "openvidstudio",
     "url": "https://openvidstudio.vercel.app",
     "description": "Open-source Remotion pipeline for AI agents to build quick product demo videos",
@@ -649,6 +671,17 @@
     ],
     "section": "University & Career Prep",
     "subsection": "Building & Competitions"
+  },
+  {
+    "name": "DAAD",
+    "url": "https://www.daad.de/en/",
+    "description": "German academic exchange service listing study and scholarship programs",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
   },
   {
     "name": "Erasmus+",
@@ -783,6 +816,17 @@
     "subsection": "Part-Time & Student Jobs"
   },
   {
+    "name": "National Careers Service",
+    "url": "https://nationalcareers.service.gov.uk/",
+    "description": "The UK government's free careers advice, job profiles, and CV tools",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
     "name": "Snagajob",
     "url": "https://www.snagajob.com",
     "description": "Free marketplace for hourly and part-time jobs near campus",
@@ -904,6 +948,17 @@
     "subsection": null
   },
   {
+    "name": "O*NET OnLine",
+    "url": "https://www.onetonline.org/",
+    "description": "The US Labor Department's free database of occupations, skills, and career paths",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "Onisep",
     "url": "https://www.onisep.fr/formation/apres-la-3-la-voie-professionnelle/apprentissage-se-former-en-alternance",
     "description": "France's official public guide to apprenticeship (alternance) training paths, in French",
@@ -945,6 +1000,17 @@
       "free"
     ],
     "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
+    "name": "American Speech and Debate Association",
+    "url": "https://www.americanspeech.org/",
+    "description": "Free handbooks, ballots, rubrics, and white papers for speech and debate",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Debate & Public Speaking",
     "subsection": null
   },
   {
@@ -1391,6 +1457,18 @@
     "subsection": null
   },
   {
+    "name": "Stirling PDF",
+    "url": "https://stirling.com/",
+    "description": "Free, open-source browser tools for merging, splitting, and editing PDFs",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "StudyMap",
     "url": "https://github.com/StudentSuite/StudyMap",
     "description": "Crowdsourced map of student-important places like exam centres and libraries",
@@ -1439,6 +1517,18 @@
     "subsection": null
   },
   {
+    "name": "coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "Complete free study plan for becoming a software engineer",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Community-maintained learning roadmaps for over 30 tech roles",
@@ -1454,6 +1544,18 @@
     "name": "free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "Massive curated list of free programming and computer-science books",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
+    "name": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "Free self-taught computer science curriculum with full course list",
     "pricing": "free",
     "tags": [
       "FOSS",
@@ -1995,6 +2097,17 @@
     "name": "NHS Every Mind Matters",
     "url": "https://www.nhs.uk/every-mind-matters/",
     "description": "Free official guidance on stress, anxiety, and sleep",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
+    "name": "Samaritans",
+    "url": "https://www.samaritans.org/",
+    "description": "Free, confidential support from trained listeners, 24 hours a day",
     "pricing": "free",
     "tags": [
       "free"
