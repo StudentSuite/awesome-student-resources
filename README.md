@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-200-blue)
+![Resources](https://img.shields.io/badge/resources-210-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,16 +36,16 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    14     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    13     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    34     |
-| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    11     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    11     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    38     |
+| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    12     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    12     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    17     |
-| 📦  | [Helpful Repositories](#helpful-repositories)                                  |     4     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    18     |
+| 📦  | [Helpful Repositories](#helpful-repositories)                                  |     6     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    13     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    13     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    11     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    13     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    14     |
 | 👥  | [Communities](#communities)                                                    |    15     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
@@ -166,6 +166,8 @@ Hackathons, competitions, and the tools to build something worth entering.
 <details open>
 <summary>Show resources</summary>
 
+- **[Devpost](https://devpost.com/)** - Student hackathon platform with thousands of student-run events ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MLH](https://mlh.io/)** - Free calendar of student hackathons and events worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[openvidstudio](https://openvidstudio.vercel.app)** - Open-source Remotion pipeline for AI agents to build quick product demo videos ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyMap Competitions](https://studyymap.com/competitions)** - Crowdsourced calendar of student hackathons and competitions worldwide ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
@@ -176,6 +178,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 <details open>
 <summary>Show resources</summary>
 
+- **[DAAD](https://www.daad.de/en/)** - German academic exchange service listing study and scholarship programs ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en)** - Official European Commission guidance on study visas and residence permits across the EU ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Gap Year Association](https://www.gapyearassociation.org)** - Accredited gap year program directory and planning resources ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -196,6 +199,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Handshake](https://joinhandshake.com)** - Free campus recruiting platform connecting students to part-time jobs and internships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Internshala](https://internshala.com)** - India's leading internship and part-time job platform for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Milkround](https://www.milkround.com)** - The UK's leading student and graduate job board for part-time work, internships, and schemes ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[National Careers Service](https://nationalcareers.service.gov.uk/)** - The UK government's free careers advice, job profiles, and CV tools ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Snagajob](https://www.snagajob.com)** - Free marketplace for hourly and part-time jobs near campus ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudentJob](https://www.studentjob.co.uk)** - Free student job board covering part-time work and internships across nine European countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Upwork](https://www.upwork.com)** - Global freelance marketplace for remote work you can do from anywhere ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -219,6 +223,7 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 - **[HVAC School Guide — Cost vs Metro Pay (2026)](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay)** - Free months-to-recoup table for evaluating HVAC training ROI ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Make it in Germany](https://www.make-it-in-germany.com)** - The official German government portal for finding an Ausbildung vocational training placement ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Mike Rowe Works Foundation](https://www.mikeroweworks.org)** - Nonprofit scholarships and advocacy for skilled trades careers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[O*NET OnLine](https://www.onetonline.org/)** - The US Labor Department's free database of occupations, skills, and career paths ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Onisep](https://www.onisep.fr/formation/apres-la-3-la-voie-professionnelle/apprentissage-se-former-en-alternance)** - France's official public guide to apprenticeship (alternance) training paths, in French ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Red Seal Program](https://www.red-seal.ca)** - Canada's interprovincial trade certification and apprenticeship standard ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Skill India (NSDC)](https://www.nsdcindia.org)** - India's official government hub for vocational training, skilling programs, and certification ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -235,6 +240,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 <details open>
 <summary>Show resources</summary>
 
+- **[American Speech and Debate Association](https://www.americanspeech.org/)** - Free handbooks, ballots, rubrics, and white papers for speech and debate ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Best Delegate](https://bestdelegate.com)** - Free Model UN guides, cheat sheets, and training resources ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[English-Speaking Union](https://www.esu.org)** - International nonprofit promoting debate, public speaking, and language skills ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Global Classrooms](https://www.unanca.org/our-work/programs/global-classrooms)** - UNA-NCA's Model UN curriculum and conferences for grades 5-12, including middle school ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -298,6 +304,7 @@ Fully free and open-source tools worth installing.
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[OBS Studio](https://obsproject.com)** - Free, open screen recording and live streaming ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Okular](https://okular.kde.org)** - Free, open universal document viewer with annotations ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Stirling PDF](https://stirling.com/)** - Free, open-source browser tools for merging, splitting, and editing PDFs ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - Crowdsourced map of student-important places like exam centres and libraries ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Vikunja](https://vikunja.io)** - Free, open task and project manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -314,8 +321,10 @@ GitHub repositories worth starring: rosters, roadmaps, and starter material any 
 <summary>Show resources</summary>
 
 - **[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Curated tutorials for building your own Git, database, or shell from scratch ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[coding-interview-university](https://github.com/jwasham/coding-interview-university)** - Complete free study plan for becoming a software engineer ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Community-maintained learning roadmaps for over 30 tech roles ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[free-programming-books](https://github.com/EbookFoundation/free-programming-books)** - Massive curated list of free programming and computer-science books ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[ossu/computer-science](https://github.com/ossu/computer-science)** - Free self-taught computer science curriculum with full course list ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[public-apis](https://github.com/public-apis/public-apis)** - Directory of free public APIs for hackathon and side projects ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
@@ -413,6 +422,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[JED Foundation](https://jedfoundation.org)** - Nonprofit resources on managing finals-week and exam-period burnout ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NAMI HelpLine](https://www.nami.org/nami-helpline/)** - Free, nationwide peer support and resource referrals for mental health conditions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Samaritans](https://www.samaritans.org/)** - Free, confidential support from trained listeners, 24 hours a day ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Student Minds](https://www.studentminds.org.uk/advice-and-info/feeling-homesick-at-university/)** - UK student mental health charity's free guide to coping with homesickness at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Trevor Project](https://www.thetrevorproject.org)** - Free, confidential crisis support and resources for LGBTQ+ young people ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
