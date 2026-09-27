@@ -462,6 +462,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Aced",
+    "url": "https://www.tryexponent.com/practice",
+    "description": "Free peer and AI mock interviews for tech and PM roles, formerly Exponent",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "AHEAD",
     "url": "https://www.ahead.org",
     "description": "Resources on requesting disability accommodations and services at university",
@@ -490,17 +501,6 @@
     "pricing": "free",
     "tags": [
       "free"
-    ],
-    "section": "University & Career Prep",
-    "subsection": "Applications & Resumes"
-  },
-  {
-    "name": "Exponent",
-    "url": "https://www.tryexponent.com/practice",
-    "description": "Free peer and AI mock interviews for tech and PM roles",
-    "pricing": "freemium",
-    "tags": [
-      "freemium"
     ],
     "section": "University & Career Prep",
     "subsection": "Applications & Resumes"

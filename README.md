@@ -141,10 +141,10 @@ What comes after exams: applications, resumes, interviews, and time away from th
 <summary>Show resources</summary>
 
 - **[AAUW Work Smart](https://www.aauw.org/resources/programs/salary-negotiation/)** - Free self-paced online training on negotiating salary and job offers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Aced](https://www.tryexponent.com/practice)** - Free peer and AI mock interviews for tech and PM roles, formerly Exponent ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[AHEAD](https://www.ahead.org)** - Resources on requesting disability accommodations and services at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Exponent](https://www.tryexponent.com/practice)** - Free peer and AI mock interviews for tech and PM roles ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[OUAC](https://www.ouac.on.ca)** - The official application portal for undergraduate admission to Ontario universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[PracHub](https://prachub.com/interview-guide)** - Browse interview guides and questions by company, role, and topic ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
