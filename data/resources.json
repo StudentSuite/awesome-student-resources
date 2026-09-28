@@ -1586,6 +1586,18 @@
     "subsection": null
   },
   {
+    "name": "freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "Free, open curriculum and certifications for web development and programming",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "Free self-taught computer science curriculum with full course list",
