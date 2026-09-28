@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-210-blue)
+![Resources](https://img.shields.io/badge/resources-211-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    38     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    12     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    12     |
-| 🏠  | [Homeschooling](#homeschooling)                                                |    14     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |    15     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    18     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     6     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    13     |
@@ -270,6 +270,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[Eduscol: L'instruction en famille](https://eduscol.education.gouv.fr/5064/l-instruction-dans-la-famille)** - France's official Ministry of Education guidance on home education authorization ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Freedom Homeschooling](https://freedomhomeschooling.com)** - Free directory of free homeschool curricula sorted by subject ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GOV.UK Home Education](https://www.gov.uk/home-education)** - Official UK government guidance on home education rights ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[HAPI](https://hapi.ph)** - Nonprofit national network and advocacy for homeschooling families in the Philippines ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Home Education Association](https://www.hea.edu.au)** - Australia's national nonprofit for home educator support, advocacy, and registration guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

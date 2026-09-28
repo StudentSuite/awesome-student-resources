@@ -1201,6 +1201,17 @@
     "subsection": null
   },
   {
+    "name": "HAPI",
+    "url": "https://hapi.ph",
+    "description": "Nonprofit national network and advocacy for homeschooling families in the Philippines",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
     "name": "Home Education Association",
     "url": "https://www.hea.edu.au",
     "description": "Australia's national nonprofit for home educator support, advocacy, and registration guidance",
