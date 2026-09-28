@@ -187,7 +187,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[New Colombo Plan](https://www.dfat.gov.au/people-to-people/new-colombo-plan)** - Australian government program funding study and internships across the Indo-Pacific ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Study in the States](https://studyinthestates.dhs.gov)** - The US Department of Homeland Security's official guidance on the F-1 student visa process ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[SWAP Working Holidays](https://swap.ca)** - Canada's nonprofit work-and-travel program for gap-year and study/work abroad placements ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
-- **[Turing Scheme](https://www.turing-scheme.org.uk)** - The UK's official global study and work abroad funding scheme ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Turing Scheme](https://www.gov.uk/guidance/turing-scheme-apply-for-funding-for-international-placements)** - The UK government's official study and work abroad funding scheme guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
