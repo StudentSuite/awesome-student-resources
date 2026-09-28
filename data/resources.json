@@ -638,6 +638,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Hack Club",
+    "url": "https://hackclub.com",
+    "description": "Nonprofit network of free coding clubs and hackathons for teens",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "MLH",
     "url": "https://mlh.io/",
     "description": "Free calendar of student hackathons and events worldwide",
