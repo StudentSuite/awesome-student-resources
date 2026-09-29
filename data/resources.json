@@ -2186,6 +2186,17 @@
     "subsection": null
   },
   {
+    "name": "Beyond Blue",
+    "url": "https://www.beyondblue.org.au",
+    "description": "Australia's free 24/7 mental health support and counselling service",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "CHADD",
     "url": "https://chadd.org",
     "description": "Nonprofit support and resources for ADHD, from Children and Adults with ADHD",
