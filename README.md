@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-214-blue)
+![Resources](https://img.shields.io/badge/resources-215-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    14     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
-| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    13     |
+| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    14     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    40     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    12     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    12     |
@@ -123,6 +123,7 @@ Budgeting, credit, and banking basics for the money you already have.
 - **[MoneySmart](https://moneysmart.gov.au)** - The Australian government's official financial literacy and calculator hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MyMoney.gov](https://www.mymoney.gov)** - The official US government financial literacy hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[National Centre for Financial Education](https://ncfe.org.in)** - India's official financial literacy and money-management hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[NSFAS Loan Repayments](https://www.nsfas.org.za/content/repayments.html)** - South Africa's official guide to repaying historical NSFAS student loans ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Practical Money Skills](https://www.practicalmoneyskills.com)** - Visa's free global financial literacy program and resources ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Sorted](https://sorted.org.nz)** - New Zealand's free, government-backed personal finance guidance and tools ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[YNAB](https://www.ynab.com)** - Budgeting app with a free year-long trial for verified students ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).

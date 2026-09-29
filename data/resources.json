@@ -418,6 +418,17 @@
     "subsection": null
   },
   {
+    "name": "NSFAS Loan Repayments",
+    "url": "https://www.nsfas.org.za/content/repayments.html",
+    "description": "South Africa's official guide to repaying historical NSFAS student loans",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "Practical Money Skills",
     "url": "https://www.practicalmoneyskills.com",
     "description": "Visa's free global financial literacy program and resources",
