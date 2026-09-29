@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-238-blue)
+![Resources](https://img.shields.io/badge/resources-239-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    14     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    14     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    16     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    20     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    21     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     8     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    14     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    14     |
@@ -316,6 +316,7 @@ Fully free and open-source tools worth installing.
 - **[GIMP](https://www.gimp.org)** - Free, open image editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Habitica](https://habitica.com)** - Free, open-source habit and task tracker with RPG-style gamification ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Inkscape](https://inkscape.org)** - Free, open vector graphics editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[ipynbtopdf](https://ipynbtopdf.xyz)** - Export Jupyter notebooks to PDFs locally, without uploading files ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Jitsi Meet](https://meet.jit.si)** - Free, open-source video calls with no account required ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Joplin](https://joplinapp.org)** - Free, open note-taking app with markdown and sync ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Kdenlive](https://kdenlive.org)** - Free, open, cross-platform non-linear video editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

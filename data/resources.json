@@ -1582,6 +1582,18 @@
     "subsection": null
   },
   {
+    "name": "ipynbtopdf",
+    "url": "https://ipynbtopdf.xyz",
+    "description": "Export Jupyter notebooks to PDFs locally, without uploading files",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Jitsi Meet",
     "url": "https://meet.jit.si",
     "description": "Free, open-source video calls with no account required",
