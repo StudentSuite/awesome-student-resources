@@ -2241,6 +2241,17 @@
     "subsection": null
   },
   {
+    "name": "StudyGS",
+    "url": "https://www.studygs.net",
+    "description": "Free study-skill guides on note-taking, memory, and test prep",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
     "name": "The Learning Scientists",
     "url": "https://www.learningscientists.org",
     "description": "Cognitive scientists' blog and posters on evidence-based study strategies",
