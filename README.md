@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-219-blue)
+![Resources](https://img.shields.io/badge/resources-220-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
-| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    15     |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    16     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    14     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    41     |
@@ -73,6 +73,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[JetBrains for Students](https://www.jetbrains.com/academy/student-pack/)** - All JetBrains IDEs free for students with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office)** - Free Word, Excel, PowerPoint, and Teams with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Notion for Education](https://www.notion.com/product/notion-for-education)** - Notion's paid plan free for students with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Proton for Students](https://proton.me/student)** - Discounted Proton VPN, Mail, and Drive for verified students ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Spotify Premium Student](https://www.spotify.com/student/)** - Discounted ad-free music streaming for verified students ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Student Beans](https://www.studentbeans.com)** - Verifies student status for discounts across fashion, food, and tech brands worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UNiDAYS](https://www.myunidays.com)** - Free student-verification platform unlocking discounts across hundreds of brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
