@@ -627,6 +627,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "University of Edinburgh LinkedIn Guide",
+    "url": "https://careers.ed.ac.uk/cvs-and-applications/creating-a-linkedin-profile",
+    "description": "Careers-service guide to building a strong student LinkedIn profile",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "Yoodli",
     "url": "https://yoodli.ai",
     "description": "Free AI coach for interview and communication practice",

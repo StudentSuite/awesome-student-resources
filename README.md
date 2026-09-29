@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-215-blue)
+![Resources](https://img.shields.io/badge/resources-216-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    14     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    14     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    40     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    41     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    12     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    12     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    15     |
@@ -156,6 +156,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[UAC](https://www.uac.edu.au)** - The official university application portal for New South Wales and the ACT, Australia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UC Berkeley LinkedIn Guide](https://career.berkeley.edu/Info/LinkedIn)** - Free university career-center guide to building and optimizing a student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[University of Edinburgh LinkedIn Guide](https://careers.ed.ac.uk/cvs-and-applications/creating-a-linkedin-profile)** - Careers-service guide to building a strong student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Yoodli](https://yoodli.ai)** - Free AI coach for interview and communication practice ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 
 </details>
