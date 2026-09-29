@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-229-blue)
+![Resources](https://img.shields.io/badge/resources-230-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    16     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    14     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    43     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    44     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    13     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    13     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    15     |
@@ -184,6 +184,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 <details open>
 <summary>Show resources</summary>
 
+- **[AMEXCID](https://www.gob.mx/amexcid/acciones-y-programas/becas-para-extranjeros-29785)** - Mexico's official postgraduate scholarship program for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[DAAD](https://www.daad.de/en/)** - German academic exchange service listing study and scholarship programs ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en)** - Official European Commission guidance on study visas and residence permits across the EU ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
