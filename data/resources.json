@@ -716,6 +716,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Regeneron ISEF",
+    "url": "https://www.societyforscience.org/isef/",
+    "description": "The world's largest pre-college science and engineering fair",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "StudyMap Competitions",
     "url": "https://studyymap.com/competitions",
     "description": "Crowdsourced calendar of student hackathons and competitions worldwide",
