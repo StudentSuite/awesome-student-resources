@@ -1256,6 +1256,17 @@
     "subsection": null
   },
   {
+    "name": "Kialo Edu",
+    "url": "https://www.kialo-edu.com",
+    "description": "Free platform for structured, visual class debates and discussion",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
     "name": "National Model United Nations",
     "url": "https://www.nmun.org",
     "description": "Model UN conferences and preparation resources from a nonprofit educational organization",
