@@ -1583,6 +1583,18 @@
     "subsection": null
   },
   {
+    "name": "awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "description": "Curated libraries, papers, and tools for quantitative finance",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Curated tutorials for building your own Git, database, or shell from scratch",
