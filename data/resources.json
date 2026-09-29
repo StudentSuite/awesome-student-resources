@@ -1921,6 +1921,17 @@
     "subsection": null
   },
   {
+    "name": "Ikigai",
+    "url": "https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/",
+    "description": "Héctor García and Francesc Miralles on discovering your life's purpose",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
     "name": "Make It Stick",
     "url": "https://www.hup.harvard.edu/books/9780674729018",
     "description": "The science of durable, effective learning",

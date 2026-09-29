@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-222-blue)
+![Resources](https://img.shields.io/badge/resources-223-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -42,7 +42,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🏠  | [Homeschooling](#homeschooling)                                                |    15     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    19     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     8     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |    13     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |    14     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    13     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    11     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    14     |
@@ -381,6 +381,7 @@ Study skill and mindset books worth your time.
 - **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Grit: The Power of Passion and Perseverance](https://www.angeladuckworth.com/grit)** - Angela Duckworth on why passion and persistence beat raw talent ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Ikigai](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)** - Héctor García and Francesc Miralles on discovering your life's purpose ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
