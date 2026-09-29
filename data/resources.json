@@ -539,6 +539,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "CUET",
+    "url": "https://cuet.nta.nic.in",
+    "description": "India's official centralized entrance test for university admissions",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "Novoresume",
     "url": "https://novoresume.com",
     "description": "Free, ATS-friendly resume builder with student-focused templates",
