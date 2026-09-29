@@ -838,6 +838,17 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "IAESTE",
+    "url": "https://iaeste.org",
+    "description": "Free registration for paid technical internships abroad worldwide",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "International Student Insurance",
     "url": "https://www.internationalstudentinsurance.com",
     "description": "Compare travel and health insurance plans built for study-abroad students",
