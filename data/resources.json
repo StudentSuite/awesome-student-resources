@@ -1157,6 +1157,17 @@
     "subsection": null
   },
   {
+    "name": "IIMUN",
+    "url": "https://iimun.in",
+    "description": "India-founded Model UN movement active across 40+ countries",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
     "name": "Jugend debattiert",
     "url": "https://www.jugend-debattiert.de",
     "description": "Germany's official youth debate program and training materials, in German",

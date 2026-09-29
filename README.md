@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-227-blue)
+![Resources](https://img.shields.io/badge/resources-228-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    14     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    43     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    12     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    12     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    13     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    15     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    20     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     8     |
@@ -254,6 +254,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 - **[Global Classrooms](https://www.unanca.org/our-work/programs/global-classrooms)** - UNA-NCA's Model UN curriculum and conferences for grades 5-12, including middle school ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Ace the Impromptu Speech](https://sixminutes.dlugan.com/how-to-impromptu-speech/)** - Free framework-based guide to structuring impromptu and extemporaneous speeches ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[IDEA Debatabase](https://idebate.net/resources/debatabase)** - Free database of arguments for and against 700+ debate motions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[IIMUN](https://iimun.in)** - India-founded Model UN movement active across 40+ countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Jugend debattiert](https://www.jugend-debattiert.de)** - Germany's official youth debate program and training materials, in German ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[National Model United Nations](https://www.nmun.org)** - Model UN conferences and preparation resources from a nonprofit educational organization ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[National Speech & Debate Association](https://www.speechanddebate.org)** - Topic analysis, competition resources, and event guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
