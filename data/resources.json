@@ -1487,6 +1487,18 @@
     "subsection": null
   },
   {
+    "name": "LanguageTool",
+    "url": "https://languagetool.org",
+    "description": "Open-source grammar, style, and spell checker for 30+ languages",
+    "pricing": "freemium",
+    "tags": [
+      "FOSS",
+      "freemium"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "LibreOffice",
     "url": "https://www.libreoffice.org",
     "description": "Free, open office suite: documents, spreadsheets, slides",
