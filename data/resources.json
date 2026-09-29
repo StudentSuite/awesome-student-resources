@@ -849,6 +849,17 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "AfterSchoolAfrica",
+    "url": "https://www.afterschoolafrica.com",
+    "description": "Scholarships, internships, and jobs for African students, updated daily",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
     "name": "Handshake",
     "url": "https://joinhandshake.com",
     "description": "Free campus recruiting platform connecting students to part-time jobs and internships",
