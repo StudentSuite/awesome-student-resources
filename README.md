@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-223-blue)
+![Resources](https://img.shields.io/badge/resources-224-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    12     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    12     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    15     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    19     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    20     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     8     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    14     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    13     |
@@ -308,6 +308,7 @@ Fully free and open-source tools worth installing.
 - **[Inkscape](https://inkscape.org)** - Free, open vector graphics editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Jitsi Meet](https://meet.jit.si)** - Free, open-source video calls with no account required ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Joplin](https://joplinapp.org)** - Free, open note-taking app with markdown and sync ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Kdenlive](https://kdenlive.org)** - Free, open, cross-platform non-linear video editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[KeePassXC](https://keepassxc.org)** - Free, open-source, offline password manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Krita](https://krita.org)** - Free, open painting and illustration app ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[LanguageTool](https://languagetool.org)** - Open-source grammar, style, and spell checker for 30+ languages ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).

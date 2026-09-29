@@ -1496,6 +1496,18 @@
     "subsection": null
   },
   {
+    "name": "Kdenlive",
+    "url": "https://kdenlive.org",
+    "description": "Free, open, cross-platform non-linear video editor",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "KeePassXC",
     "url": "https://keepassxc.org",
     "description": "Free, open-source, offline password manager",
