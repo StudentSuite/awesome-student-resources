@@ -88,6 +88,17 @@
     "subsection": null
   },
   {
+    "name": "ISIC",
+    "url": "https://www.isic.org",
+    "description": "Global student ID unlocking transit, travel, and retail discounts",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "JetBrains for Students",
     "url": "https://www.jetbrains.com/academy/student-pack/",
     "description": "All JetBrains IDEs free for students with a school email",
