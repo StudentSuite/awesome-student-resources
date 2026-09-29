@@ -1157,6 +1157,17 @@
     "subsection": null
   },
   {
+    "name": "WorldSkills",
+    "url": "https://worldskills.org",
+    "description": "The world's biggest international vocational skills competition and network",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "American Speech and Debate Association",
     "url": "https://www.americanspeech.org/",
     "description": "Free handbooks, ballots, rubrics, and white papers for speech and debate",
