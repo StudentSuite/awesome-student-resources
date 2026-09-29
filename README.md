@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-231-blue)
+![Resources](https://img.shields.io/badge/resources-232-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    16     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    14     |
-| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    14     |
+| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    15     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    45     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    13     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    13     |
@@ -122,6 +122,7 @@ Budgeting, credit, and banking basics for the money you already have.
 - **[Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)** - Free course covering budgeting, credit, and investing basics ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Money Saving Expert](https://www.moneysavingexpert.com)** - Martin Lewis's free UK consumer and student money guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MoneyHelper](https://www.moneyhelper.org.uk)** - UK government-backed, free guidance on student loan repayment and money management ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MoneySense](https://www.moneysense.gov.sg)** - Singapore's official national financial education programme and planning tools ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MoneySmart](https://moneysmart.gov.au)** - The Australian government's official financial literacy and calculator hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MyMoney.gov](https://www.mymoney.gov)** - The official US government financial literacy hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[National Centre for Financial Education](https://ncfe.org.in)** - India's official financial literacy and money-management hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

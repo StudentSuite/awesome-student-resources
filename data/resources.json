@@ -407,6 +407,17 @@
     "subsection": null
   },
   {
+    "name": "MoneySense",
+    "url": "https://www.moneysense.gov.sg",
+    "description": "Singapore's official national financial education programme and planning tools",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "MoneySmart",
     "url": "https://moneysmart.gov.au",
     "description": "The Australian government's official financial literacy and calculator hub",
