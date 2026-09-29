@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-233-blue)
+![Resources](https://img.shields.io/badge/resources-234-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    45     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    13     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    13     |
-| 🏠  | [Homeschooling](#homeschooling)                                                |    15     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |    16     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    20     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     8     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    14     |
@@ -289,6 +289,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Pestalozzi Trust](https://pestalozzi.org)** - South African home education legal defense association and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Red EnFamilia Colombia](https://redenfamilia.com.co)** - Colombia's national homeschool community and family-education support network ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Swashikshan](https://swashikshan.org)** - India's national network and support association for homeschooling families ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Homeschool Mom](https://www.thehomeschoolmom.com)** - Free planners, record-keeping printables, and getting-started guides ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Understood.org](https://www.understood.org)** - Free guidance on homeschooling kids with an IEP, 504 plan, or learning difference ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
