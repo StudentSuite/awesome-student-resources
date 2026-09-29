@@ -1812,6 +1812,17 @@
     "subsection": null
   },
   {
+    "name": "Productif au quotidien",
+    "url": "https://matthieudesroches.com/podcast",
+    "description": "French-language podcast on organization, productivity, and time management",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "Radiolab",
     "url": "https://radiolab.org",
     "description": "Science, philosophy, and human-interest stories from WNYC Studios",
