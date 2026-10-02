@@ -385,6 +385,17 @@
     "subsection": null
   },
   {
+    "name": "Banxico Educa",
+    "url": "https://educa.banxico.org.mx/",
+    "description": "Mexico's central bank free financial education courses and games on money and economics",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "Consumer Financial Protection Bureau",
     "url": "https://www.consumerfinance.gov/paying-for-college/repay-student-debt/",
     "description": "The US government's free guide to federal and private student loan repayment options",
