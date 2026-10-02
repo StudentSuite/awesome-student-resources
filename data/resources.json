@@ -1014,6 +1014,17 @@
     "subsection": "Part-Time & Student Jobs"
   },
   {
+    "name": "Computrabajo",
+    "url": "https://www.computrabajo.com/",
+    "description": "Latin America's largest job board, covering part-time work across 19 countries",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
     "name": "Handshake",
     "url": "https://joinhandshake.com",
     "description": "Free campus recruiting platform connecting students to part-time jobs and internships",
