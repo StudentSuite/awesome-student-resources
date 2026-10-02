@@ -176,6 +176,17 @@
     "subsection": null
   },
   {
+    "name": "StudentVerse",
+    "url": "https://studentverse.ae/",
+    "description": "UAE student ID app unlocking discounts on food, fitness, housing, and entertainment",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "UNiDAYS",
     "url": "https://www.myunidays.com",
     "description": "Free student-verification platform unlocking discounts across hundreds of brands",
