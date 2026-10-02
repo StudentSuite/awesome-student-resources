@@ -2850,6 +2850,17 @@
     "subsection": null
   },
   {
+    "name": "She Code Africa",
+    "url": "https://shecodeafrica.org/",
+    "description": "Pan-African nonprofit community and mentorship network for women and girls in tech",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
     "name": "Study Together",
     "url": "https://studytogether.com",
     "description": "Large Discord and livestream community for study accountability",

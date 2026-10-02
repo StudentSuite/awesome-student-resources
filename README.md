@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-261-blue)
+![Resources](https://img.shields.io/badge/resources-262-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -46,7 +46,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    15     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    13     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    17     |
-| 👥  | [Communities](#communities)                                                    |    16     |
+| 👥  | [Communities](#communities)                                                    |    17     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -501,6 +501,7 @@ Ask questions and study alongside other students.
 - **[r/igcse](https://www.reddit.com/r/igcse/)** - Support and resources for IGCSE students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[r/Indian_Academia](https://www.reddit.com/r/Indian_Academia/)** - Active community for Indian students on academics and admissions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[r/SAT](https://www.reddit.com/r/SAT/)** - Strategy, practice, and score discussion for the SAT ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[She Code Africa](https://shecodeafrica.org/)** - Pan-African nonprofit community and mentorship network for women and girls in tech ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Study Together](https://studytogether.com)** - Large Discord and livestream community for study accountability ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyStream](https://www.studystream.live)** - 24/7 video study rooms and a Discord community to stay accountable ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 
