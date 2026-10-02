@@ -275,6 +275,17 @@
     "subsection": null
   },
   {
+    "name": "Global Korea Scholarship",
+    "url": "https://www.studyinkorea.go.kr/en/plan/scholarship.do",
+    "description": "South Korea's official government scholarship covering tuition and living costs for international students",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
     "name": "International Scholarships",
     "url": "https://www.internationalscholarships.com",
     "description": "Free searchable database of global scholarships for international students",

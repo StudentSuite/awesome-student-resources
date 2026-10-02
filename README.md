@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-244-blue)
+![Resources](https://img.shields.io/badge/resources-245-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    18     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    15     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    16     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    15     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    47     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    14     |
@@ -98,6 +98,7 @@ Legitimate, fee-free places to find money for school.
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[FindAPhD](https://www.findaphd.com)** - Free search across PhD studentships, funding, and scholarships worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Fundación Carolina](https://www.fundacioncarolina.es)** - Spanish government-backed scholarships for Latin American postgraduate students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Global Korea Scholarship](https://www.studyinkorea.go.kr/en/plan/scholarship.do)** - South Korea's official government scholarship covering tuition and living costs for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[International Scholarships](https://www.internationalscholarships.com)** - Free searchable database of global scholarships for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/)** - Free, no-fee scholarships and mentorship for African students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MENA Scholar](https://menascholar.com)** - Free directory of study, language, and exchange programs across the Middle East and North Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
