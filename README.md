@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-249-blue)
+![Resources](https://img.shields.io/badge/resources-250-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    18     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    17     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    16     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    49     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    50     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    14     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    14     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    16     |
@@ -207,6 +207,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Study in the States](https://studyinthestates.dhs.gov)** - The US Department of Homeland Security's official guidance on the F-1 student visa process ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[SWAP Working Holidays](https://swap.ca)** - Canada's nonprofit work-and-travel program for gap-year and study/work abroad placements ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Turing Scheme](https://www.gov.uk/guidance/turing-scheme-apply-for-funding-for-international-placements)** - The UK government's official study and work abroad funding scheme guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Türkiye Scholarships](https://www.turkiyeburslari.gov.tr/page/education-in-turkey-2)** - Turkey's official full scholarship and student exchange program for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
