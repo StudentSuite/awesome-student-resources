@@ -627,6 +627,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "MonoEd CV Maker",
+    "url": "https://cv-maker.monoed.africa/",
+    "description": "AI-assisted CV builder for scholarship and job applications across Africa",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "Novoresume",
     "url": "https://novoresume.com",
     "description": "Free, ATS-friendly resume builder with student-focused templates",
