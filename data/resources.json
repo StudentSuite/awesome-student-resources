@@ -1245,6 +1245,17 @@
     "subsection": null
   },
   {
+    "name": "SENAI",
+    "url": "https://www.senai.portaldaindustria.com.br/para-voce/estude-aqui-no-senai",
+    "description": "Brazil's national industrial training network offering free and paid vocational courses",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "Skill India (NSDC)",
     "url": "https://www.nsdcindia.org",
     "description": "India's official government hub for vocational training, skilling programs, and certification",
