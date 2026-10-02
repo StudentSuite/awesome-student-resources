@@ -1058,6 +1058,17 @@
     "subsection": "Part-Time & Student Jobs"
   },
   {
+    "name": "JobStreet",
+    "url": "https://www.jobstreet.com/",
+    "description": "Leading Southeast Asian job board with part-time and internship listings for students",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
     "name": "Milkround",
     "url": "https://www.milkround.com",
     "description": "The UK's leading student and graduate job board for part-time work, internships, and schemes",
