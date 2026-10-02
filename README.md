@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-257-blue)
+![Resources](https://img.shields.io/badge/resources-258-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -42,7 +42,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🏠  | [Homeschooling](#homeschooling)                                                |    17     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    23     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     9     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |    14     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    15     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    12     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    15     |
@@ -418,6 +418,7 @@ Study skill and mindset books worth your time.
 - **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[The 7 Habits of Highly Effective People](https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/)** - Build habits for effective goals and priorities ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[The Art of Learning](https://www.simonandschuster.com/books/The-Art-of-Learning/Josh-Waitzkin/9780743277464)** - Josh Waitzkin on the mental principles behind mastering any skill ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[The Courage to Be Disliked](https://www.simonandschuster.com/books/The-Courage-to-Be-Disliked/Ichiro-Kishimi/9781668065969)** - Japanese bestseller on Adlerian psychology, self-acceptance, and choosing your own path ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)** - Scott Young's strategies for aggressive, self-directed skill learning ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Why We Sleep](https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325)** - Matthew Walker on how sleep drives memory, learning, and health ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 
