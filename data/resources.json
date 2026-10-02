@@ -1311,6 +1311,17 @@
     "subsection": null
   },
   {
+    "name": "Asociación Mexicana de Debate",
+    "url": "https://www.debatemexico.org/quienes-somos",
+    "description": "Mexico's national debate association running school and university tournaments",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
     "name": "Best Delegate",
     "url": "https://bestdelegate.com",
     "description": "Free Model UN guides, cheat sheets, and training resources",

@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-253-blue)
+![Resources](https://img.shields.io/badge/resources-254-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    16     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    52     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    15     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    14     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    15     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    16     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    22     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     9     |
@@ -268,6 +268,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 <summary>Show resources</summary>
 
 - **[American Speech and Debate Association](https://www.americanspeech.org/)** - Free handbooks, ballots, rubrics, and white papers for speech and debate ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Asociación Mexicana de Debate](https://www.debatemexico.org/quienes-somos)** - Mexico's national debate association running school and university tournaments ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Best Delegate](https://bestdelegate.com)** - Free Model UN guides, cheat sheets, and training resources ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[English-Speaking Union](https://www.esu.org)** - International nonprofit promoting debate, public speaking, and language skills ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Global Classrooms](https://www.unanca.org/our-work/programs/global-classrooms)** - UNA-NCA's Model UN curriculum and conferences for grades 5-12, including middle school ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
