@@ -329,6 +329,7 @@ Fully free and open-source tools worth installing.
 - **[Stirling PDF](https://stirling.com/)** - Free, open-source browser tools for merging, splitting, and editing PDFs ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - Crowdsourced map of student-important places like exam centres and libraries ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Vikunja](https://vikunja.io)** - Free, open task and project manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[YYLO](https://github.com/yylo-dev/yylo)** - Orchestrate AI coding agents from the terminal with repeatable workflows ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
