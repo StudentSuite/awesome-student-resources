@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-259-blue)
+![Resources](https://img.shields.io/badge/resources-260-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -45,7 +45,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    15     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    13     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    15     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    16     |
 | 👥  | [Communities](#communities)                                                    |    16     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
@@ -463,6 +463,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[ANAD](https://anad.org/get-support/eating-disorders-helpline/)** - Free peer support and treatment referrals for eating disorders ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Befrienders Worldwide](https://befrienders.org)** - Free directory of confidential emotional-support helplines worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Beyond Blue](https://www.beyondblue.org.au)** - Australia's free 24/7 mental health support and counselling service ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Canadian Mental Health Association](https://cmha.ca/)** - National charity offering free mental health support, information, and local programs ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CHADD](https://chadd.org)** - Nonprofit support and resources for ADHD, from Children and Adults with ADHD ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Child Mind Institute](https://childmind.org)** - Free, expert guidance on managing test anxiety and exam-day stress ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Crisis Text Line](https://www.crisistextline.org)** - Free, 24/7 text-based crisis support with trained counselors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

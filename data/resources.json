@@ -2564,6 +2564,17 @@
     "subsection": null
   },
   {
+    "name": "Canadian Mental Health Association",
+    "url": "https://cmha.ca/",
+    "description": "National charity offering free mental health support, information, and local programs",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "CHADD",
     "url": "https://chadd.org",
     "description": "Nonprofit support and resources for ADHD, from Children and Adults with ADHD",
