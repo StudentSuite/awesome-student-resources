@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-240-blue)
+![Resources](https://img.shields.io/badge/resources-241-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -41,7 +41,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    14     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    16     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    22     |
-| 📦  | [Helpful Repositories](#helpful-repositories)                                  |     8     |
+| 📦  | [Helpful Repositories](#helpful-repositories)                                  |     9     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    14     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    14     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    12     |
@@ -343,6 +343,7 @@ GitHub repositories worth starring: rosters, roadmaps, and starter material any 
 <details open>
 <summary>Show resources</summary>
 
+- **[awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities)** - Curated tools and resources for computational and quantitative humanities research ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)** - Curated libraries, papers, and tools for quantitative finance ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Curated tutorials for building your own Git, database, or shell from scratch ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[coding-interview-university](https://github.com/jwasham/coding-interview-university)** - Complete free study plan for becoming a software engineer ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

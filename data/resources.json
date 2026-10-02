@@ -1762,6 +1762,18 @@
     "subsection": null
   },
   {
+    "name": "awesome-digital-humanities",
+    "url": "https://github.com/dh-tech/awesome-digital-humanities",
+    "description": "Curated tools and resources for computational and quantitative humanities research",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "awesome-quant",
     "url": "https://github.com/wilsonfreitas/awesome-quant",
     "description": "Curated libraries, papers, and tools for quantitative finance",
