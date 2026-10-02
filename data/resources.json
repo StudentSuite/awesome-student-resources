@@ -2168,6 +2168,17 @@
     "subsection": null
   },
   {
+    "name": "TED en Español",
+    "url": "https://www.ted.com/podcasts/ted-en-espanol",
+    "description": "Weekly Spanish-language podcast of TED talks on ideas worth spreading",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "The Learning Scientists Podcast",
     "url": "https://www.learningscientists.org/learning-scientists-podcast",
     "description": "Evidence-based study techniques explained by cognitive scientists",
