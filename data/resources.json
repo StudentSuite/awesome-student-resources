@@ -1880,6 +1880,18 @@
     "subsection": null
   },
   {
+    "name": "Thunderbird",
+    "url": "https://www.thunderbird.net/",
+    "description": "Free, open-source email client with calendar and contacts built in",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Vikunja",
     "url": "https://vikunja.io",
     "description": "Free, open task and project manager",
