@@ -1738,6 +1738,18 @@
     "subsection": null
   },
   {
+    "name": "YYLO",
+    "url": "https://github.com/yylo-dev/yylo",
+    "description": "Orchestrate AI coding agents from the terminal with repeatable workflows",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Zotero",
     "url": "https://www.zotero.org",
     "description": "Free, open reference and citation manager",
