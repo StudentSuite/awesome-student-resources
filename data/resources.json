@@ -143,6 +143,17 @@
     "subsection": null
   },
   {
+    "name": "Rakuten Gakuwari",
+    "url": "https://event.rakuten.co.jp/young/",
+    "description": "Free Japanese shopping and entertainment discount program for students aged 15-25",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Spotify Premium Student",
     "url": "https://www.spotify.com/student/",
     "description": "Discounted ad-free music streaming for verified students",
