@@ -1553,6 +1553,17 @@
     "subsection": null
   },
   {
+    "name": "HoSA (Homeschool Association of Japan)",
+    "url": "https://homeschool.ne.jp/en/",
+    "description": "Nonprofit community, resources, and networking for homeschooling families in Japan",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
     "name": "HSLDA",
     "url": "https://hslda.org/legal/",
     "description": "US homeschool laws, record-keeping, and testing requirements by state",

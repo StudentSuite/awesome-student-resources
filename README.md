@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-254-blue)
+![Resources](https://img.shields.io/badge/resources-255-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    52     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    15     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    15     |
-| 🏠  | [Homeschooling](#homeschooling)                                                |    16     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |    17     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    22     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     9     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    14     |
@@ -302,6 +302,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[GOV.UK Home Education](https://www.gov.uk/home-education)** - Official UK government guidance on home education rights ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HAPI](https://hapi.ph)** - Nonprofit national network and advocacy for homeschooling families in the Philippines ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Home Education Association](https://www.hea.edu.au)** - Australia's national nonprofit for home educator support, advocacy, and registration guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[HoSA (Homeschool Association of Japan)](https://homeschool.ne.jp/en/)** - Nonprofit community, resources, and networking for homeschooling families in Japan ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Pestalozzi Trust](https://pestalozzi.org)** - South African home education legal defense association and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
