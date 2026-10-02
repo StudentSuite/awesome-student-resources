@@ -937,6 +937,17 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "JASSO",
+    "url": "https://www.jasso.go.jp/en/index.html",
+    "description": "Japan's official student exchange support, scholarships, and study-abroad services",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "New Colombo Plan",
     "url": "https://www.dfat.gov.au/people-to-people/new-colombo-plan",
     "description": "Australian government program funding study and internships across the Indo-Pacific",
