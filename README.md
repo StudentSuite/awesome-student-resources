@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-267-blue)
+![Resources](https://img.shields.io/badge/resources-268-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    18     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    17     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    16     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    53     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    54     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    15     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    15     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -218,6 +218,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 <summary>Show resources</summary>
 
 - **[AfterSchoolAfrica](https://www.afterschoolafrica.com)** - Scholarships, internships, and jobs for African students, updated daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Bayt](https://www.bayt.com)** - Find jobs and internships across the Middle East and Gulf ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Computrabajo](https://www.computrabajo.com/)** - Latin America's largest job board, covering part-time work across 19 countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Handshake](https://joinhandshake.com)** - Free campus recruiting platform connecting students to part-time jobs and internships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Internshala](https://internshala.com)** - India's leading internship and part-time job platform for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
