@@ -1987,6 +1987,17 @@
     "subsection": null
   },
   {
+    "name": "Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "Learn data science fundamentals in a 10-week, 20-lesson curriculum",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Community-maintained learning roadmaps for over 30 tech roles",
