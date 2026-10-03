@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-266-blue)
+![Resources](https://img.shields.io/badge/resources-267-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -45,7 +45,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    15     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    14     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    17     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    18     |
 | 👥  | [Communities](#communities)                                                    |    17     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
@@ -478,6 +478,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Samaritans](https://www.samaritans.org/)** - Free, confidential support from trained listeners, 24 hours a day ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Student Minds](https://www.studentminds.org.uk/advice-and-info/feeling-homesick-at-university/)** - UK student mental health charity's free guide to coping with homesickness at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Tele-MANAS](https://telemanas.mohfw.gov.in)** - India's free 24/7 mental health helpline, dial 14416 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Trevor Project](https://www.thetrevorproject.org)** - Free, confidential crisis support and resources for LGBTQ+ young people ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>

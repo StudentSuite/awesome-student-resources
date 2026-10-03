@@ -2729,6 +2729,17 @@
     "subsection": null
   },
   {
+    "name": "Tele-MANAS",
+    "url": "https://telemanas.mohfw.gov.in",
+    "description": "India's free 24/7 mental health helpline, dial 14416",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "The Trevor Project",
     "url": "https://www.thetrevorproject.org",
     "description": "Free, confidential crisis support and resources for LGBTQ+ young people",
