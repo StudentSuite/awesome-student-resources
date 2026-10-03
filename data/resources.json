@@ -1366,6 +1366,17 @@
     "subsection": null
   },
   {
+    "name": "TVTC",
+    "url": "https://tvtc.gov.sa/En/Pages/default.aspx",
+    "description": "Saudi Arabia's national technical and vocational training corporation",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "WorldSkills",
     "url": "https://worldskills.org",
     "description": "The world's biggest international vocational skills competition and network",
