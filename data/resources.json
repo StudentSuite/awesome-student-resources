@@ -583,6 +583,17 @@
     "subsection": null
   },
   {
+    "name": "Shiruporuto",
+    "url": "https://www.shiruporuto.jp/e/",
+    "description": "Japan's neutral public information service on finance and money",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "Sorted",
     "url": "https://sorted.org.nz",
     "description": "New Zealand's free, government-backed personal finance guidance and tools",
