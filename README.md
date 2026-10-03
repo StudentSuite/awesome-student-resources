@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-262-blue)
+![Resources](https://img.shields.io/badge/resources-263-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -37,7 +37,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    17     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    16     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    52     |
-| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    15     |
+| 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    16     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    15     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    17     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    23     |
@@ -242,6 +242,7 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 
 - **[Apprenticeship.gov](https://www.apprenticeship.gov)** - The official US government registered apprenticeship finder ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Australian Apprenticeships](https://www.dewr.gov.au/australian-apprenticeships)** - The Australian government's hub for apprenticeship and traineeship pathways and support ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Careerhelp](https://career.help)** - Explains 847 US and Canadian careers one screen at a time ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Course Report](https://www.coursereport.com)** - Free directory and reviews of coding and tech bootcamps worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Find an Apprenticeship](https://www.gov.uk/apply-apprenticeship)** - The official UK government apprenticeship search and application service ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HVAC School Guide — Cost vs Metro Pay (2026)](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay)** - Free months-to-recoup table for evaluating HVAC training ROI ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
