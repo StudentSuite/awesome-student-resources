@@ -462,6 +462,17 @@
     "subsection": null
   },
   {
+    "name": "Egyptian Banking Institute Financial Literacy Hub",
+    "url": "https://ebi.gov.eg/financial-literacy-hub/",
+    "description": "Take self-paced Arabic money courses from Egypt's central bank institute",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "Financial Consumer Agency of Canada",
     "url": "https://www.canada.ca/en/financial-consumer-agency.html",
     "description": "The Canadian government's official financial literacy and money-management hub",
