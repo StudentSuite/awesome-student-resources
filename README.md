@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-270-blue)
+![Resources](https://img.shields.io/badge/resources-271-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    18     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    16     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    54     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    55     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    15     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    15     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -197,6 +197,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 <details open>
 <summary>Show resources</summary>
 
+- **[AIMS](https://aims-rihed.net)** - Semester exchange across Southeast Asian and partner universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[AMEXCID](https://www.gob.mx/amexcid/acciones-y-programas/becas-para-extranjeros-29785)** - Mexico's official postgraduate scholarship program for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[DAAD](https://www.daad.de/en/)** - German academic exchange service listing study and scholarship programs ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
