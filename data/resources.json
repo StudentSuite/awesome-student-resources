@@ -2432,6 +2432,17 @@
     "subsection": null
   },
   {
+    "name": "Feynman Technique",
+    "url": "https://fs.blog/feynman-technique/",
+    "description": "Learn any topic by explaining it in simple terms",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
     "name": "How to Remember Anything Forever-ish",
     "url": "https://ncase.me/remember/",
     "description": "Playable primer on spaced repetition",
