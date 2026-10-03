@@ -55,6 +55,17 @@
     "subsection": null
   },
   {
+    "name": "Documento Nacional do Estudante",
+    "url": "https://www.documentodoestudante.com.br/",
+    "description": "Brazil's official student ID for half-price tickets",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Figma Education",
     "url": "https://www.figma.com/education/",
     "description": "Figma's paid plan free for students and educators with verification",
@@ -102,6 +113,17 @@
     "name": "JetBrains for Students",
     "url": "https://www.jetbrains.com/academy/student-pack/",
     "description": "All JetBrains IDEs free for students with a school email",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "MHexplorer",
+    "url": "https://www.malaysiaairlines.com/my/en/other-offerings/mhexplorer.html",
+    "description": "Malaysia Airlines fare discounts and extra baggage for ages 13 to 26",
     "pricing": "free",
     "tags": [
       "free"
@@ -198,6 +220,17 @@
     "subsection": null
   },
   {
+    "name": "Australia Awards",
+    "url": "https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx",
+    "description": "Australian government scholarships for study from the Pacific and beyond",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
     "name": "Bold.org",
     "url": "https://bold.org",
     "description": "Free, no-fee scholarships matched to your profile daily",
@@ -289,6 +322,17 @@
     "name": "International Scholarships",
     "url": "https://www.internationalscholarships.com",
     "description": "Free searchable database of global scholarships for international students",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
+    "name": "LPDP",
+    "url": "https://lpdp.kemenkeu.go.id/en/",
+    "description": "Indonesian government scholarships for master's and doctoral study",
     "pricing": "free",
     "tags": [
       "free"
@@ -418,6 +462,17 @@
     "subsection": null
   },
   {
+    "name": "Egyptian Banking Institute Financial Literacy Hub",
+    "url": "https://ebi.gov.eg/financial-literacy-hub/",
+    "description": "Take self-paced Arabic money courses from Egypt's central bank institute",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "Financial Consumer Agency of Canada",
     "url": "https://www.canada.ca/en/financial-consumer-agency.html",
     "description": "The Canadian government's official financial literacy and money-management hub",
@@ -539,6 +594,17 @@
     "subsection": null
   },
   {
+    "name": "Shiruporuto",
+    "url": "https://www.shiruporuto.jp/e/",
+    "description": "Japan's neutral public information service on finance and money",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "Sorted",
     "url": "https://sorted.org.nz",
     "description": "New Zealand's free, government-backed personal finance guidance and tools",
@@ -619,6 +685,17 @@
     "name": "CUET",
     "url": "https://cuet.nta.nic.in",
     "description": "India's official centralized entrance test for university admissions",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "JobStreet Career Advice",
+    "url": "https://my.jobstreet.com/career-advice",
+    "description": "Use resume templates and a practice interview tool for Southeast Asia",
     "pricing": "free",
     "tags": [
       "free"
@@ -849,6 +926,28 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Zindi",
+    "url": "https://zindi.world",
+    "description": "Run data science challenges for African problems, with prizes",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
+    "name": "AIMS",
+    "url": "https://aims-rihed.net",
+    "description": "Semester exchange across Southeast Asian and partner universities",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "AMEXCID",
     "url": "https://www.gob.mx/amexcid/acciones-y-programas/becas-para-extranjeros-29785",
     "description": "Mexico's official postgraduate scholarship program for international students",
@@ -959,6 +1058,17 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "Pan African University",
+    "url": "https://pau-au.africa",
+    "description": "African Union postgraduate network with funded scholarships across Africa",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "Study in the States",
     "url": "https://studyinthestates.dhs.gov",
     "description": "The US Department of Homeland Security's official guidance on the F-1 student visa process",
@@ -1006,6 +1116,17 @@
     "name": "AfterSchoolAfrica",
     "url": "https://www.afterschoolafrica.com",
     "description": "Scholarships, internships, and jobs for African students, updated daily",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
+    "name": "Bayt",
+    "url": "https://www.bayt.com",
+    "description": "Find jobs and internships across the Middle East and Gulf",
     "pricing": "free",
     "tags": [
       "free"
@@ -1124,6 +1245,17 @@
     "subsection": "Part-Time & Student Jobs"
   },
   {
+    "name": "Wantedly",
+    "url": "https://www.wantedly.com/",
+    "description": "Find Japanese startup jobs and internships through a free profile",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
     "name": "WayUp",
     "url": "https://www.wayup.com",
     "description": "Free job board for internships and part-time work aimed at students",
@@ -1182,6 +1314,17 @@
     "name": "Find an Apprenticeship",
     "url": "https://www.gov.uk/apply-apprenticeship",
     "description": "The official UK government apprenticeship search and application service",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
+    "name": "Harambee Youth Employment Accelerator",
+    "url": "https://www.harambee.co.za",
+    "description": "Connect South African youth to entry-level work and skills",
     "pricing": "free",
     "tags": [
       "free"
@@ -1300,6 +1443,17 @@
     "subsection": null
   },
   {
+    "name": "TVTC",
+    "url": "https://tvtc.gov.sa/En/Pages/default.aspx",
+    "description": "Saudi Arabia's national technical and vocational training corporation",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "WorldSkills",
     "url": "https://worldskills.org",
     "description": "The world's biggest international vocational skills competition and network",
@@ -1308,6 +1462,17 @@
       "free"
     ],
     "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
+    "name": "African Debating Program",
+    "url": "https://www.africandebatingprogram.org.za/",
+    "description": "Join school debating championships spanning African countries",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Debate & Public Speaking",
     "subsection": null
   },
   {
@@ -1399,6 +1564,17 @@
     "subsection": null
   },
   {
+    "name": "Japan Debate Association",
+    "url": "https://japan-debate-association.org/en/",
+    "description": "Japanese nonprofit running debate education, tournaments, and exchanges",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
     "name": "Jugend debattiert",
     "url": "https://www.jugend-debattiert.de",
     "description": "Germany's official youth debate program and training materials, in German",
@@ -1482,6 +1658,17 @@
     "pricing": "free",
     "tags": [
       "free"
+    ],
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
+    "name": "ANED",
+    "url": "https://aned.org.br",
+    "description": "Brazilian homeschooling association with legal support and family guides",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
     ],
     "section": "Homeschooling",
     "subsection": null
@@ -1987,6 +2174,17 @@
     "subsection": null
   },
   {
+    "name": "Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "Learn data science fundamentals in a 10-week, 20-lesson curriculum",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Community-maintained learning roadmaps for over 30 tech roles",
@@ -2119,6 +2317,17 @@
     "pricing": "free",
     "tags": [
       "free"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
+    "name": "Me Poupe!",
+    "url": "https://mepoupe.com",
+    "description": "Learn personal finance in Portuguese through a blog, podcast, and newsletter",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
     ],
     "section": "Blogs, Newsletters & Podcasts",
     "subsection": null
@@ -2421,6 +2630,17 @@
     "subsection": null
   },
   {
+    "name": "Feynman Technique",
+    "url": "https://fs.blog/feynman-technique/",
+    "description": "Learn any topic by explaining it in simple terms",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
     "name": "How to Remember Anything Forever-ish",
     "url": "https://ncase.me/remember/",
     "description": "Playable primer on spaced repetition",
@@ -2696,6 +2916,17 @@
     "subsection": null
   },
   {
+    "name": "Tele-MANAS",
+    "url": "https://telemanas.mohfw.gov.in",
+    "description": "India's free 24/7 mental health helpline, dial 14416",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "The Trevor Project",
     "url": "https://www.thetrevorproject.org",
     "description": "Free, confidential crisis support and resources for LGBTQ+ young people",
@@ -2757,6 +2988,17 @@
     "pricing": "free",
     "tags": [
       "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Laboratoria",
+    "url": "https://laboratoria.la/en",
+    "description": "Join a Latin American network helping women build tech careers",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
     ],
     "section": "Communities",
     "subsection": null
