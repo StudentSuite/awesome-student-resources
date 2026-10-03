@@ -1003,6 +1003,17 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "Pan African University",
+    "url": "https://pau-au.africa",
+    "description": "African Union postgraduate network with funded scholarships across Africa",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "Study in the States",
     "url": "https://studyinthestates.dhs.gov",
     "description": "The US Department of Homeland Security's official guidance on the F-1 student visa process",
