@@ -64,11 +64,11 @@ export function applyCounts(readmeText) {
     }
 
     // Table of Contents rows: | <emoji> | [Name](#slug) | <count> |
-    const tocRow = line.match(/^(\|\s*.*?\s*\|\s*\[.+?\]\(#(.+?)\)\s*\|\s*)(\d+)(\s*\|)$/);
+    const tocRow = line.match(/^(\|\s*.*?\s*\|\s*\[.+?\]\(#(.+?)\)\s*\|)(\s*)(\d+)(\s*)\|$/);
     if (tocRow) {
       tocRowCount += 1;
       const slug = tocRow[2];
-      const stated = Number(tocRow[3]);
+      const stated = Number(tocRow[4]);
       const actual = sectionCounts.get(slug);
       if (actual === undefined) {
         problems.push(`Table of Contents row "#${slug}" doesn't match any section heading.`);
@@ -76,7 +76,18 @@ export function applyCounts(readmeText) {
       }
       if (stated !== actual) {
         problems.push(`Table of Contents "#${slug}" says ${stated}, should be ${actual}.`);
-        return `${tocRow[1]}${actual}${tocRow[4]}`;
+        // Keep the cell the same width and re-center when the digit count changes
+        // (9 -> 10), otherwise the table's pipes drift out of alignment and the
+        // markdownlint / awesome-lint table checks fail.
+        let [left, right] = [tocRow[3], tocRow[5]];
+        const width = left.length + tocRow[4].length + right.length;
+        const digits = String(actual);
+        const padded = left.length > 1 || right.length > 1; // aligned table, not a compact one
+        if (padded && digits.length !== tocRow[4].length && width >= digits.length) {
+          const l = Math.floor((width - digits.length) / 2);
+          [left, right] = [' '.repeat(l), ' '.repeat(width - digits.length - l)];
+        }
+        return `${tocRow[1]}${left}${actual}${right}|`;
       }
       return line;
     }

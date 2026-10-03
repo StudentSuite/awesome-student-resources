@@ -41,7 +41,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    17     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    23     |
-| 📦  | [Helpful Repositories](#helpful-repositories)                                  |     10     |
+| 📦  | [Helpful Repositories](#helpful-repositories)                                  |    10     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    16     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    14     |

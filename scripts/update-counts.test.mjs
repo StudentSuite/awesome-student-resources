@@ -68,3 +68,26 @@ test('applyCounts is idempotent (fixing then re-checking is clean)', () => {
   assert.deepEqual(twice.problems, []);
   assert.equal(twice.updated, once);
 });
+
+test('a count that gains a digit keeps the TOC cell the same width', () => {
+  const entries = (n) => Array.from({ length: n }, (_, i) => `- **[E${i}](https://e${i}.example)** - x (free).`).join('\n');
+  const readme = `# T
+
+![Resources](https://img.shields.io/badge/resources-10-blue)
+![Sections](https://img.shields.io/badge/sections-1-purple)
+
+## Table of Contents
+
+| | Section | Resources |
+| :-: | ------- | :-------: |
+| 1 | [Big](#big) |     9     |
+
+## Big
+
+${entries(10)}
+`;
+  const { updated } = applyCounts(readme);
+  const row = updated.split('\n').find((l) => l.includes('[Big]'));
+  assert.equal(row, '| 1 | [Big](#big) |    10     |');
+  assert.equal(row.length, '| 1 | [Big](#big) |     9     |'.length);
+});
