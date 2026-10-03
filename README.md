@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-283-blue)
+![Resources](https://img.shields.io/badge/resources-284-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    20     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    18     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    57     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    58     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    17     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    17     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -238,6 +238,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Snagajob](https://www.snagajob.com)** - Free marketplace for hourly and part-time jobs near campus ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudentJob](https://www.studentjob.co.uk)** - Free student job board covering part-time work and internships across nine European countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Upwork](https://www.upwork.com)** - Global freelance marketplace for remote work you can do from anywhere ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[Wantedly](https://www.wantedly.com/)** - Find Japanese startup jobs and internships through a free profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[WayUp](https://www.wayup.com)** - Free job board for internships and part-time work aimed at students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
