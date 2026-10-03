@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-279-blue)
+![Resources](https://img.shields.io/badge/resources-280-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    20     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    17     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    56     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    57     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    17     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    17     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -161,6 +161,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CUET](https://cuet.nta.nic.in)** - India's official centralized entrance test for university admissions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[JobStreet Career Advice](https://my.jobstreet.com/career-advice)** - Use resume templates and a practice interview tool for Southeast Asia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MonoEd CV Maker](https://cv-maker.monoed.africa/)** - AI-assisted CV builder for scholarship and job applications across Africa ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[OUAC](https://www.ouac.on.ca)** - The official application portal for undergraduate admission to Ontario universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

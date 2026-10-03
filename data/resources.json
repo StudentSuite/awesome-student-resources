@@ -682,6 +682,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "JobStreet Career Advice",
+    "url": "https://my.jobstreet.com/career-advice",
+    "description": "Use resume templates and a practice interview tool for Southeast Asia",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "MonoEd CV Maker",
     "url": "https://cv-maker.monoed.africa/",
     "description": "AI-assisted CV builder for scholarship and job applications across Africa",
