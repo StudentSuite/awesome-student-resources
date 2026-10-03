@@ -308,6 +308,17 @@
     "subsection": null
   },
   {
+    "name": "LPDP",
+    "url": "https://lpdp.kemenkeu.go.id/en/",
+    "description": "Indonesian government scholarships for master's and doctoral study",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
     "name": "Mandela Rhodes Scholarship",
     "url": "https://www.mandelarhodes.org/scholarship/apply/",
     "description": "Fully funded postgraduate scholarship and leadership program for African students in South Africa",
