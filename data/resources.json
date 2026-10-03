@@ -2300,6 +2300,17 @@
     "subsection": null
   },
   {
+    "name": "Me Poupe!",
+    "url": "https://mepoupe.com",
+    "description": "Learn personal finance in Portuguese through a blog, podcast, and newsletter",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "Ness Labs Newsletter",
     "url": "https://nesslabs.com/newsletter",
     "description": "Neuroscience-backed insights on productivity, focus, and learning",

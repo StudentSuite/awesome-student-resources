@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-281-blue)
+![Resources](https://img.shields.io/badge/resources-282-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -43,7 +43,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    23     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     10     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    15     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    16     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    14     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    18     |
 | 👥  | [Communities](#communities)                                                    |    17     |
@@ -403,6 +403,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 - **[Farnam Street](https://fs.blog)** - Essays on mental models, decision-making, and clearer thinking ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hidden Brain](https://www.hiddenbrain.org)** - NPR podcast exploring the psychology behind everyday decisions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[James Clear's 3-2-1 Newsletter](https://jamesclear.com/3-2-1)** - Weekly ideas, quotes, and questions on habits and learning ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Me Poupe!](https://mepoupe.com)** - Learn personal finance in Portuguese through a blog, podcast, and newsletter ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Ness Labs Newsletter](https://nesslabs.com/newsletter)** - Neuroscience-backed insights on productivity, focus, and learning ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Productif au quotidien](https://matthieudesroches.com/podcast)** - French-language podcast on organization, productivity, and time management ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Radiolab](https://radiolab.org)** - Science, philosophy, and human-interest stories from WNYC Studios ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
