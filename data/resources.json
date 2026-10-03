@@ -849,6 +849,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Zindi",
+    "url": "https://zindi.world",
+    "description": "Run data science challenges for African problems, with prizes",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "AMEXCID",
     "url": "https://www.gob.mx/amexcid/acciones-y-programas/becas-para-extranjeros-29785",
     "description": "Mexico's official postgraduate scholarship program for international students",
