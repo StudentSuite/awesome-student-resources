@@ -1487,6 +1487,17 @@
     "subsection": null
   },
   {
+    "name": "ANED",
+    "url": "https://aned.org.br",
+    "description": "Brazilian homeschooling association with legal support and family guides",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Homeschooling",
+    "subsection": null
+  },
+  {
     "name": "DUNEHA",
     "url": "https://duneha.org",
     "description": "Free, active homeschooling community and support association for Dubai and the Northern Emirates",

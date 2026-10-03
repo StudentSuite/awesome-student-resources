@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-265-blue)
+![Resources](https://img.shields.io/badge/resources-266-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -39,7 +39,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    53     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    15     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    15     |
-| 🏠  | [Homeschooling](#homeschooling)                                                |    17     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    23     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |     10     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
@@ -296,6 +296,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 <summary>Show resources</summary>
 
 - **[Ambleside Online](https://amblesideonline.org)** - Free, complete Charlotte Mason curriculum with book lists and schedules ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[ANED](https://aned.org.br)** - Brazilian homeschooling association with legal support and family guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[DUNEHA](https://duneha.org)** - Free, active homeschooling community and support association for Dubai and the Northern Emirates ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Easy Peasy All-in-One Homeschool](https://allinonehomeschool.com)** - Free, complete K-12 curriculum you can follow day by day ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Eduscol: L'instruction en famille](https://eduscol.education.gouv.fr/5064/l-instruction-dans-la-famille)** - France's official Ministry of Education guidance on home education authorization ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
