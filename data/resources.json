@@ -121,6 +121,17 @@
     "subsection": null
   },
   {
+    "name": "MHexplorer",
+    "url": "https://www.malaysiaairlines.com/my/en/other-offerings/mhexplorer.html",
+    "description": "Malaysia Airlines fare discounts and extra baggage for ages 13 to 26",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Microsoft 365 Education",
     "url": "https://www.microsoft.com/en-us/education/products/office",
     "description": "Free Word, Excel, PowerPoint, and Teams with a school email",
