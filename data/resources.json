@@ -55,6 +55,17 @@
     "subsection": null
   },
   {
+    "name": "Documento Nacional do Estudante",
+    "url": "https://www.documentodoestudante.com.br/",
+    "description": "Brazil's official student ID for half-price tickets",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Figma Education",
     "url": "https://www.figma.com/education/",
     "description": "Figma's paid plan free for students and educators with verification",
