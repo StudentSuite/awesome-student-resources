@@ -1289,6 +1289,17 @@
     "subsection": null
   },
   {
+    "name": "Careerhelp",
+    "url": "https://career.help",
+    "description": "Explains 847 US and Canadian careers one screen at a time",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "Course Report",
     "url": "https://www.coursereport.com",
     "description": "Free directory and reviews of coding and tech bootcamps worldwide",
