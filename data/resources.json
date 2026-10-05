@@ -869,6 +869,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "HackMTY",
+    "url": "https://hackmty-26.devpost.com/",
+    "description": "Student-run hackathon at Tec de Monterrey for Latin America",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "MLH",
     "url": "https://mlh.io/",
     "description": "Free calendar of student hackathons and events worldwide",
