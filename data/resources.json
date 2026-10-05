@@ -2818,6 +2818,17 @@
     "subsection": null
   },
   {
+    "name": "Purdue OWL",
+    "url": "https://owl.purdue.edu/",
+    "description": "Free guides to academic writing, research papers, and APA or MLA citation",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
     "name": "Retrieval Practice",
     "url": "https://www.retrievalpractice.org",
     "description": "Pooja Agarwal's free guides on retrieval practice, spacing, and interleaving",
