@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-295-blue)
+![Resources](https://img.shields.io/badge/resources-296-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    20     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    18     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    61     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    62     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    18     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    18     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -216,6 +216,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[International Student Insurance](https://www.internationalstudentinsurance.com)** - Compare travel and health insurance plans built for study-abroad students ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[JASSO](https://www.jasso.go.jp/en/index.html)** - Japan's official student exchange support, scholarships, and study-abroad services ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[New Colombo Plan](https://www.dfat.gov.au/people-to-people/new-colombo-plan)** - Australian government program funding study and internships across the Indo-Pacific ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Pacific Alliance Student Mobility Platform](https://web.icetex.gov.co/web/portal/becas/becas-para-estudios-en-el-exterior/programas-especiales/plataforma-de-alianza-pacifico/plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico)** - Free exchange scholarships among Chile, Colombia, Mexico, and Peru ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Pan African University](https://pau-au.africa)** - African Union postgraduate network with funded scholarships across Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Study in the States](https://studyinthestates.dhs.gov)** - The US Department of Homeland Security's official guidance on the F-1 student visa process ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[SWAP Working Holidays](https://swap.ca)** - Canada's nonprofit work-and-travel program for gap-year and study/work abroad placements ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
