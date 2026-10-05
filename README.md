@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-301-blue)
+![Resources](https://img.shields.io/badge/resources-302-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    22     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    18     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    63     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    64     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    18     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -167,6 +167,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[JobStreet Career Advice](https://my.jobstreet.com/career-advice)** - Use resume templates and a practice interview tool for Southeast Asia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MonoEd CV Maker](https://cv-maker.monoed.africa/)** - AI-assisted CV builder for scholarship and job applications across Africa ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[OCC Blog de Candidatos](https://blog-candidatos.occ.com.mx/)** - Spanish-language job search, CV, and interview advice for Mexico ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[OUAC](https://www.ouac.on.ca)** - The official application portal for undergraduate admission to Ontario universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[PracHub](https://prachub.com/interview-guide)** - Browse interview guides and questions by company, role, and topic ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ResumeAI](https://withresumeai.com/)** - Free ATS resume checks against a job description ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).

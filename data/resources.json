@@ -748,6 +748,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "OCC Blog de Candidatos",
+    "url": "https://blog-candidatos.occ.com.mx/",
+    "description": "Spanish-language job search, CV, and interview advice for Mexico",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "OUAC",
     "url": "https://www.ouac.on.ca",
     "description": "The official application portal for undergraduate admission to Ontario universities",
