@@ -2905,6 +2905,17 @@
     "subsection": null
   },
   {
+    "name": "Into the Light Indonesia",
+    "url": "https://www.intothelightid.org/",
+    "description": "Indonesian youth community for suicide prevention and mental health education",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "JED Foundation",
     "url": "https://jedfoundation.org",
     "description": "Nonprofit resources on managing finals-week and exam-period burnout",
@@ -2985,9 +2996,9 @@
     "name": "TELL Japan",
     "url": "https://telljp.com",
     "description": "English and Japanese lifeline, chat, and counseling in Japan",
-    "pricing": "free",
+    "pricing": "freemium",
     "tags": [
-      "free"
+      "freemium"
     ],
     "section": "Mental Health & Wellbeing",
     "subsection": null
