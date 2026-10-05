@@ -1113,6 +1113,17 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "Study in India",
+    "url": "https://studyinindia.gov.in",
+    "description": "Indian government portal to find courses and apply as an international student",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "Study in the States",
     "url": "https://studyinthestates.dhs.gov",
     "description": "The US Department of Homeland Security's official guidance on the F-1 student visa process",
