@@ -1509,6 +1509,17 @@
     "subsection": null
   },
   {
+    "name": "VTC Hong Kong",
+    "url": "https://www.vtc.edu.hk/",
+    "description": "Hong Kong's vocational training body with diploma, degree, and earn-and-learn routes",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Vocational & Alternative Paths",
+    "subsection": null
+  },
+  {
     "name": "WorldSkills",
     "url": "https://worldskills.org",
     "description": "The world's biggest international vocational skills competition and network",
