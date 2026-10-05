@@ -2355,6 +2355,18 @@
     "subsection": null
   },
   {
+    "name": "system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn to design large-scale systems and prepare for interviews",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "Breaking Math",
     "url": "https://www.breakingmath.io",
     "description": "Weekly conversations making math concepts click",
