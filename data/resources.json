@@ -948,6 +948,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Unstop",
+    "url": "https://unstop.com/hackathons",
+    "description": "Hackathons, quizzes, and case competitions for students in India",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "Zindi",
     "url": "https://zindi.world",
     "description": "Run data science challenges for African problems, with prizes",
