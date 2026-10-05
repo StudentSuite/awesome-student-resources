@@ -3103,6 +3103,17 @@
     "subsection": null
   },
   {
+    "name": "National Union of Students Australia",
+    "url": "https://nus.asn.au/",
+    "description": "Australia's peak student body, run through campus student unions",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
     "name": "oSTEM",
     "url": "https://ostem.org",
     "description": "Nonprofit professional association and chapter network for LGBTQ+ people in STEM",

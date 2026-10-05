@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-293-blue)
+![Resources](https://img.shields.io/badge/resources-294-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -46,7 +46,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    16     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    14     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    22     |
-| 👥  | [Communities](#communities)                                                    |    19     |
+| 👥  | [Communities](#communities)                                                    |    20     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -524,6 +524,7 @@ Ask questions and study alongside other students.
 - **[I'm First](https://www.imfirst.org)** - Free community and guidance for first-generation college students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Laboratoria](https://laboratoria.la/en)** - Join a Latin American network helping women build tech careers ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Mathematics Stack Exchange](https://math.stackexchange.com)** - Q&A for working through math problems step by step ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[National Union of Students Australia](https://nus.asn.au/)** - Australia's peak student body, run through campus student unions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[oSTEM](https://ostem.org)** - Nonprofit professional association and chapter network for LGBTQ+ people in STEM ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[r/APStudents](https://www.reddit.com/r/APStudents/)** - Community for AP course and exam prep ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[r/GetStudying](https://www.reddit.com/r/GetStudying/)** - Study motivation, methods, and accountability ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
