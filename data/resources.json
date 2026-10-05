@@ -2927,6 +2927,17 @@
     "subsection": null
   },
   {
+    "name": "SADAG",
+    "url": "https://www.sadag.org",
+    "description": "South African helplines and free support groups for depression and anxiety",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "Samaritans",
     "url": "https://www.samaritans.org/",
     "description": "Free, confidential support from trained listeners, 24 hours a day",
