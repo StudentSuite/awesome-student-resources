@@ -493,6 +493,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 <details open>
 <summary>Show resources</summary>
 
+- **[HabitStreakProBot](https://t.me/HabitStreakProBot)** - Free Telegram mini app habit tracker that builds daily streaks for routines like sleep, study and exercise ![free](https://img.shields.io/badge/free-2489CA?style=flat-square)
 - **[7 Cups](https://www.7cups.com)** - Free, anonymous chat with trained volunteer listeners, 24/7 ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ADDitude](https://www.additudemag.com)** - Strategies and community support for ADHD and neurodivergent students ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ANAD](https://anad.org/get-support/eating-disorders-helpline/)** - Free peer support and treatment referrals for eating disorders ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
