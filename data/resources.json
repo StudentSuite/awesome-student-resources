@@ -231,6 +231,17 @@
     "subsection": null
   },
   {
+    "name": "Varsity Vibe",
+    "url": "https://www.varsityvibe.co.za",
+    "description": "South African student discount app with deals from local brands",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Australia Awards",
     "url": "https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx",
     "description": "Australian government scholarships for study from the Pacific and beyond",

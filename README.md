@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-300-blue)
+![Resources](https://img.shields.io/badge/resources-301-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
-| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    21     |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    22     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    18     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    63     |
@@ -82,6 +82,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Student Beans](https://www.studentbeans.com)** - Verifies student status for discounts across fashion, food, and tech brands worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudentVerse](https://studentverse.ae/)** - UAE student ID app unlocking discounts on food, fitness, housing, and entertainment ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UNiDAYS](https://www.myunidays.com)** - Free student-verification platform unlocking discounts across hundreds of brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Varsity Vibe](https://www.varsityvibe.co.za)** - South African student discount app with deals from local brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
