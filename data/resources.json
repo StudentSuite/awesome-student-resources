@@ -3059,6 +3059,17 @@
     "subsection": null
   },
   {
+    "name": "FOSSASIA",
+    "url": "https://fossasia.org",
+    "description": "Asia-based open tech community with student coding programs and internships",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
     "name": "I'm First",
     "url": "https://www.imfirst.org",
     "description": "Free community and guidance for first-generation college students",
