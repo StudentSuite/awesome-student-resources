@@ -1663,6 +1663,17 @@
     "subsection": null
   },
   {
+    "name": "QatarDebate",
+    "url": "https://qatardebate.org/",
+    "description": "Qatar Foundation's debate programs, Arabic and English tournaments, and free publications",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
     "name": "Toastmasters International",
     "url": "https://www.toastmasters.org",
     "description": "Global public-speaking clubs and self-study materials",
