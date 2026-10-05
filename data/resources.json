@@ -2872,6 +2872,17 @@
     "subsection": null
   },
   {
+    "name": "CVV",
+    "url": "https://www.cvv.org.br",
+    "description": "Brazilian volunteer emotional support line, call 188 any hour",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "Embrace Lebanon",
     "url": "https://embracelebanon.org/what-we-do/the-national-lifeline/",
     "description": "Free 24/7 emotional support and suicide-prevention lifeline for Lebanon",
