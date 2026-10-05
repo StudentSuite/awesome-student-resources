@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-299-blue)
+![Resources](https://img.shields.io/badge/resources-300-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
-| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    20     |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    21     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    18     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    63     |
@@ -65,6 +65,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Amazon Prime Student](https://www.amazon.com/joinstudent)** - Free six-month trial, then discounted Prime shipping and streaming ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Apple Education Store](https://www.apple.com/us-edu/store)** - Official discount pricing on Mac and iPad for students ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Autodesk Education](https://www.autodesk.com/education/edu-software/overview)** - Free one-year access to Autodesk design and engineering software for verified students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Buddy4Study Student Discounts](https://www.buddy4study.com/student-discounts)** - Verified student offers from Indian and global brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Canva for Education](https://www.canva.com/education/)** - Canva's paid design tools free for verified K-12 students and teachers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Documento Nacional do Estudante](https://www.documentodoestudante.com.br/)** - Brazil's official student ID for half-price tickets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Figma Education](https://www.figma.com/education/)** - Figma's paid plan free for students and educators with verification ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
