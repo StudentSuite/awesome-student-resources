@@ -2454,6 +2454,17 @@
     "subsection": null
   },
   {
+    "name": "Sowt",
+    "url": "https://www.sowt.com/",
+    "description": "Arabic podcast network covering history, culture, and society",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "Stuff You Missed in History Class",
     "url": "https://missedinhistory.com",
     "description": "Two-a-week deep dives into overlooked history",

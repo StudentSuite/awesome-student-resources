@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-298-blue)
+![Resources](https://img.shields.io/badge/resources-299-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -43,7 +43,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    23     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    10     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    16     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    17     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    14     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    22     |
 | 👥  | [Communities](#communities)                                                    |    20     |
@@ -417,6 +417,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 - **[Productif au quotidien](https://matthieudesroches.com/podcast)** - French-language podcast on organization, productivity, and time management ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Radiolab](https://radiolab.org)** - Science, philosophy, and human-interest stories from WNYC Studios ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Scott Young's Blog](https://www.scotthyoung.com/blog/)** - Deep dives on learning faster and building hard skills ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Sowt](https://www.sowt.com/)** - Arabic podcast network covering history, culture, and society ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Stuff You Missed in History Class](https://missedinhistory.com)** - Two-a-week deep dives into overlooked history ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TED en Español](https://www.ted.com/podcasts/ted-en-espanol)** - Weekly Spanish-language podcast of TED talks on ideas worth spreading ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Learning Scientists Podcast](https://www.learningscientists.org/learning-scientists-podcast)** - Evidence-based study techniques explained by cognitive scientists ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
