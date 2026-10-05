@@ -869,6 +869,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Hack&Roll",
+    "url": "https://hacknroll.nushackers.org/",
+    "description": "NUS Hackers' free annual 24-hour student hackathon in Singapore",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "HackMTY",
     "url": "https://hackmty-26.devpost.com/",
     "description": "Student-run hackathon at Tec de Monterrey for Latin America",
