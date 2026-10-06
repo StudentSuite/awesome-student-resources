@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-305-blue)
+![Resources](https://img.shields.io/badge/resources-306-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    22     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    18     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    65     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    66     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    18     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -196,6 +196,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[MLH](https://mlh.io/)** - Free calendar of student hackathons and events worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[openvidstudio](https://openvidstudio.vercel.app)** - Open-source Remotion pipeline for AI agents to build quick product demo videos ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Regeneron ISEF](https://www.societyforscience.org/isef/)** - The world's largest pre-college science and engineering fair ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Shipvela](https://shipvela.com)** - Publish React/Vite and static student projects with HTTPS ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[StudyMap Competitions](https://studyymap.com/competitions)** - Crowdsourced calendar of student hackathons and competitions worldwide ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TEKNOFEST](https://www.teknofest.org/en/)** - Turkey's aerospace and technology festival with student rocket, UAV, and AI competitions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Case Centre](https://www.thecasecentre.org/caseLearning/competitions)** - Directory of student case and business-plan competitions worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
