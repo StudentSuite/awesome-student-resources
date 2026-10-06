@@ -958,6 +958,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Shipvela",
+    "url": "https://shipvela.com",
+    "description": "Publish React/Vite and static student projects with HTTPS",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "StudyMap Competitions",
     "url": "https://studyymap.com/competitions",
     "description": "Crowdsourced calendar of student hackathons and competitions worldwide",
