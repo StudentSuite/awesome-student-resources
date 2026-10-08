@@ -2389,6 +2389,17 @@
     "subsection": null
   },
   {
+    "name": "UniLife Hub",
+    "url": "https://github.com/FREExuanwei/unilife-hub",
+    "description": "Organize classes, tasks, exams, and Pomodoro sessions with local data",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "Breaking Math",
     "url": "https://www.breakingmath.io",
     "description": "Weekly conversations making math concepts click",

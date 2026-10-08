@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-306-blue)
+![Resources](https://img.shields.io/badge/resources-307-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -41,7 +41,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    18     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    23     |
-| 📦  | [Helpful Repositories](#helpful-repositories)                                  |    11     |
+| 📦  | [Helpful Repositories](#helpful-repositories)                                  |    12     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    17     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    15     |
@@ -399,6 +399,7 @@ GitHub repositories worth starring: rosters, roadmaps, and starter material any 
 - **[ossu/computer-science](https://github.com/ossu/computer-science)** - Free self-taught computer science curriculum with full course list ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[public-apis](https://github.com/public-apis/public-apis)** - Directory of free public APIs for hackathon and side projects ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[system-design-primer](https://github.com/donnemartin/system-design-primer)** - Learn to design large-scale systems and prepare for interviews ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[UniLife Hub](https://github.com/FREExuanwei/unilife-hub)** - Organize classes, tasks, exams, and Pomodoro sessions with local data ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
