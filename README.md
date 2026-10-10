@@ -39,7 +39,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    66     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    18     |
-| 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
+| 🏠  | [Homeschooling](#homeschooling)                                                |    19     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    23     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    11     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    15     |
@@ -335,6 +335,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[HoSA (Homeschool Association of Japan)](https://homeschool.ne.jp/en/)** - Nonprofit community, resources, and networking for homeschooling families in Japan ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[LittleLearners](https://littlelearners.site)** - Printable phonics, maths and fine-motor worksheets for ages 3–6, aligned with the UK EYFS/KS1 curriculum; free sample PDF, one-time purchase packs, no subscription ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Pestalozzi Trust](https://pestalozzi.org)** - South African home education legal defense association and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Red EnFamilia Colombia](https://redenfamilia.com.co)** - Colombia's national homeschool community and family-education support network ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Swashikshan](https://swashikshan.org)** - India's national network and support association for homeschooling families ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
