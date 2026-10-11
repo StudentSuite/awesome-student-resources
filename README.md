@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-306-blue)
+![Resources](https://img.shields.io/badge/resources-307-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -335,7 +335,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[HoSA (Homeschool Association of Japan)](https://homeschool.ne.jp/en/)** - Nonprofit community, resources, and networking for homeschooling families in Japan ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA](https://hslda.org/legal/)** - US homeschool laws, record-keeping, and testing requirements by state ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HSLDA Canada](https://hslda.ca)** - Canadian home education legal protection and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[LittleLearners](https://littlelearners.site)** - Printable phonics, maths and fine-motor worksheets for ages 3–6, aligned with the UK EYFS/KS1 curriculum; free sample PDF, one-time purchase packs, no subscription ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[LittleLearners](https://littlelearners.site)** - Printable phonics, maths and fine-motor worksheets for ages 3–6, aligned with the UK EYFS/KS1 curriculum ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Pestalozzi Trust](https://pestalozzi.org)** - South African home education legal defense association and guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Red EnFamilia Colombia](https://redenfamilia.com.co)** - Colombia's national homeschool community and family-education support network ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Swashikshan](https://swashikshan.org)** - India's national network and support association for homeschooling families ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
