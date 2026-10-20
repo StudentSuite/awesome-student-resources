@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-363-blue)
+![Resources](https://img.shields.io/badge/resources-364-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    20     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    79     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    18     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    21     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    34     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
@@ -331,6 +331,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 - **[National Speech & Debate Association](https://www.speechanddebate.org)** - Topic analysis, competition resources, and event guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ProCon.org](https://www.procon.org)** - Free, nonpartisan pros-and-cons research on debated issues ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[QatarDebate](https://qatardebate.org/)** - Qatar Foundation's debate programs, Arabic and English tournaments, and free publications ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Speech Timer](https://roundrehearsal.com/tools/speech-timer?utm_source=github-asr-public-speaking&utm_medium=listing&utm_campaign=free-tools-oct)** - Time a speech at two speaking speeds and spot filler words ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Toastmasters International](https://www.toastmasters.org)** - Global public-speaking clubs and self-study materials ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[World Schools Debating Championships](https://www.wsdcdebating.org/services-4)** - The international high-school debate format's free training and adjudication guides ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
