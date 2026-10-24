@@ -1056,6 +1056,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "deed.page",
+    "url": "https://deed.page",
+    "description": "Publish hackathon demos and HTML pages to HTTPS links, no signup",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "Devpost",
     "url": "https://devpost.com/",
     "description": "Student hackathon platform with thousands of student-run events",
