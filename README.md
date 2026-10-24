@@ -59,7 +59,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 Legitimate free or discounted access students often miss, verify with a school email or proof of enrollment.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Student Discounts &amp; Free Access resources</summary>
 
 - **[Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html)** - Discounted Creative Cloud subscription for verified students ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Amazon Prime Student](https://www.amazon.com/joinstudent)** - Free six-month trial, then discounted Prime shipping and streaming ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -98,7 +98,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 Legitimate, fee-free places to find money for school.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Scholarships &amp; Financial Aid resources</summary>
 
 - **[Australia Awards](https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx)** - Australian government scholarships for study from the Pacific and beyond ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -133,7 +133,7 @@ Legitimate, fee-free places to find money for school.
 Budgeting, credit, and banking basics for the money you already have.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Financial Literacy &amp; Money Management resources</summary>
 
 - **[Banxico Educa](https://educa.banxico.org.mx/)** - Mexico's central bank free financial education courses and games on money and economics ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/paying-for-college/repay-student-debt/)** - The US government's free guide to federal and private student loan repayment options ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -167,10 +167,10 @@ What comes after exams: applications, resumes, interviews, and time away from th
 ### Applications & Resumes
 
 <details open>
-<summary>Show resources</summary>
+<summary>Applications &amp; Resumes resources</summary>
 
 - **[AAUW Work Smart](https://www.aauw.org/resources/programs/salary-negotiation/)** - Free self-paced online training on negotiating salary and job offers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Aced](https://www.tryexponent.com/practice)** - Free peer and AI mock interviews for tech and PM roles, formerly Exponent ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[Aced](https://www.aced.io/practice)** - Free peer and AI mock interviews for tech and PM roles, formerly Exponent ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[AHEAD](https://www.ahead.org)** - Resources on requesting disability accommodations and services at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bayt.com Blog](https://www.bayt.com/en/blog/)** - Read CV, interview and job-search tips for the Middle East ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -190,7 +190,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[The Muse](https://www.themuse.com/advice/cover-letters)** - Free cover letter guides, templates, and examples ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UAC](https://www.uac.edu.au)** - The official university application portal for New South Wales and the ACT, Australia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[UC Berkeley LinkedIn Guide](https://career.berkeley.edu/Info/LinkedIn)** - Free university career-center guide to building and optimizing a student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[UC Berkeley LinkedIn Guide](https://career.berkeley.edu/prepare-for-success/networking/using-linkedin/)** - Free university career-center guide to building and optimizing a student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UCAS Personal Statement Guide](https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement)** - UCAS's free guide to writing a UK university personal statement ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[University of Edinburgh LinkedIn Guide](https://careers.ed.ac.uk/cvs-and-applications/creating-a-linkedin-profile)** - Careers-service guide to building a strong student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -203,17 +203,17 @@ What comes after exams: applications, resumes, interviews, and time away from th
 Hackathons, competitions, and the tools to build something worth entering.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Building &amp; Competitions resources</summary>
 
 - **[deed.page](https://deed.page)** - Publish hackathon demos and HTML pages to HTTPS links, no signup ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Devpost](https://devpost.com/)** - Student hackathon platform with thousands of student-run events ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Diamond Challenge](https://diamondchallenge.org)** - Pitch a business or social venture for cash prizes, ages 14 to 18 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack Club](https://hackclub.com)** - Nonprofit network of free coding clubs and hackathons for teens ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Hack&Roll](https://hacknroll.nushackers.org/)** - NUS Hackers' free annual 24-hour student hackathon in Singapore ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Hack&Roll](https://www.nushackers.org/)** - NUS Hackers' free annual 24-hour student hackathon in Singapore ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HackMTY](https://hackmty.com)** - Student-run hackathon at Tec de Monterrey for Latin America ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[International Olympiad in Informatics](https://ioinformatics.org)** - Follow the annual world informatics contest for secondary students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Junction](https://hackjunction.com)** - Student-run 48-hour hackathon in Finland, among Europe's largest ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[MLH](https://mlh.io/)** - Free calendar of student hackathons and events worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MLH](https://www.mlh.com/)** - Free calendar of student hackathons and events worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[openvidstudio](https://openvidstudio.vercel.app)** - Open-source Remotion pipeline for AI agents to build quick product demo videos ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[OverTheWire](https://overthewire.org/wargames/)** - Learn security hands-on through Linux-based wargames ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Regeneron ISEF](https://www.societyforscience.org/isef/)** - The world's largest pre-college science and engineering fair ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -229,11 +229,11 @@ Hackathons, competitions, and the tools to build something worth entering.
 ### Gap Year & Study Abroad
 
 <details open>
-<summary>Show resources</summary>
+<summary>Gap Year &amp; Study Abroad resources</summary>
 
 - **[AIMS](https://aims-rihed.net)** - Semester exchange across Southeast Asian and partner universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[AMEXCID](https://www.gob.mx/amexcid/acciones-y-programas/becas-para-extranjeros-29785)** - Mexico's official postgraduate scholarship program for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Cultural Care Au Pair](https://culturalcare.com)** - Live with a US host family on a J-1 au pair program ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Cultural Care Au Pair](https://www.culturalcare.world/)** - Live with a US host family on a J-1 au pair program ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[DAAD](https://www.daad.de/en/)** - German academic exchange service listing study and scholarship programs ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en)** - Official European Commission guidance on study visas and residence permits across the EU ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -258,7 +258,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 ### Part-Time & Student Jobs
 
 <details open>
-<summary>Show resources</summary>
+<summary>Part-Time &amp; Student Jobs resources</summary>
 
 - **[AfterSchoolAfrica](https://www.afterschoolafrica.com)** - Scholarships, internships, and jobs for African students, updated daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bayt](https://www.bayt.com)** - Find jobs and internships across the Middle East and Gulf ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -285,7 +285,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 Apprenticeships, trades, and bootcamps for students on a non-degree path.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Vocational &amp; Alternative Paths resources</summary>
 
 - **[Apprenticeship.gov](https://www.apprenticeship.gov)** - The official US government registered apprenticeship finder ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Australian Apprenticeships](https://www.dewr.gov.au/australian-apprenticeships)** - The Australian government's hub for apprenticeship and traineeship pathways and support ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -315,7 +315,7 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 Argumentation, Model UN, and speaking skills that carry into essays and interviews.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Debate &amp; Public Speaking resources</summary>
 
 - **[African Debating Program](https://www.africandebatingprogram.org.za/)** - Join school debating championships spanning African countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[American Speech and Debate Association](https://www.americanspeech.org/)** - Free handbooks, ballots, rubrics, and white papers for speech and debate ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -333,7 +333,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 - **[Kialo Edu](https://www.kialo-edu.com)** - Free platform for structured, visual class debates and discussion ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[National Model United Nations](https://www.nmun.org)** - Model UN conferences and preparation resources from a nonprofit educational organization ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[National Speech & Debate Association](https://www.speechanddebate.org)** - Topic analysis, competition resources, and event guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
-- **[ProCon.org](https://www.procon.org)** - Free, nonpartisan pros-and-cons research on debated issues ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[ProCon.org](https://www.britannica.com/procon)** - Free, nonpartisan pros-and-cons research on debated issues ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[QatarDebate](https://qatardebate.org/)** - Qatar Foundation's debate programs, Arabic and English tournaments, and free publications ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Toastmasters International](https://www.toastmasters.org)** - Global public-speaking clubs and self-study materials ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[World Schools Debating Championships](https://www.wsdcdebating.org/services-4)** - The international high-school debate format's free training and adjudication guides ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -347,7 +347,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 Curriculum, planning, record-keeping, and the logistics of learning at home.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Homeschooling resources</summary>
 
 - **[Ambleside Online](https://amblesideonline.org)** - Free, complete Charlotte Mason curriculum with book lists and schedules ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ANED](https://aned.org.br)** - Brazilian homeschooling association with legal support and family guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -377,23 +377,23 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 Fully free and open-source tools worth installing.
 
 <details open>
-<summary>Show resources</summary>
+<summary>FOSS Picks resources</summary>
 
 - **[Anki](https://apps.ankiweb.net)** - Free, open spaced-repetition flashcards ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Audacity](https://www.audacityteam.org)** - Record and edit audio on Windows, macOS, and Linux ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Blender](https://www.blender.org)** - Model, sculpt, animate, and render 3D scenes ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Cal.com](https://cal.com)** - Free, open-source, self-hostable scheduling and booking tool ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Cal.diy](https://github.com/calcom/cal.diy)** - Self-host scheduling and booking pages, the open edition of Cal.com ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[calibre](https://calibre-ebook.com)** - Manage, convert, and read e-books in one library ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source virtual whiteboard for sketching hand-drawn diagrams ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Firefly III](https://www.firefly-iii.org)** - Free, open, self-hosted personal finance and budgeting manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Firefox](https://www.firefox.com/)** - Browse the web with Mozilla's open-source browser ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Freeplane](https://www.freeplane.org)** - Free, open mind-mapping tool with AI integration ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Freeplane](https://docs.freeplane.org/)** - Free, open mind-mapping tool with AI integration ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GIMP](https://www.gimp.org)** - Free, open image editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Habitica](https://habitica.com)** - Free, open-source habit and task tracker with RPG-style gamification ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Inkscape](https://inkscape.org)** - Free, open vector graphics editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ipynbtopdf](https://ipynbtopdf.xyz)** - Export Jupyter notebooks to PDFs locally, without uploading files ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[jamovi](https://www.jamovi.org)** - Run statistical analyses in a spreadsheet interface, powered by R ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Jitsi Meet](https://meet.jit.si)** - Free, open-source video calls with no account required ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Jitsi Meet](https://meet.jit.si)** - Host free, open-source video calls; hosting needs a login ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Joplin](https://joplinapp.org)** - Free, open note-taking app with markdown and sync ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Kdenlive](https://kdenlive.org)** - Free, open, cross-platform non-linear video editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[KeePassXC](https://keepassxc.org)** - Free, open-source, offline password manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -424,7 +424,7 @@ Fully free and open-source tools worth installing.
 GitHub repositories worth starring: rosters, roadmaps, and starter material any student can build from.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Helpful Repositories resources</summary>
 
 - **[Awesome-CV](https://github.com/posquit0/Awesome-CV)** - LaTeX template for polished resumes, CVs, and cover letters ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities)** - Curated tools and resources for computational and quantitative humanities research ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -432,7 +432,7 @@ GitHub repositories worth starring: rosters, roadmaps, and starter material any 
 - **[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Curated tutorials for building your own Git, database, or shell from scratch ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[coding-interview-university](https://github.com/jwasham/coding-interview-university)** - Complete free study plan for becoming a software engineer ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)** - Learn data science fundamentals in a 10-week, 20-lesson curriculum ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Community-maintained learning roadmaps for over 30 tech roles ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[developer-roadmap](https://github.com/nilbuild/developer-roadmap)** - Community-maintained learning roadmaps for over 30 tech roles ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[first-contributions](https://github.com/firstcontributions/first-contributions)** - Practice making your first open-source pull request step by step ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[free-programming-books](https://github.com/EbookFoundation/free-programming-books)** - Massive curated list of free programming and computer-science books ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** - Free, open curriculum and certifications for web development and programming ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -451,7 +451,7 @@ GitHub repositories worth starring: rosters, roadmaps, and starter material any 
 Written and audio deep dives on how to learn, focus, and work better.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Blogs, Newsletters &amp; Podcasts resources</summary>
 
 - **[Ask a Manager](https://www.askamanager.org)** - Get plain-spoken answers to real workplace and career questions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -483,15 +483,15 @@ Written and audio deep dives on how to learn, focus, and work better.
 Study skill and mindset books worth your time.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Books We Trust resources</summary>
 
 - **[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)** - Learn math and science even if you struggle ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Atomic Habits](https://jamesclear.com/atomic-habits)** - Build study habits that actually stick ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Broke Millennial](https://brokemillennial.com/get-the-book/)** - Erin Lowry on student loans, credit, budgeting, and talking about money ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
-- **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Deep Work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Designing Your Life](https://designingyour.life)** - Apply Stanford design thinking to plan a career and life ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Grit: The Power of Passion and Perseverance](https://www.angeladuckworth.com/grit)** - Angela Duckworth on why passion and persistence beat raw talent ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
-- **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes)** - Turn reading into writing with a note system ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Ikigai](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)** - Héctor García and Francesc Miralles on discovering your life's purpose ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Mind Over Mood](https://www.guilford.com/books/Mind-Over-Mood/Greenberger-Padesky/9781462520428)** - Manage anxiety and low mood with CBT worksheets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
@@ -516,7 +516,7 @@ Study skill and mindset books worth your time.
 Meta-skills: how to study, remember, and focus.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Guides &amp; How-Tos resources</summary>
 
 - **[A Realistic Guide to Time Management](https://www.todoist.com/inspiration/time-management)** - Todoist's free guide to time-blocking your calendar and building a workable schedule ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Ali Abdaal](https://aliabdaal.com)** - Evidence-based study and productivity guides ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -527,7 +527,7 @@ Meta-skills: how to study, remember, and focus.
 - **[How to Email a Professor](https://dennislearningcenter.osu.edu/how-to-email-a-professor/)** - Write clear, polite emails to professors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** - S. Keshav's three-pass method for reading research papers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Interleaving](https://academicaffairs.arizona.edu/Interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Interleaving](https://academicaffairs.arizona.edu/l2l-strategy-interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Pomodoro Technique](https://www.pomodorotechnique.com)** - Francesco Cirillo's official guide to the Pomodoro time-management method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Purdue OWL](https://owl.purdue.edu/)** - Free guides to academic writing, research papers, and APA or MLA citation ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -547,7 +547,7 @@ Meta-skills: how to study, remember, and focus.
 Free, reputable support for stress, burnout, and everything school doesn't teach you to handle.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Mental Health &amp; Wellbeing resources</summary>
 
 - **[7 Cups](https://www.7cups.com)** - Free, anonymous chat with trained volunteer listeners, 24/7 ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ADDitude](https://www.additudemag.com)** - Strategies, webinars, and guidance for ADHD and neurodivergent students ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -584,7 +584,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 Ask questions and study alongside other students.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Communities resources</summary>
 
 - **[Academia Stack Exchange](https://academia.stackexchange.com)** - Q&A on academic life, research, and navigating school systems ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[AnitaB.org](https://anitab.org)** - Global nonprofit community, mentorship, and career network for women in tech ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -643,11 +643,11 @@ Ask questions and study alongside other students.
 
 An entry should meet all of the following before being added:
 
-- [ ] **Genuinely useful to students.** It helps you study, build, or organize, not just browse.
-- [ ] **Real and maintained.** Actively available, not abandoned or a dead link.
-- [ ] **Accessible.** Free, freemium, or clearly worth the price; tagged with exactly one pricing badge (plus FOSS where it applies).
-- [ ] **Reputable.** A known tool, channel, or book, not spam or an affiliate funnel.
-- [ ] **Short description.** One line, plain language, no marketing copy.
+- **Genuinely useful to students.** It helps you study, build, or organize, not just browse.
+- **Real and maintained.** Actively available, not abandoned or a dead link.
+- **Accessible.** Free, freemium, or clearly worth the price; tagged with exactly one pricing badge (plus FOSS where it applies).
+- **Reputable.** A known tool, channel, or book, not spam or an affiliate funnel.
+- **Short description.** One line, plain language, no marketing copy.
 
 ---
 

@@ -38,7 +38,7 @@ Check the entry meets the [Quality Standards](README.md#quality-standards):
 For books and textbooks, use the title (add the author where it helps) and link to the official or publisher page:
 
 ```md
-- **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Deep Work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 ```
 
 Keep the description to one line, roughly 10 words or fewer. Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and put the tag badge(s) right before the closing period, not inside it. No em dashes.
@@ -109,9 +109,10 @@ Use a comma-separated list of [contribution types](https://allcontributors.org/r
 
 ## Optional: run checks locally before you push
 
-All scripts in `scripts/` are plain, dependency-free Node and need Node.js 18
-or later (they use the built-in `node:test` runner, which isn't available on
-older versions). `.nvmrc` pins this if you use `nvm`.
+All scripts in `scripts/` are plain, dependency-free Node and need Node.js 24
+(the current LTS release; they use the built-in `node:test` runner, which isn't
+available on older versions). `.nvmrc` pins this, and CI uses the same version,
+if you use `nvm`.
 
 A committed, opt-in pre-commit hook mirrors the CI lint job. Enable it once per clone with:
 

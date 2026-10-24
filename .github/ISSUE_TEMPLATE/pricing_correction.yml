@@ -1,5 +1,5 @@
 name: Report a wrong pricing tag
-description: An entry's free / freemium / paid / open source tag is out of date or wrong
+description: An entry's free / freemium / paid / FOSS tag is out of date or wrong
 labels: ["pricing-review", "quality"]
 body:
   - type: input
@@ -25,7 +25,7 @@ body:
         - free
         - freemium
         - paid
-        - open source
+        - FOSS
         - no tag at all
     validations:
       required: true
@@ -38,7 +38,7 @@ body:
         - free
         - freemium
         - paid
-        - open source
+        - FOSS
     validations:
       required: true
   - type: textarea

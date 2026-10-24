@@ -91,3 +91,13 @@ ${entries(10)}
   assert.equal(row, '| 1 | [Big](#big) |    10     |');
   assert.equal(row.length, '| 1 | [Big](#big) |     9     |'.length);
 });
+
+test('entries under non-content sections are not counted in the resources badge', () => {
+  const input = `${VALID}
+## More from StudentSuite
+
+- **[Sister](https://sister.example)** - w (free).
+`;
+  const { problems } = applyCounts(input);
+  assert.deepEqual(problems, []);
+});

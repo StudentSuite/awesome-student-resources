@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Regenerates every derived count in README.md from the actual content:
-//   - the `resources-N` header badge (total entries across the whole list)
+//   - the `resources-N` header badge (total entries in content sections; the
+//     meta sections in NON_CONTENT_SECTIONS, e.g. "More from StudentSuite", are skipped)
 //   - the `sections-N` header badge (number of rows in the Table of Contents)
 //   - each per-section count in the Table of Contents table
 //
@@ -17,6 +18,7 @@
 
 import { readFileSync, writeFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { NON_CONTENT_SECTIONS } from './check-list-format.mjs';
 
 function slugify(text) {
   return text
@@ -33,17 +35,21 @@ export function applyCounts(readmeText) {
   // --- Count entries per top-level (##) section, and the grand total ---
   const sectionCounts = new Map(); // slug -> entry count
   let currentSlug = null;
+  let currentIsContent = true;
   let total = 0;
 
   for (const line of lines) {
     const h2 = line.match(/^## (.+)/);
     if (h2) {
       currentSlug = slugify(h2[1].trim());
+      currentIsContent = !NON_CONTENT_SECTIONS.has(h2[1].trim());
       if (!sectionCounts.has(currentSlug)) sectionCounts.set(currentSlug, 0);
       continue;
     }
     if (/^- \*\*\[/.test(line)) {
-      total += 1;
+      // Cross-promotion and other meta sections are not resources; the header
+      // badge must agree with the Table of Contents and data/resources.json.
+      if (currentIsContent) total += 1;
       if (currentSlug) sectionCounts.set(currentSlug, sectionCounts.get(currentSlug) + 1);
     }
   }

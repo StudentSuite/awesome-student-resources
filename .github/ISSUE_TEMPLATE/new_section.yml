@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Per [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md), new sections should be discussed here before a PR adds one.
+        Per [CONTRIBUTING.md](https://github.com/StudentSuite/awesome-student-resources/blob/main/CONTRIBUTING.md), new sections should be discussed here before a PR adds one.
   - type: input
     id: section-name
     attributes:

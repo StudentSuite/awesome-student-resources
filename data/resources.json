@@ -782,7 +782,7 @@
   },
   {
     "name": "Aced",
-    "url": "https://www.tryexponent.com/practice",
+    "url": "https://www.aced.io/practice",
     "description": "Free peer and AI mock interviews for tech and PM roles, formerly Exponent",
     "pricing": "freemium",
     "tags": [
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "UC Berkeley LinkedIn Guide",
-    "url": "https://career.berkeley.edu/Info/LinkedIn",
+    "url": "https://career.berkeley.edu/prepare-for-success/networking/using-linkedin/",
     "description": "Free university career-center guide to building and optimizing a student LinkedIn profile",
     "pricing": "free",
     "tags": [
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "Hack&Roll",
-    "url": "https://hacknroll.nushackers.org/",
+    "url": "https://www.nushackers.org/",
     "description": "NUS Hackers' free annual 24-hour student hackathon in Singapore",
     "pricing": "free",
     "tags": [
@@ -1145,7 +1145,7 @@
   },
   {
     "name": "MLH",
-    "url": "https://mlh.io/",
+    "url": "https://www.mlh.com/",
     "description": "Free calendar of student hackathons and events worldwide",
     "pricing": "free",
     "tags": [
@@ -1279,7 +1279,7 @@
   },
   {
     "name": "Cultural Care Au Pair",
-    "url": "https://culturalcare.com",
+    "url": "https://www.culturalcare.world/",
     "description": "Live with a US host family on a J-1 au pair program",
     "pricing": "paid",
     "tags": [
@@ -2028,7 +2028,7 @@
   },
   {
     "name": "ProCon.org",
-    "url": "https://www.procon.org",
+    "url": "https://www.britannica.com/procon",
     "description": "Free, nonpartisan pros-and-cons research on debated issues",
     "pricing": "free",
     "tags": [
@@ -2305,9 +2305,9 @@
     "subsection": null
   },
   {
-    "name": "Cal.com",
-    "url": "https://cal.com",
-    "description": "Free, open-source, self-hostable scheduling and booking tool",
+    "name": "Cal.diy",
+    "url": "https://github.com/calcom/cal.diy",
+    "description": "Self-host scheduling and booking pages, the open edition of Cal.com",
     "pricing": "free",
     "tags": [
       "FOSS",
@@ -2366,7 +2366,7 @@
   },
   {
     "name": "Freeplane",
-    "url": "https://www.freeplane.org",
+    "url": "https://docs.freeplane.org/",
     "description": "Free, open mind-mapping tool with AI integration",
     "pricing": "free",
     "tags": [
@@ -2439,7 +2439,7 @@
   {
     "name": "Jitsi Meet",
     "url": "https://meet.jit.si",
-    "description": "Free, open-source video calls with no account required",
+    "description": "Host free, open-source video calls; hosting needs a login",
     "pricing": "free",
     "tags": [
       "FOSS",
@@ -2761,7 +2761,7 @@
   },
   {
     "name": "developer-roadmap",
-    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "url": "https://github.com/nilbuild/developer-roadmap",
     "description": "Community-maintained learning roadmaps for over 30 tech roles",
     "pricing": "free",
     "tags": [
@@ -3120,7 +3120,7 @@
   },
   {
     "name": "Deep Work",
-    "url": "https://calnewport.com/books/deep-work/",
+    "url": "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/",
     "description": "Build the ability to focus without distraction",
     "pricing": "paid",
     "tags": [
@@ -3153,7 +3153,7 @@
   },
   {
     "name": "How to Take Smart Notes",
-    "url": "https://takesmartnotes.com",
+    "url": "https://www.soenkeahrens.de/en/takesmartnotes",
     "description": "Turn reading into writing with a note system",
     "pricing": "paid",
     "tags": [
@@ -3417,7 +3417,7 @@
   },
   {
     "name": "Interleaving",
-    "url": "https://academicaffairs.arizona.edu/Interleaving",
+    "url": "https://academicaffairs.arizona.edu/l2l-strategy-interleaving",
     "description": "University of Arizona's free guide to mixing topics while studying for better retention",
     "pricing": "free",
     "tags": [
