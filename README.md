@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-366-blue)
+![Resources](https://img.shields.io/badge/resources-367-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | :-: | --- | :-: |
 | <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 27 |
 | <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 23 |
-| <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
+| <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 21 |
 | <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 79 |
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
 | <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 20 |
@@ -136,6 +136,7 @@ Budgeting, credit, and banking basics for the money you already have.
 <summary>Financial Literacy &amp; Money Management resources</summary>
 
 - **[Banxico Educa](https://educa.banxico.org.mx/)** - Mexico's central bank free financial education courses and games on money and economics ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Calculators Site](https://calculatorssite.com/debt-credit/credit-card-repayment-calculator)** - Compare credit-card payoff time and interest for different monthly payments ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/paying-for-college/repay-student-debt/)** - The US government's free guide to federal and private student loan repayment options ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Credit Karma](https://www.creditkarma.com)** - Free credit score monitoring and personalized financial guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Egyptian Banking Institute Financial Literacy Hub](https://ebi.gov.eg/financial-literacy-hub/)** - Take self-paced Arabic money courses from Egypt's central bank institute ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
