@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-367-blue)
+![Resources](https://img.shields.io/badge/resources-368-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 27 |
-| <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 23 |
+| <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 24 |
 | <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
 | <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 80 |
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
@@ -100,6 +100,7 @@ Legitimate, fee-free places to find money for school.
 <details open>
 <summary>Scholarships &amp; Financial Aid resources</summary>
 
+- **[AspireOpen](https://aspireopen.com/)** - Find and apply for scholarships for US students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Australia Awards](https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx)** - Australian government scholarships for study from the Pacific and beyond ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bold.org Art Scholarships](https://bold.org/scholarships/by-major/art-scholarships/)** - Find and apply to art, design and music scholarships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
