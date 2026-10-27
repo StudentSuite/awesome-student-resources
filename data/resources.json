@@ -473,6 +473,17 @@
     "subsection": null
   },
   {
+    "name": "ScholarMatch",
+    "url": "https://www.scholarmatch.me",
+    "description": "AI-powered scholarship matching engine for fully funded international opportunities",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
     "name": "Scholars4Dev",
     "url": "https://www.scholars4dev.com",
     "description": "Free scholarship search engine for students across Asia, Africa, and other developing regions",
@@ -1601,6 +1612,17 @@
     "name": "StudentJob",
     "url": "https://www.studentjob.co.uk",
     "description": "Free student job board covering part-time work and internships across nine European countries",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
+    "name": "Tech Internships",
+    "url": "https://github.com/landedjobs/tech-internships",
+    "description": "Software, AI, data and design internships, refreshed every 2 days",
     "pricing": "free",
     "tags": [
       "free"
