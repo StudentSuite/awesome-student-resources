@@ -34,11 +34,11 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 27 |
-| <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 24 |
+| <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 23 |
 | <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
 | <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 80 |
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
-| <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 20 |
+| <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
 | <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
 | <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 35 |
 | <span role="img" aria-label="Helpful Repositories icon">📦</span> | [Helpful Repositories](#helpful-repositories) | 15 |
@@ -335,6 +335,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 - **[National Speech & Debate Association](https://www.speechanddebate.org)** - Topic analysis, competition resources, and event guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ProCon.org](https://www.britannica.com/procon)** - Free, nonpartisan pros-and-cons research on debated issues ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[QatarDebate](https://qatardebate.org/)** - Qatar Foundation's debate programs, Arabic and English tournaments, and free publications ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[speaking.app](https://speaking.app/)** - Practice speeches with AI feedback on delivery and structure ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Toastmasters International](https://www.toastmasters.org)** - Global public-speaking clubs and self-study materials ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[World Schools Debating Championships](https://www.wsdcdebating.org/services-4)** - The international high-school debate format's free training and adjudication guides ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 

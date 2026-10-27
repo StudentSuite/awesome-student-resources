@@ -2049,6 +2049,17 @@
     "subsection": null
   },
   {
+    "name": "speaking.app",
+    "url": "https://speaking.app/",
+    "description": "Practice speeches with AI feedback on delivery and structure",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
     "name": "Toastmasters International",
     "url": "https://www.toastmasters.org",
     "description": "Global public-speaking clubs and self-study materials",
