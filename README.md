@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-369-blue)
+![Resources](https://img.shields.io/badge/resources-370-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
 | <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
 | <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
-| <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 35 |
+| <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 36 |
 | <span role="img" aria-label="Helpful Repositories icon">📦</span> | [Helpful Repositories](#helpful-repositories) | 15 |
 | <span role="img" aria-label="Books We Trust icon">📖</span> | [Books We Trust](#books-we-trust) | 21 |
 | <span role="img" aria-label="Blogs, Newsletters &amp; Podcasts icon">🎧</span> | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 20 |
@@ -412,6 +412,7 @@ Fully free and open-source tools worth installing.
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - Crowdsourced map of student-important places like exam centres and libraries ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TeXstudio](https://www.texstudio.org)** - Free, open LaTeX editor with syntax highlighting and an integrated viewer ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Thunderbird](https://www.thunderbird.net/)** - Free, open-source email client with calendar and contacts built in ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool)** - Show Canvas deadlines, calendars, and to-dos on your Mac desktop ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Vikunja](https://vikunja.io)** - Free, open task and project manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[VSCodium](https://vscodium.com)** - Edit code in a telemetry-free build of VS Code ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[YYLO](https://github.com/yylo-dev/yylo)** - Orchestrate AI coding agents from the terminal with repeatable workflows ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

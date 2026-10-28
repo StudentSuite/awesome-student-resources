@@ -2663,6 +2663,18 @@
     "subsection": null
   },
   {
+    "name": "UMST",
+    "url": "https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool",
+    "description": "Show Canvas deadlines, calendars, and to-dos on your Mac desktop",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Vikunja",
     "url": "https://vikunja.io",
     "description": "Free, open task and project manager",
