@@ -1,9 +1,9 @@
 name: Markdown Lint
 
 on:
+  # No path filter on pull_request: markdownlint is a required status check, so it has to
+  # report on every PR, not only ones that touch a Markdown file.
   pull_request:
-    paths:
-      - "**/*.md"
   push:
     branches:
       - main
