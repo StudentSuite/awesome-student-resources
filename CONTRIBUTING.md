@@ -164,7 +164,7 @@ A fourth workflow (`.github/workflows/spellcheck.yml`) runs [codespell](https://
 codespell README.md CONTRIBUTING.md CODE_OF_CONDUCT.md CHANGELOG.md SECURITY.md CONTRIBUTORS.md scripts/README.md .github/*.md --ignore-words=.codespellignore
 ```
 
-The lint workflow also runs `scripts/audit-duplicate-urls.mjs`, which reports every URL used more than once anywhere in README.md. This is informational only and never fails the build: the same resource legitimately appears in more than one section (e.g. Physics & Maths Tutor under both A-Level and IGCSE), so a duplicate URL isn't a bug on its own, just something worth a glance during review.
+The lint workflow also runs `scripts/audit-duplicate-urls.mjs`, which reports every URL used more than once anywhere in README.md. This is informational only and never fails the build: the same resource legitimately appears in more than one section (e.g. StudyMap in both its content section and More from StudentSuite), so a duplicate URL isn't a bug on its own, just something worth a glance during review.
 
 The lint scripts have their own unit tests (`scripts/*.test.mjs`, using Node's built-in `node:test`), run by `.github/workflows/test.yml` whenever anything under `scripts/` changes. Run them locally with:
 
