@@ -132,6 +132,21 @@ node scripts/weekly-digest.mjs > digest.md
 08:00 UTC), which opens or updates a single pinned issue titled "Weekly
 digest: new issues and PRs" from the script's output.
 
+## check-last-verified.mjs
+
+Validates `data/last-verified.json`, the `{ "url": "YYYY-MM-DD" }` map behind the
+quarterly verification issue. Fails (exit 1) on a key that matches no URL in
+`data/resources.json` (usually left behind when an entry's URL changed), on a
+value that is not a real `YYYY-MM-DD` date, and on a date in the future.
+Entries with no date are listed as a warning and do not fail the run.
+
+```sh
+node scripts/check-last-verified.mjs
+```
+
+**Runs in:** `.github/workflows/lint.yml`, on PRs that touch
+`data/last-verified.json` or this script.
+
 ## run-awesome-lint.mjs
 
 Runs [awesome-lint](https://github.com/sindresorhus/awesome-lint) against
