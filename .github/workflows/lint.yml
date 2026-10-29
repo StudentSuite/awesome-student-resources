@@ -10,8 +10,6 @@ on:
       - scripts/update-counts.mjs
       - scripts/export-json.mjs
       - data/resources.json
-      - data/last-verified.json
-      - scripts/check-last-verified.mjs
   push:
     branches:
       - main
@@ -23,8 +21,6 @@ on:
       - scripts/update-counts.mjs
       - scripts/export-json.mjs
       - data/resources.json
-      - data/last-verified.json
-      - scripts/check-last-verified.mjs
 
 jobs:
   check-list-format:
