@@ -20,8 +20,11 @@ jobs:
           days-before-close: 14
           stale-issue-label: stale
           stale-pr-label: stale
-          exempt-issue-labels: pinned,security,keep
-          exempt-pr-labels: pinned,security,keep
+          # Only labels that exist in this repo count. Open tasks that are meant to wait for a
+          # contributor (good first issue, help wanted) or are long-running maintainer work
+          # (growth, maintainer) must not be closed by the inactivity clock.
+          exempt-issue-labels: good first issue,help wanted,growth,maintainer
+          exempt-pr-labels: good first issue,help wanted,growth,maintainer
           stale-issue-message: >
             This issue has been inactive for 60 days and is now marked stale.
             Comment or update it within 14 days to keep it open, otherwise it
