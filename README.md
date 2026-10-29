@@ -85,7 +85,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Student Beans](https://www.studentbeans.com)** - Verifies student status for discounts across fashion, food, and tech brands worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudentCard](https://www.studentcard.co.nz)** - New Zealand's student discount card for retail, food, and travel ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[StudentVerse](https://studentverse.ae/)** - UAE student ID app unlocking discounts on food, fitness, housing, and entertainment ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Three UK Student Discount](https://www.three.co.uk/offers/student-discount)** - Get 20% off phone, SIM-only and broadband plans with a UK student email ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Three UK Student Discount](https://www.three.co.uk/offers/student-discount)** - Get 20% off phone, SIM-only and broadband plans with a student email ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[UNiDAYS](https://www.myunidays.com)** - Free student-verification platform unlocking discounts across hundreds of brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Varsity Vibe](https://www.varsityvibe.co.za)** - South African student discount app with deals from local brands ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 
@@ -110,17 +110,17 @@ Legitimate, fee-free places to find money for school.
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[FindAPhD](https://www.findaphd.com)** - Free search across PhD studentships, funding, and scholarships worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Fundación Carolina](https://www.fundacioncarolina.es)** - Spanish government-backed scholarships for Latin American postgraduate students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Global Korea Scholarship](https://www.studyinkorea.go.kr/en/plan/scholarship.do)** - South Korea's official government scholarship covering tuition and living costs for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Global Korea Scholarship](https://www.studyinkorea.go.kr/en/plan/scholarship.do)** - South Korea's government scholarship covering tuition and living costs for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[International Scholarships](https://www.internationalscholarships.com)** - Free searchable database of global scholarships for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[LPDP](https://lpdp.kemenkeu.go.id/en/)** - Indonesian government scholarships for master's and doctoral study ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Mandela Rhodes Scholarship](https://www.mandelarhodes.org/scholarship/apply/)** - Fully funded postgraduate scholarship and leadership program for African students in South Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Mandela Rhodes Scholarship](https://www.mandelarhodes.org/scholarship/apply/)** - Fully funded postgraduate scholarship and leadership program for African students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/)** - Full scholarships and mentorship for African students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[MENA Scholar](https://menascholar.com)** - Free directory of study and language programs across the Middle East and North Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search engine for students across Asia, Africa, and other developing regions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MENA Scholar](https://menascholar.com)** - Free directory of study and language programs across the MENA region ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search for students in Asia, Africa, and other developing regions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Society of Women Engineers Scholarships](https://swe.org/apply-for-a-swe-scholarship/)** - Free-to-apply scholarships for women pursuing engineering degrees ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Student Awards](https://studentawards.com)** - Searchable database of Canadian scholarships, browsable by province ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Study in Japan](https://www.studyinjapan.go.jp/en/planning/scholarships/)** - Japanese government hub for MEXT, JASSO, and university scholarships to study in Japan ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Study in Japan](https://www.studyinjapan.go.jp/en/planning/scholarships/)** - Japan's government hub for MEXT, JASSO, and university scholarships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Scholarship Hub](https://www.thescholarshiphub.org.uk)** - No-fee search across UK scholarships, bursaries, and grants ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Wells Fargo Stacey Milbern Scholarship](https://scholarshipamerica.org/scholarship/pwdscholarship/)** - Apply for renewable awards for US students with disabilities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
@@ -135,8 +135,8 @@ Budgeting, credit, and banking basics for the money you already have.
 <details open>
 <summary>Financial Literacy &amp; Money Management resources</summary>
 
-- **[Banxico Educa](https://educa.banxico.org.mx/)** - Mexico's central bank free financial education courses and games on money and economics ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/paying-for-college/repay-student-debt/)** - The US government's free guide to federal and private student loan repayment options ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Banxico Educa](https://educa.banxico.org.mx/)** - Mexico's central bank free financial education courses and games ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/paying-for-college/repay-student-debt/)** - US government's free guide to federal and private student loan repayment ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Credit Karma](https://www.creditkarma.com)** - Free credit score monitoring and personalized financial guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Egyptian Banking Institute Financial Literacy Hub](https://ebi.gov.eg/financial-literacy-hub/)** - Take self-paced Arabic money courses from Egypt's central bank institute ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Financial Consumer Agency of Canada](https://www.canada.ca/en/financial-consumer-agency.html)** - The Canadian government's official financial literacy and money-management hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -170,7 +170,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 <summary>Applications &amp; Resumes resources</summary>
 
 - **[AAUW Work Smart](https://www.aauw.org/resources/programs/salary-negotiation/)** - Free self-paced online training on negotiating salary and job offers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Aced](https://www.aced.io/practice)** - Free peer and AI mock interviews for tech and PM roles, formerly Exponent ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[Aced](https://www.aced.io/practice)** - Free peer and AI mock interviews for tech and PM roles ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[AHEAD](https://www.ahead.org)** - Resources on requesting disability accommodations and services at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bayt.com Blog](https://www.bayt.com/en/blog/)** - Read CV, interview and job-search tips for the Middle East ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -178,7 +178,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[CUET](https://cuet.nta.nic.in)** - India's official centralized entrance test for university admissions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Europass](https://europass.europa.eu)** - EU's free CV and cover letter builder with skills tools ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Free Teacher Resume Starter](https://templatetitanhq.com/free-tools/teacher-resume/)** - Prepare student teacher applications with an editable Word resume starter ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[IB Doctor University Requirements](https://ibdoctor.co.uk/universities)** - Look up IB entry requirements at 111 UK, German, Austrian and Swiss universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[IB Doctor University Requirements](https://ibdoctor.co.uk/universities)** - Look up IB requirements at 111 UK, German, Austrian and Swiss universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[JobEmerge](https://www.jobemerge.work)** - Check job fit and translate resumes into 19 languages ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[JobStreet Career Advice](https://my.jobstreet.com/career-advice)** - Use resume templates and a practice interview tool for Southeast Asia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MonoEd CV Maker](https://cv-maker.monoed.africa/)** - AI-assisted CV builder for scholarship and job applications across Africa ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -187,11 +187,11 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[OUAC](https://www.ouac.on.ca)** - The official application portal for undergraduate admission to Ontario universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[PracHub](https://prachub.com/interview-guide)** - Browse interview guides and questions by company, role, and topic ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ResumeAI](https://withresumeai.com/)** - Free ATS resume checks against a job description ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
-- **[ResumeOrbitz](https://resumeorbitz.com)** - Free, ATS-friendly resume builder with 150+ templates, AI-generated content, and a built-in ATS score checker ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[ResumeOrbitz](https://resumeorbitz.com)** - Free, ATS-friendly resume builder with 150+ templates and an ATS score checker ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker?utm_source=github-awesome-student-resources&utm_medium=listing&utm_campaign=free-tools-oct)** - Check a behavioral interview answer for STAR structure, length, and filler words ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Muse](https://www.themuse.com/advice/cover-letters)** - Free cover letter guides, templates, and examples ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[UAC](https://www.uac.edu.au)** - The official university application portal for New South Wales and the ACT, Australia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[UAC](https://www.uac.edu.au)** - Official university application portal for New South Wales and the ACT ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UC Berkeley LinkedIn Guide](https://career.berkeley.edu/prepare-for-success/networking/using-linkedin/)** - Free university career-center guide to building and optimizing a student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UCAS Personal Statement Guide](https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement)** - UCAS's free guide to writing a UK university personal statement ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -208,7 +208,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 <summary>Building &amp; Competitions resources</summary>
 
 - **[Devpost](https://devpost.com/)** - Student hackathon platform with thousands of student-run events ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Diamond Challenge](https://diamondchallenge.org)** - Pitch a business or social venture for cash prizes, ages 14 to 18 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Diamond Challenge](https://diamondchallenge.org)** - Pitch a business or social venture for cash prizes, ages 14-18 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack Club](https://hackclub.com)** - Nonprofit network of free coding clubs and hackathons for teens ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack&Roll](https://www.nushackers.org/)** - NUS Hackers' free annual 24-hour student hackathon in Singapore ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HackMTY](https://hackmty.com)** - Student-run hackathon at Tec de Monterrey for Latin America ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -237,7 +237,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Cultural Care Au Pair](https://www.culturalcare.world/)** - Live with a US host family on a J-1 au pair program ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[DAAD](https://www.daad.de/en/)** - German academic exchange service listing study and scholarship programs ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en)** - Official European Commission guidance on study visas and residence permits across the EU ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en)** - Official European Commission guidance on study visas and residence permits ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[European Solidarity Corps](https://youth.europa.eu/solidarity_en)** - EU-funded volunteering and solidarity placements abroad for ages 18 to 30 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Gap Year Association](https://www.gapyearassociation.org)** - Accredited gap year program directory and planning resources ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GoAbroad](https://www.goabroad.com)** - Directory of study abroad, volunteer, and internship programs worldwide ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -249,7 +249,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Pacific Alliance Student Mobility Platform](https://web.icetex.gov.co/web/portal/becas/becas-para-estudios-en-el-exterior/programas-especiales/plataforma-de-alianza-pacifico/plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico)** - Free exchange scholarships among Chile, Colombia, Mexico, and Peru ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Pan African University](https://pau-au.africa)** - African Union postgraduate network with funded scholarships across Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Study in India](https://studyinindia.gov.in)** - Indian government portal to find courses and apply as an international student ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Study in the States](https://studyinthestates.dhs.gov)** - The US Department of Homeland Security's official guidance on the F-1 student visa process ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Study in the States](https://studyinthestates.dhs.gov)** - US Department of Homeland Security guidance on the F-1 student visa process ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[SWAP Working Holidays](https://swap.ca)** - Canada's nonprofit work-and-travel program for gap-year and study/work abroad placements ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Turing Scheme](https://www.gov.uk/guidance/turing-scheme-apply-for-funding-for-international-placements)** - The UK government's official study and work abroad funding scheme guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Türkiye Scholarships](https://www.turkiyeburslari.gov.tr/page/education-in-turkey-2)** - Turkey's official full scholarship and student exchange program for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -266,12 +266,12 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Computrabajo](https://www.computrabajo.com/)** - Latin America's largest job board, covering part-time work across 19 countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Handshake](https://joinhandshake.com)** - Free campus recruiting platform connecting students to part-time jobs and internships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Internshala](https://internshala.com)** - India's leading internship and part-time job platform for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Job Bank](https://www.jobbank.gc.ca/youth)** - The Government of Canada's free youth job board for part-time work and apprenticeships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Job Bank](https://www.jobbank.gc.ca/youth)** - Government of Canada's free youth job board for part-time work and apprenticeships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[JobStreet](https://www.jobstreet.com/)** - Leading Southeast Asian job board with part-time and internship listings for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Milkround](https://www.milkround.com)** - The UK's leading student and graduate job board for part-time work, internships, and schemes ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Milkround](https://www.milkround.com)** - UK student and graduate job board for part-time work, internships, and schemes ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[National Careers Service](https://nationalcareers.service.gov.uk/)** - The UK government's free careers advice, job profiles, and CV tools ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Snagajob](https://www.snagajob.com)** - Free marketplace for hourly and part-time jobs near campus ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[StudentJob](https://www.studentjob.co.uk)** - Free student job board covering part-time work and internships across nine European countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[StudentJob](https://www.studentjob.co.uk)** - Free student job board for part-time work across nine European countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Upwork](https://www.upwork.com)** - Global freelance marketplace for remote work you can do from anywhere ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Wantedly](https://www.wantedly.com/)** - Find Japanese startup jobs and internships through a free profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[WayUp](https://www.wayup.com)** - Free job board for internships and part-time work aimed at students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -353,7 +353,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 
 - **[Ambleside Online](https://amblesideonline.org)** - Free, complete Charlotte Mason curriculum with book lists and schedules ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ANED](https://aned.org.br)** - Brazilian homeschooling association with legal support and family guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
-- **[DUNEHA](https://duneha.org)** - Free, active homeschooling community and support association for Dubai and the Northern Emirates ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[DUNEHA](https://duneha.org)** - Free homeschooling community and support association for Dubai and the Northern Emirates ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Easy Peasy All-in-One Homeschool](https://allinonehomeschool.com)** - Free, complete K-12 curriculum you can follow day by day ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Eduscol: L'instruction en famille](https://eduscol.education.gouv.fr/5064/l-instruction-dans-la-famille)** - France's official Ministry of Education guidance on home education authorization ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Freedom Homeschooling](https://freedomhomeschooling.com)** - Free directory of free homeschool curricula sorted by subject ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -367,7 +367,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 - **[Red EnFamilia Colombia](https://redenfamilia.com.co)** - Colombia's national homeschool community and family-education support network ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Swashikshan](https://swashikshan.org)** - India's national network and support association for homeschooling families ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Homeschool Mom](https://www.thehomeschoolmom.com)** - Free planners, record-keeping printables, and getting-started guides ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Understood.org](https://www.understood.org)** - Free guidance on homeschooling kids with an IEP, 504 plan, or learning difference ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Understood.org](https://www.understood.org)** - Free guidance on homeschooling with an IEP, 504 plan, or learning difference ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Wrightslaw](https://www.wrightslaw.com)** - Special education law, IEP, and Section 504 advocacy guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
@@ -457,7 +457,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 
 - **[Ask a Manager](https://www.askamanager.org)** - Get plain-spoken answers to real workplace and career questions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[College Info Geek](https://collegeinfogeek.com)** - Thomas Frank's long-running blog, podcast, and videos on study skills and student productivity ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[College Info Geek](https://collegeinfogeek.com)** - Thomas Frank's blog, podcast, and videos on study skills and student productivity ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Cortex](https://www.relay.fm/cortex)** - Weekly conversations on productivity systems, tools, and workflows ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Deep Questions with Cal Newport](https://www.thedeeplife.com/listen/)** - Weekly podcast on deep work, focus, and study strategy ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Farnam Street](https://fs.blog)** - Essays on mental models, decision-making, and clearer thinking ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -529,7 +529,7 @@ Meta-skills: how to study, remember, and focus.
 - **[How to Email a Professor](https://dennislearningcenter.osu.edu/how-to-email-a-professor/)** - Write clear, polite emails to professors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** - S. Keshav's three-pass method for reading research papers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Interleaving](https://academicaffairs.arizona.edu/l2l-strategy-interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Interleaving](https://academicaffairs.arizona.edu/l2l-strategy-interleaving)** - University of Arizona's free guide to mixing topics for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Pomodoro Technique](https://www.pomodorotechnique.com)** - Francesco Cirillo's official guide to the Pomodoro time-management method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Purdue OWL](https://owl.purdue.edu/)** - Free guides to academic writing, research papers, and APA or MLA citation ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -571,7 +571,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[Nightline Europe](https://nightlines.eu/europe/)** - Network of student-run anonymous listening services across Europe ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[SADAG](https://www.sadag.org)** - South African helplines and free support groups for depression and anxiety ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Samaritans](https://www.samaritans.org/)** - Free, confidential support from trained listeners, 24 hours a day ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Student Minds](https://www.studentminds.org.uk/advice-and-info/feeling-homesick-at-university/)** - UK student mental health charity's free guide to coping with homesickness at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Student Minds](https://www.studentminds.org.uk/advice-and-info/feeling-homesick-at-university/)** - UK student mental health charity's free guide to coping with homesickness ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Tele-MANAS](https://telemanas.mohfw.gov.in)** - India's free 24/7 mental health helpline, dial 14416 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TELL Japan](https://telljp.com)** - English and Japanese lifeline, chat, and counseling in Japan ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[The Trevor Project](https://www.thetrevorproject.org)** - Free, confidential crisis support and resources for LGBTQ+ young people ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
