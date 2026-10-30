@@ -33,3 +33,6 @@ jobs:
       # Fails if data/resources.json has drifted from README.md; run
       # `node scripts/export-json.mjs` to regenerate.
       - run: node scripts/export-json.mjs --check
+      # Fails on a key in data/last-verified.json that matches no resource URL, a malformed
+      # date, or a future date. Undated entries are only listed as a warning.
+      - run: node scripts/check-last-verified.mjs
