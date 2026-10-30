@@ -49,6 +49,15 @@ software), but releases are still tagged so changes are easy to point to.
 - A new **Helpful Repositories** top-level section (GitHub repos, not hosted
   tools or apps): build-your-own-x, developer-roadmap,
   free-programming-books, public-apis.
+- 28 further single-resource entries merged since the dead-link fix on
+  2026-10-17: Ask a Manager, AT&T Signature Savings, Bayt.com Blog, Bold.org
+  Art Scholarships, Digital Distractions, European Youth Card, Firefox, Free
+  Teacher Resume Starter, How to Email a Professor, IB Doctor University
+  Requirements, JobEmerge, Koru, Mind Over Mood, MuseScore Studio,
+  NextGenYouth, NHS Sleep Advice, NoteGoblin, SageMath, speaking.app, STAR
+  Answer Checker, Startup School, Steal Like an Artist, Tandem, The College
+  Investor, Three UK Student Discount, UCLA Mindful, VSCodium, and Wells Fargo
+  Stacey Milbern Scholarship.
 
 ### Changed
 
@@ -65,6 +74,9 @@ software), but releases are still tagged so changes are easy to point to.
   `scripts/pricing-review.mjs` updated to parse badges instead of the old
   parenthetical; `data/resources.json` gained a `tags` array field alongside
   the existing `pricing` field. New shared module: `scripts/badges.mjs`.
+- Cal.diy replaces Cal.com in FOSS Picks: Cal.com's production code moved to a
+  private repository, and `calcom/cal.diy` is the public MIT-licensed edition
+  (#652).
 
 ### Fixed
 
