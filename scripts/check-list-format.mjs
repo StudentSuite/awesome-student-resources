@@ -254,7 +254,7 @@ export function checkListFormat(readmeText, contributingText) {
 
 // CONTRIBUTING.md's guideline is "roughly 10 words or fewer." Only warn once an
 // entry runs significantly past that, so normal variance doesn't nag every review.
-export const DESCRIPTION_WORD_WARNING_THRESHOLD = 15;
+export const DESCRIPTION_WORD_WARNING_THRESHOLD = 12;
 
 // Pure: word count of a description, with the trailing badges and closing
 // period stripped so neither counts toward the guideline.

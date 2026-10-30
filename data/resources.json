@@ -266,7 +266,7 @@
   {
     "name": "Three UK Student Discount",
     "url": "https://www.three.co.uk/offers/student-discount",
-    "description": "Get 20% off phone, SIM-only and broadband plans with a UK student email",
+    "description": "Get 20% off phone, SIM-only and broadband plans with a student email",
     "pricing": "paid",
     "tags": [
       "paid"
@@ -409,7 +409,7 @@
   {
     "name": "Global Korea Scholarship",
     "url": "https://www.studyinkorea.go.kr/en/plan/scholarship.do",
-    "description": "South Korea's official government scholarship covering tuition and living costs for international students",
+    "description": "South Korea's government scholarship covering tuition and living costs for international students",
     "pricing": "free",
     "tags": [
       "free"
@@ -442,7 +442,7 @@
   {
     "name": "Mandela Rhodes Scholarship",
     "url": "https://www.mandelarhodes.org/scholarship/apply/",
-    "description": "Fully funded postgraduate scholarship and leadership program for African students in South Africa",
+    "description": "Fully funded postgraduate scholarship and leadership program for African students",
     "pricing": "free",
     "tags": [
       "free"
@@ -464,7 +464,7 @@
   {
     "name": "MENA Scholar",
     "url": "https://menascholar.com",
-    "description": "Free directory of study and language programs across the Middle East and North Africa",
+    "description": "Free directory of study and language programs across the MENA region",
     "pricing": "free",
     "tags": [
       "free"
@@ -475,7 +475,7 @@
   {
     "name": "Scholars4Dev",
     "url": "https://www.scholars4dev.com",
-    "description": "Free scholarship search engine for students across Asia, Africa, and other developing regions",
+    "description": "Free scholarship search for students in Asia, Africa, and other developing regions",
     "pricing": "free",
     "tags": [
       "free"
@@ -519,7 +519,7 @@
   {
     "name": "Study in Japan",
     "url": "https://www.studyinjapan.go.jp/en/planning/scholarships/",
-    "description": "Japanese government hub for MEXT, JASSO, and university scholarships to study in Japan",
+    "description": "Japan's government hub for MEXT, JASSO, and university scholarships",
     "pricing": "free",
     "tags": [
       "free"
@@ -552,7 +552,7 @@
   {
     "name": "Banxico Educa",
     "url": "https://educa.banxico.org.mx/",
-    "description": "Mexico's central bank free financial education courses and games on money and economics",
+    "description": "Mexico's central bank free financial education courses and games",
     "pricing": "free",
     "tags": [
       "free"
@@ -563,7 +563,7 @@
   {
     "name": "Consumer Financial Protection Bureau",
     "url": "https://www.consumerfinance.gov/paying-for-college/repay-student-debt/",
-    "description": "The US government's free guide to federal and private student loan repayment options",
+    "description": "US government's free guide to federal and private student loan repayment",
     "pricing": "free",
     "tags": [
       "free"
@@ -783,7 +783,7 @@
   {
     "name": "Aced",
     "url": "https://www.aced.io/practice",
-    "description": "Free peer and AI mock interviews for tech and PM roles, formerly Exponent",
+    "description": "Free peer and AI mock interviews for tech and PM roles",
     "pricing": "freemium",
     "tags": [
       "freemium"
@@ -871,7 +871,7 @@
   {
     "name": "IB Doctor University Requirements",
     "url": "https://ibdoctor.co.uk/universities",
-    "description": "Look up IB entry requirements at 111 UK, German, Austrian and Swiss universities",
+    "description": "Look up IB requirements at 111 UK, German, Austrian and Swiss universities",
     "pricing": "free",
     "tags": [
       "free"
@@ -970,7 +970,7 @@
   {
     "name": "ResumeOrbitz",
     "url": "https://resumeorbitz.com",
-    "description": "Free, ATS-friendly resume builder with 150+ templates, AI-generated content, and a built-in ATS score checker",
+    "description": "Free, ATS-friendly resume builder with 150+ templates and an ATS score checker",
     "pricing": "free",
     "tags": [
       "free"
@@ -1014,7 +1014,7 @@
   {
     "name": "UAC",
     "url": "https://www.uac.edu.au",
-    "description": "The official university application portal for New South Wales and the ACT, Australia",
+    "description": "Official university application portal for New South Wales and the ACT",
     "pricing": "free",
     "tags": [
       "free"
@@ -1091,7 +1091,7 @@
   {
     "name": "Diamond Challenge",
     "url": "https://diamondchallenge.org",
-    "description": "Pitch a business or social venture for cash prizes, ages 14 to 18",
+    "description": "Pitch a business or social venture for cash prizes, ages 14-18",
     "pricing": "free",
     "tags": [
       "free"
@@ -1324,7 +1324,7 @@
   {
     "name": "EU Immigration Portal",
     "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en",
-    "description": "Official European Commission guidance on study visas and residence permits across the EU",
+    "description": "Official European Commission guidance on study visas and residence permits",
     "pricing": "free",
     "tags": [
       "free"
@@ -1457,7 +1457,7 @@
   {
     "name": "Study in the States",
     "url": "https://studyinthestates.dhs.gov",
-    "description": "The US Department of Homeland Security's official guidance on the F-1 student visa process",
+    "description": "US Department of Homeland Security guidance on the F-1 student visa process",
     "pricing": "free",
     "tags": [
       "free"
@@ -1556,7 +1556,7 @@
   {
     "name": "Job Bank",
     "url": "https://www.jobbank.gc.ca/youth",
-    "description": "The Government of Canada's free youth job board for part-time work and apprenticeships",
+    "description": "Government of Canada's free youth job board for part-time work and apprenticeships",
     "pricing": "free",
     "tags": [
       "free"
@@ -1578,7 +1578,7 @@
   {
     "name": "Milkround",
     "url": "https://www.milkround.com",
-    "description": "The UK's leading student and graduate job board for part-time work, internships, and schemes",
+    "description": "UK student and graduate job board for part-time work, internships, and schemes",
     "pricing": "free",
     "tags": [
       "free"
@@ -1611,7 +1611,7 @@
   {
     "name": "StudentJob",
     "url": "https://www.studentjob.co.uk",
-    "description": "Free student job board covering part-time work and internships across nine European countries",
+    "description": "Free student job board for part-time work across nine European countries",
     "pricing": "free",
     "tags": [
       "free"
@@ -2117,7 +2117,7 @@
   {
     "name": "DUNEHA",
     "url": "https://duneha.org",
-    "description": "Free, active homeschooling community and support association for Dubai and the Northern Emirates",
+    "description": "Free homeschooling community and support association for Dubai and the Northern Emirates",
     "pricing": "free",
     "tags": [
       "free"
@@ -2271,7 +2271,7 @@
   {
     "name": "Understood.org",
     "url": "https://www.understood.org",
-    "description": "Free guidance on homeschooling kids with an IEP, 504 plan, or learning difference",
+    "description": "Free guidance on homeschooling with an IEP, 504 plan, or learning difference",
     "pricing": "free",
     "tags": [
       "free"
@@ -2912,7 +2912,7 @@
   {
     "name": "College Info Geek",
     "url": "https://collegeinfogeek.com",
-    "description": "Thomas Frank's long-running blog, podcast, and videos on study skills and student productivity",
+    "description": "Thomas Frank's blog, podcast, and videos on study skills and student productivity",
     "pricing": "free",
     "tags": [
       "free"
@@ -3440,7 +3440,7 @@
   {
     "name": "Interleaving",
     "url": "https://academicaffairs.arizona.edu/l2l-strategy-interleaving",
-    "description": "University of Arizona's free guide to mixing topics while studying for better retention",
+    "description": "University of Arizona's free guide to mixing topics for better retention",
     "pricing": "free",
     "tags": [
       "free"
@@ -3770,7 +3770,7 @@
   {
     "name": "Student Minds",
     "url": "https://www.studentminds.org.uk/advice-and-info/feeling-homesick-at-university/",
-    "description": "UK student mental health charity's free guide to coping with homesickness at university",
+    "description": "UK student mental health charity's free guide to coping with homesickness",
     "pricing": "free",
     "tags": [
       "free"
