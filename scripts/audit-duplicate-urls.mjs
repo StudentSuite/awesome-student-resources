@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Reports every URL used more than once across README.md, regardless of section.
 // This is a maintainer-facing audit, not a lint check: cross-section duplicates are
-// often intentional (e.g. Physics & Maths Tutor serves both A-Level and IGCSE), so
+// often intentional (e.g. StudyMap is listed in a content section and in More from StudentSuite), so
 // this script always exits 0 and never fails CI.
 //
 // The `findDuplicateUrls(readmeText)` export is pure (returns the duplicate groups)

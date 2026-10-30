@@ -1,7 +1,5 @@
 # Config for the dead-link-check workflow (.github/workflows/dead-link-check.yml).
-# Several legitimate, working sites in README.md (getrevising.co.uk, leetcode.com,
-# mitpress.mit.edu, nailib.com, quizlet.com, smarthistory.org, feynmanlectures.caltech.edu,
-# ibdocuments.com, kaptest.com, sparknotes.com, inkscape.org, autodesk.com, ...) reject
+# Some legitimate, working sites in README.md (for example www.autodesk.com) reject
 # automated / non-browser requests with a 403 even though they're fine in a real browser.
 # Accepting 403 avoids constant false-positive noise; a truly dead entry usually surfaces
 # as a timeout, DNS failure, TLS error, or 404/410 instead, all of which still fail the check.
