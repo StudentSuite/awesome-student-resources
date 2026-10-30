@@ -74,6 +74,11 @@ two sections), so this always exits 0 and never fails CI.
 node scripts/audit-duplicate-urls.mjs
 ```
 
+It also prints each site (host) listed under more than one distinct URL, with
+the section and line of every entry, since pairs such as a homepage plus a
+sub-page share no exact URL. Hosts that carry many unrelated entries (GitHub,
+YouTube, LinkedIn and similar; see `SHARED_HOSTS`) are skipped.
+
 **Runs in:** `.github/workflows/lint.yml`, same triggers as above; always
 runs, never fails the job.
 
