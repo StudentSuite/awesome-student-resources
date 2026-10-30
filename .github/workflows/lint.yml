@@ -1,15 +1,9 @@
 name: Lint
 
 on:
+  # No path filter on pull_request: check-list-format is a required status check, so it has
+  # to report on every PR, including ones that only touch data/last-verified.json or lychee.toml.
   pull_request:
-    paths:
-      - README.md
-      - CONTRIBUTING.md
-      - scripts/check-list-format.mjs
-      - scripts/audit-duplicate-urls.mjs
-      - scripts/update-counts.mjs
-      - scripts/export-json.mjs
-      - data/resources.json
   push:
     branches:
       - main
