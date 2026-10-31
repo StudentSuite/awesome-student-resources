@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-369-blue)
+![Resources](https://img.shields.io/badge/resources-370-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -44,7 +44,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | <span role="img" aria-label="Helpful Repositories icon">📦</span> | [Helpful Repositories](#helpful-repositories) | 15 |
 | <span role="img" aria-label="Books We Trust icon">📖</span> | [Books We Trust](#books-we-trust) | 21 |
 | <span role="img" aria-label="Blogs, Newsletters &amp; Podcasts icon">🎧</span> | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 20 |
-| <span role="img" aria-label="Guides &amp; How-Tos icon">💡</span> | [Guides & How-Tos](#guides--how-tos) | 19 |
+| <span role="img" aria-label="Guides &amp; How-Tos icon">💡</span> | [Guides & How-Tos](#guides--how-tos) | 20 |
 | <span role="img" aria-label="Mental Health &amp; Wellbeing icon">🧘</span> | [Mental Health & Wellbeing](#mental-health--wellbeing) | 25 |
 | <span role="img" aria-label="Communities icon">👥</span> | [Communities](#communities) | 26 |
 
@@ -530,6 +530,7 @@ Meta-skills: how to study, remember, and focus.
 - **[How to Email a Professor](https://dennislearningcenter.osu.edu/how-to-email-a-professor/)** - Write clear, polite emails to professors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** - S. Keshav's three-pass method for reading research papers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[How to Review Missed Questions](https://blynkai.app/cardify/en/mistake-question-flashcards/)** - Review mistakes with a worked example and printable study log ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Interleaving](https://academicaffairs.arizona.edu/l2l-strategy-interleaving)** - University of Arizona's free guide to mixing topics for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Pomodoro Technique](https://www.pomodorotechnique.com)** - Francesco Cirillo's official guide to the Pomodoro time-management method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
