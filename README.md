@@ -142,6 +142,7 @@ Budgeting, credit, and banking basics for the money you already have.
 - **[Financial Consumer Agency of Canada](https://www.canada.ca/en/financial-consumer-agency.html)** - The Canadian government's official financial literacy and money-management hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HowTheMarketWorks](https://www.howthemarketworks.com)** - Practice investing with virtual money in a free stock market game ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Investopedia](https://www.investopedia.com)** - Free glossary, articles, and guides covering every personal-finance and investing basic ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[IPaid Rent Split Calculator](https://ipaid-seven.vercel.app/rent-split-calculator)** - Split shared rent fairly by room size ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[IRS Publication 970](https://www.irs.gov/publications/p970)** - IRS guide to education credits, deductions, and student loan interest ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)** - Free course covering budgeting, credit, and investing basics ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Money Saving Expert](https://www.moneysavingexpert.com)** - Martin Lewis's free UK consumer and student money guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
