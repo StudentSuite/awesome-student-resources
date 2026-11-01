@@ -51,6 +51,14 @@ body:
       description: One or two sentences, and note the pricing (free, freemium, paid, or FOSS)
     validations:
       required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: Do you maintain, work on, or get paid by this resource? Write "none" or describe it. Disclosure doesn't disqualify an entry.
+      placeholder: none
+    validations:
+      required: true
   - type: checkboxes
     id: standards
     attributes:

@@ -89,6 +89,10 @@ If nothing fits, open an issue first to discuss a new section before adding one.
 2. Open a PR titled `Add resource: Name`.
 3. In the PR description, link the resource and say in one sentence why it helps students.
 
+If you maintain, work on, or are paid by the resource you're adding, say so in the PR description. Disclosure does not disqualify an entry; it is judged against the same Quality Standards as every other one.
+
+Entry URLs must be the plain homepage or page URL, without tracking parameters (`utm_*`, `ref`, `fbclid` and similar) or referral codes. Strip them before you open the PR.
+
 Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
 
 If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.

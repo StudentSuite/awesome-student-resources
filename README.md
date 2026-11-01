@@ -191,7 +191,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[PracHub](https://prachub.com/interview-guide)** - Browse interview guides and questions by company, role, and topic ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ResumeAI](https://withresumeai.com/)** - Free ATS resume checks against a job description ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ResumeOrbitz](https://resumeorbitz.com)** - Free, ATS-friendly resume builder with 150+ templates and an ATS score checker ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker?utm_source=github-awesome-student-resources&utm_medium=listing&utm_campaign=free-tools-oct)** - Check a behavioral interview answer for STAR structure, length, and filler words ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker)** - Check a behavioral interview answer for STAR structure, length, and filler words ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Muse](https://www.themuse.com/advice/cover-letters)** - Free cover letter guides, templates, and examples ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UAC](https://www.uac.edu.au)** - Official university application portal for New South Wales and the ACT ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -640,7 +640,7 @@ Ask questions and study alongside other students.
 ## A Note on Links
 
 > [!NOTE]
-> This list points to third-party tools, channels, and books. StudentSuite does not own, host, or endorse them, and it earns nothing from these links. Pricing and free tiers change, so check the current terms before you commit. If a listed entry is dead, misleading, or no longer free where we said so, open an issue or PR to fix it.
+> This list points to third-party tools, channels, and books. StudentSuite does not own, host, or endorse them, except its own projects (StudyMap and the sister lists), and it earns nothing from these links. Pricing and free tiers change, so check the current terms before you commit. If a listed entry is dead, misleading, or no longer free where we said so, open an issue or PR to fix it.
 
 ---
 
