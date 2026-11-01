@@ -101,6 +101,10 @@ software), but releases are still tagged so changes are easy to point to.
 
 ### Removed
 
+- Bold.org Art Scholarships (Scholarships & Financial Aid) and NHS Sleep Advice
+  (Mental Health & Wellbeing). Each was a sub-page of a site already listed in the
+  same section (Bold.org, NHS Every Mind Matters), which the same-site rule in
+  CONTRIBUTING.md folds into one entry.
 - Careerhelp (Vocational & Alternative Paths). The dead-link check flagged an HTTP
   402; manually confirmed (curl over HTTP/2 and HTTP/1.1, and a separate
   fetch) that career.help returns Vercel's `DEPLOYMENT_DISABLED` error for

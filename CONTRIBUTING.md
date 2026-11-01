@@ -93,6 +93,10 @@ If you maintain, work on, or are paid by the resource you're adding, say so in t
 
 Entry URLs must be the plain homepage or page URL, without tracking parameters (`utm_*`, `ref`, `fbclid` and similar) or referral codes. Strip them before you open the PR.
 
+One site gets one entry per section. A homepage plus a sub-page of the same site in the same section is a single entry (link the page students will use most). A second entry from the same site is fine only when it is a distinct resource with its own audience, such as a jobs board and its blog, or a newsletter and a book by the same author in different sections; make the two descriptions say how they differ. `node scripts/audit-duplicate-urls.mjs` lists every site that appears under more than one URL, for reviewers to check. It is informational and never fails CI.
+
+Entries that also appear in [Awesome Study Resources](https://github.com/StudentSuite/awesome-study-resources) may stay in both lists when they serve general studying; a resource that only serves one exam or subject belongs in that list alone.
+
 Every list is sorted alphabetically (case-insensitive) by the entry name, so place your bullet where it belongs rather than at the end.
 
 If your PR removes an entry (dead link, discontinued service, no longer meets the Quality Standards), add a one-line note under CHANGELOG.md's `Unreleased > Removed` section saying what was removed and why.
