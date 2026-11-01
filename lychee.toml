@@ -13,7 +13,8 @@ timeout = 45
 retry_wait_time = 2
 max_retries = 3
 
-user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+# No custom user_agent: with a Chrome string, Student Minds returned 520 and milkround.com failed
+# with an HTTP/2 error, while lychee's default agent gets 200 from both (see #656).
 
 # autodesk.com: manually verified (curl, both HTTP/1.1 and HTTP/2) to return a 403 like the
 # other bot-blocked domains above, but lychee's HTTP client fails to negotiate HTTP/2 with
@@ -107,6 +108,23 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # AIMS homepage ("Welcome to the AIMS Website", What is AIMS?, How to Apply?, Destination Guide,
 # 10+ Years of AIMS, SEAMEO RIHED). AIMS is a live SEAMEO RIHED student exchange programme, so
 # excluding rather than removing the entry.
+# Helpline pages (#656): telemanas.mohfw.gov.in, embracelebanon.org and studentminds.org.uk are no
+# longer excluded; with the default user agent all three pass in a local lychee run on 2026-11-01
+# (the missing-intermediate-certificate and bot-blocking notes above for them are historical).
+# anad.org and chadd.org stay excluded: anad.org returns a 500 and chadd.org refuses connections
+# from the networks tried, and neither could be confirmed live by hand, so they are not dated in
+# data/last-verified.json. CONTRIBUTING.md asks that a helpline exclusion carry a manual check
+# dated within 90 days.
+#
+# web.icetex.gov.co/.../plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico:
+# reported in #680 as "Connection failed". curl to web.icetex.gov.co from a separate network
+# connects to the IP and then hangs until timeout (no status, no TLS error), the same
+# edge-filtering signature as the other government hosts above, while the Wayback Machine holds
+# a clean 200 snapshot of this exact page from 2026-07-14. ICETEX is Colombia's official
+# student-funding agency and the page is the Pacific Alliance mobility platform, so excluding
+# rather than removing it. (milkround.com in the same report answers 200 over both HTTP/2 and
+# HTTP/1.1, a one-off HTTP/2 error, so it needs no exclusion.)
+#
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
@@ -118,7 +136,6 @@ exclude = [
   "https://www.dewr.gov.au/australian-apprenticeships",
   "https://ncfe.org.in/",
   "https://swe.org/apply-for-a-swe-scholarship/",
-  "https://telemanas.mohfw.gov.in/",
   "https://www.nsfas.org.za/content/repayments.html",
   "https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx",
   "https://www.jobbank.gc.ca/youth",
@@ -129,9 +146,8 @@ exclude = [
   "https://anad.org/get-support/eating-disorders-helpline/",
   "https://bestdelegate.com/",
   "https://brokemillennial.com/get-the-book/",
-  "https://embracelebanon.org/what-we-do/the-national-lifeline/",
   "https://hslda.ca/",
   "https://redenfamilia.com.co/",
   "https://www.thedeeplife.com/listen/",
-  "https://www.studentminds.org.uk/advice-and-info/feeling-homesick-at-university/",
+  "https://web.icetex.gov.co/web/portal/becas/becas-para-estudios-en-el-exterior/programas-especiales/plataforma-de-alianza-pacifico/plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico",
 ]
