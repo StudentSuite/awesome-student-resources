@@ -858,6 +858,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Docexp",
+    "url": "https://docexp.com/category/id-exam",
+    "description": "Resize exam application photos and signatures to exact pixels and KB",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "Europass",
     "url": "https://europass.europa.eu",
     "description": "EU's free CV and cover letter builder with skills tools",
@@ -905,6 +916,17 @@
     "name": "JobStreet Career Advice",
     "url": "https://my.jobstreet.com/career-advice",
     "description": "Use resume templates and a practice interview tool for Southeast Asia",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "MockLive Interview Answer Timer",
+    "url": "https://makeinterview.com/en/tools/interview-answer-timer",
+    "description": "Rehearse two timed answers and compare the points you kept",
     "pricing": "free",
     "tags": [
       "free"
