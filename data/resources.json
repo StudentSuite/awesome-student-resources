@@ -165,6 +165,18 @@
     "subsection": null
   },
   {
+    "name": "LanguageTool",
+    "url": "https://languagetool.org",
+    "description": "Open-source grammar and spell checker with a free tier",
+    "pricing": "freemium",
+    "tags": [
+      "FOSS",
+      "freemium"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "MHexplorer",
     "url": "https://www.malaysiaairlines.com/my/en/other-offerings/mhexplorer.html",
     "description": "Malaysia Airlines fare discounts and extra baggage for ages 13 to 26",
@@ -850,6 +862,17 @@
     "name": "CUET",
     "url": "https://cuet.nta.nic.in",
     "description": "India's official centralized entrance test for university admissions",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "Docexp",
+    "url": "https://docexp.com/category/id-exam",
+    "description": "Resize exam application photos and signatures to exact pixels and KB",
     "pricing": "free",
     "tags": [
       "free"
@@ -2542,18 +2565,6 @@
     "subsection": null
   },
   {
-    "name": "LanguageTool",
-    "url": "https://languagetool.org",
-    "description": "Open-source grammar, style, and spell checker for 30+ languages",
-    "pricing": "freemium",
-    "tags": [
-      "FOSS",
-      "freemium"
-    ],
-    "section": "FOSS Picks",
-    "subsection": null
-  },
-  {
     "name": "LibreOffice",
     "url": "https://www.libreoffice.org",
     "description": "Free, open office suite: documents, spreadsheets, slides",
@@ -2751,7 +2762,6 @@
     "description": "Curated libraries, papers, and tools for quantitative finance",
     "pricing": "free",
     "tags": [
-      "FOSS",
       "free"
     ],
     "section": "Helpful Repositories",
@@ -2763,7 +2773,6 @@
     "description": "Curated tutorials for building your own Git, database, or shell from scratch",
     "pricing": "free",
     "tags": [
-      "FOSS",
       "free"
     ],
     "section": "Helpful Repositories",
@@ -2787,6 +2796,7 @@
     "description": "Learn data science fundamentals in a 10-week, 20-lesson curriculum",
     "pricing": "free",
     "tags": [
+      "FOSS",
       "free"
     ],
     "section": "Helpful Repositories",
@@ -2798,7 +2808,6 @@
     "description": "Community-maintained learning roadmaps for over 30 tech roles",
     "pricing": "free",
     "tags": [
-      "FOSS",
       "free"
     ],
     "section": "Helpful Repositories",
@@ -2810,6 +2819,7 @@
     "description": "Practice making your first open-source pull request step by step",
     "pricing": "free",
     "tags": [
+      "FOSS",
       "free"
     ],
     "section": "Helpful Repositories",
@@ -2854,10 +2864,9 @@
   {
     "name": "progit2",
     "url": "https://github.com/progit/progit2",
-    "description": "Read the open-source Pro Git book, source and builds",
+    "description": "Read the Pro Git book, source and builds",
     "pricing": "free",
     "tags": [
-      "FOSS",
       "free"
     ],
     "section": "Helpful Repositories",
@@ -2893,6 +2902,7 @@
     "description": "Open-source Python implementations of algorithms and data structures",
     "pricing": "free",
     "tags": [
+      "FOSS",
       "free"
     ],
     "section": "Helpful Repositories",

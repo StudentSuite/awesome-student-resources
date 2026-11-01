@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-370-blue)
+![Resources](https://img.shields.io/badge/resources-372-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,14 +33,14 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 | Icon | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 28 |
+| <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 29 |
 | <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 23 |
 | <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
-| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 81 |
+| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 82 |
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
 | <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
 | <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
-| <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 35 |
+| <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 34 |
 | <span role="img" aria-label="Helpful Repositories icon">📦</span> | [Helpful Repositories](#helpful-repositories) | 15 |
 | <span role="img" aria-label="Books We Trust icon">📖</span> | [Books We Trust](#books-we-trust) | 21 |
 | <span role="img" aria-label="Blogs, Newsletters &amp; Podcasts icon">🎧</span> | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 20 |
@@ -76,6 +76,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[ISIC](https://www.isic.org)** - Global student ID unlocking transit, travel, and retail discounts ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[JetBrains for Students](https://www.jetbrains.com/academy/student-pack/)** - All JetBrains IDEs free for students with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Kilobat Pro for Students](https://kilobat.app/students)** - Diagnose Mac networks with renewable annual Pro on two Macs ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[LanguageTool](https://languagetool.org)** - Open-source grammar and spell checker with a free tier ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[MHexplorer](https://www.malaysiaairlines.com/my/en/other-offerings/mhexplorer.html)** - Malaysia Airlines fare discounts and extra baggage for ages 13 to 26 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office)** - Free Word, Excel, PowerPoint, and Teams with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NoteGoblin](https://notegoblin-app.vercel.app)** - Turn your own notes or lecture recordings into flashcards and quizzes ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -403,7 +404,6 @@ Fully free and open-source tools worth installing.
 - **[KeePassXC](https://keepassxc.org)** - Free, open-source, offline password manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Koru](https://www.koru.do)** - Free, open, local-first workspace for notes, docs, and files ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Krita](https://krita.org)** - Free, open painting and illustration app ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[LanguageTool](https://languagetool.org)** - Open-source grammar, style, and spell checker for 30+ languages ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Logseq](https://logseq.com)** - Build a linked notes graph from outlines, stored locally ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MuseScore Studio](https://musescore.org)** - Write, play back and print sheet music ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -432,19 +432,19 @@ GitHub repositories worth starring: rosters, roadmaps, and starter material any 
 
 - **[Awesome-CV](https://github.com/posquit0/Awesome-CV)** - LaTeX template for polished resumes, CVs, and cover letters ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities)** - Curated tools and resources for computational and quantitative humanities research ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)** - Curated libraries, papers, and tools for quantitative finance ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Curated tutorials for building your own Git, database, or shell from scratch ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)** - Curated libraries, papers, and tools for quantitative finance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Curated tutorials for building your own Git, database, or shell from scratch ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[coding-interview-university](https://github.com/jwasham/coding-interview-university)** - Complete free study plan for becoming a software engineer ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)** - Learn data science fundamentals in a 10-week, 20-lesson curriculum ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[developer-roadmap](https://github.com/nilbuild/developer-roadmap)** - Community-maintained learning roadmaps for over 30 tech roles ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[first-contributions](https://github.com/firstcontributions/first-contributions)** - Practice making your first open-source pull request step by step ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)** - Learn data science fundamentals in a 10-week, 20-lesson curriculum ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[developer-roadmap](https://github.com/nilbuild/developer-roadmap)** - Community-maintained learning roadmaps for over 30 tech roles ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[first-contributions](https://github.com/firstcontributions/first-contributions)** - Practice making your first open-source pull request step by step ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[free-programming-books](https://github.com/EbookFoundation/free-programming-books)** - Massive curated list of free programming and computer-science books ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** - Free, open curriculum and certifications for web development and programming ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ossu/computer-science](https://github.com/ossu/computer-science)** - Free self-taught computer science curriculum with full course list ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[progit2](https://github.com/progit/progit2)** - Read the open-source Pro Git book, source and builds ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[progit2](https://github.com/progit/progit2)** - Read the Pro Git book, source and builds ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[public-apis](https://github.com/public-apis/public-apis)** - Directory of free public APIs for hackathon and side projects ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[system-design-primer](https://github.com/donnemartin/system-design-primer)** - Learn to design large-scale systems and prepare for interviews ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** - Open-source Python implementations of algorithms and data structures ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** - Open-source Python implementations of algorithms and data structures ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 

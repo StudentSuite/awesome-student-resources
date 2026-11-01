@@ -54,6 +54,8 @@ Every entry carries exactly one pricing badge, always, no exceptions for "obviou
 | ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square) | pricing | `![paid](https://img.shields.io/badge/paid-D33833?style=flat-square)` |
 | ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) | additive, on top of a pricing badge | `![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square)` |
 
+The FOSS badge needs a licence you can point to: the source (or, for content repositories, the content) must be under an OSI-approved or Creative Commons licence that allows commercial use and derivatives. A repository with no licence file, non-commercial terms (CC BY-NC and similar) or personal-use-only terms does not qualify, so it gets its pricing badge alone. Check with `gh api repos/<owner>/<repo> --jq .license.spdx_id` and read the licence file when GitHub reports `NOASSERTION`. FOSS Picks is for fully free tools only, so a freemium or paid tool belongs in another section, with the FOSS badge on top of its pricing badge if its source is open.
+
 Order: FOSS first, then the pricing badge, e.g. `![FOSS](...) ![free](...)`. `scripts/check-list-format.mjs` fails the build on a missing pricing badge, more than one pricing badge, an unrecognized tag name, or a FOSS Picks entry with no FOSS badge, so get this right locally before opening a PR (`node scripts/check-list-format.mjs`).
 
 ---
