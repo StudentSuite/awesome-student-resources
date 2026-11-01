@@ -155,6 +155,9 @@ export function checkListFormat(readmeText, contributingText) {
       if (currentHeading === 'FOSS Picks' && !tags.includes('FOSS')) {
         errors.push(`README.md:${i + 1}  "${item[1]}" is in FOSS Picks but is missing the FOSS badge.`);
       }
+      if (currentHeading === 'FOSS Picks' && (tags.includes('freemium') || tags.includes('paid'))) {
+        errors.push(`README.md:${i + 1}  "${item[1]}" is in FOSS Picks but is not fully free; move it to another section.`);
+      }
     }
   }
   flushBlock();

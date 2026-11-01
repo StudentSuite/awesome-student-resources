@@ -218,6 +218,26 @@ test('a FOSS Picks entry with the FOSS badge passes', () => {
   assert.deepEqual(errorsFor(readme, contributing), []);
 });
 
+for (const pricing of ['freemium', 'paid']) {
+  test(`a FOSS Picks entry with ${pricing} pricing is rejected`, () => {
+    const badge = pricing === 'freemium' ? FREEMIUM : '![paid](https://img.shields.io/badge/paid-D33833?style=flat-square)';
+    const readme = VALID_README.replaceAll('Alpha', 'FOSS Picks')
+      .replace('#alpha', '#foss-picks')
+      .replace(`A fruit tool ${FREE}`, `A fruit tool ${FOSS} ${badge}`)
+      .replace(`Another fruit tool ${FREE}`, `Another fruit tool ${FOSS} ${FREE}`);
+    const contributing = VALID_CONTRIBUTING.replace('- Alpha', '- FOSS Picks');
+    const errors = errorsFor(readme, contributing);
+    assert.equal(errors.length, 1);
+    assert.match(errors[0], /"Apple" is in FOSS Picks but is not fully free/);
+  });
+
+  test(`open-source ${pricing} entries are allowed outside FOSS Picks`, () => {
+    const badge = pricing === 'freemium' ? FREEMIUM : '![paid](https://img.shields.io/badge/paid-D33833?style=flat-square)';
+    const readme = VALID_README.replace(`A fruit tool ${FREE}`, `A fruit tool ${FOSS} ${badge}`);
+    assert.deepEqual(errorsFor(readme), []);
+  });
+}
+
 // --- Exported helpers ---
 
 test('slugify matches GitHub anchor rules', () => {
