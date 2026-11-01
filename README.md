@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-370-blue)
+![Resources](https://img.shields.io/badge/resources-373-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -31,22 +31,22 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 ## Table of Contents
 
-| Icon | Section | Resources |
-| :-: | --- | :-: |
-| <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 28 |
-| <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 23 |
-| <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
-| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 81 |
-| <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
-| <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
-| <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
-| <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 35 |
-| <span role="img" aria-label="Helpful Repositories icon">📦</span> | [Helpful Repositories](#helpful-repositories) | 15 |
-| <span role="img" aria-label="Books We Trust icon">📖</span> | [Books We Trust](#books-we-trust) | 21 |
-| <span role="img" aria-label="Blogs, Newsletters &amp; Podcasts icon">🎧</span> | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 20 |
-| <span role="img" aria-label="Guides &amp; How-Tos icon">💡</span> | [Guides & How-Tos](#guides--how-tos) | 20 |
-| <span role="img" aria-label="Mental Health &amp; Wellbeing icon">🧘</span> | [Mental Health & Wellbeing](#mental-health--wellbeing) | 25 |
-| <span role="img" aria-label="Communities icon">👥</span> | [Communities](#communities) | 26 |
+|                                          Icon                                          | Section                                                                        | Resources |
+| :------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ | :-------: |
+|    <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span>    | [Student Discounts & Free Access](#student-discounts--free-access)             |     28    |
+|      <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span>     | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |     23    |
+| <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) |     20    |
+|        <span role="img" aria-label="University &amp; Career Prep icon">🎯</span>       | [University & Career Prep](#university--career-prep)                           |     83    |
+|     <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span>    | [Vocational & Alternative Paths](#vocational--alternative-paths)               |     18    |
+|        <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span>       | [Debate & Public Speaking](#debate--public-speaking)                           |     21    |
+|               <span role="img" aria-label="Homeschooling icon">🏠</span>               | [Homeschooling](#homeschooling)                                                |     18    |
+|                 <span role="img" aria-label="FOSS Picks icon">🔓</span>                | [FOSS Picks](#foss-picks)                                                      |     35    |
+|            <span role="img" aria-label="Helpful Repositories icon">📦</span>           | [Helpful Repositories](#helpful-repositories)                                  |     15    |
+|               <span role="img" aria-label="Books We Trust icon">📖</span>              | [Books We Trust](#books-we-trust)                                              |     21    |
+|     <span role="img" aria-label="Blogs, Newsletters &amp; Podcasts icon">🎧</span>     | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |     20    |
+|            <span role="img" aria-label="Guides &amp; How-Tos icon">💡</span>           | [Guides & How-Tos](#guides--how-tos)                                           |     20    |
+|       <span role="img" aria-label="Mental Health &amp; Wellbeing icon">🧘</span>       | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |     25    |
+|                <span role="img" aria-label="Communities icon">👥</span>                | [Communities](#communities)                                                    |     26    |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -183,6 +183,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[IB Doctor University Requirements](https://ibdoctor.co.uk/universities)** - Look up IB requirements at 111 UK, German, Austrian and Swiss universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[JobEmerge](https://www.jobemerge.work)** - Check job fit and translate resumes into 19 languages ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[JobStreet Career Advice](https://my.jobstreet.com/career-advice)** - Use resume templates and a practice interview tool for Southeast Asia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MockLive Interview Answer Timer](https://makeinterview.com/en/tools/interview-answer-timer)** - Rehearse two timed answers and compare the points you kept ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MonoEd CV Maker](https://cv-maker.monoed.africa/)** - AI-assisted CV builder for scholarship and job applications across Africa ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[OCC Blog de Candidatos](https://blog-candidatos.occ.com.mx/)** - Spanish-language job search, CV, and interview advice for Mexico ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
