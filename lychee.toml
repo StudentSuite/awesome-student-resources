@@ -125,6 +125,12 @@ max_retries = 3
 # rather than removing it. (milkround.com in the same report answers 200 over both HTTP/2 and
 # HTTP/1.1, a one-off HTTP/2 error, so it needs no exclusion.)
 #
+# sorted.org.nz (#707): answers 405 to curl with or without a browser user agent, and a real
+# Chrome session on 2026-11-02 landed on a "Human Verification" challenge page (also HTTP 405)
+# before any content. That is a bot check in front of the site, not an outage, and lychee cannot
+# pass it, so it is excluded rather than removed. The entry was last verified in a browser on
+# 2026-09-25 (data/last-verified.json).
+#
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
@@ -149,5 +155,5 @@ exclude = [
   "https://hslda.ca/",
   "https://redenfamilia.com.co/",
   "https://www.thedeeplife.com/listen/",
-  "https://web.icetex.gov.co/web/portal/becas/becas-para-estudios-en-el-exterior/programas-especiales/plataforma-de-alianza-pacifico/plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico",
+  "https://web.icetex.gov.co/web/portal/becas/becas-para-estudios-en-el-exterior/programas-especiales/plataforma-de-alianza-pacifico/plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico",  "https://sorted.org.nz/",
 ]

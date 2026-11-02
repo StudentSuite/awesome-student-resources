@@ -471,7 +471,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 - **[Scott Young's Blog](https://www.scotthyoung.com/blog/)** - Deep dives on learning faster and building hard skills ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Sowt](https://www.sowt.com/)** - Arabic podcast network covering history, culture, and society ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Sspai](https://sspai.com)** - Chinese-language guides to apps, productivity, and digital life ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
-- **[Stuff You Missed in History Class](https://missedinhistory.com)** - Two-a-week deep dives into overlooked history ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Stuff You Missed in History Class](https://www.iheart.com/podcast/105-stuff-you-missed-in-histor-21124503/)** - Two-a-week deep dives into overlooked history ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TED en Español](https://www.ted.com/podcasts/ted-en-espanol)** - Weekly Spanish-language podcast of TED talks on ideas worth spreading ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The College Investor](https://thecollegeinvestor.com)** - Learn student loans, saving and investing as a young adult ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Learning Scientists Podcast](https://www.learningscientists.org/learning-scientists-podcast)** - Evidence-based study techniques explained by cognitive scientists ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
