@@ -111,10 +111,13 @@ max_retries = 3
 # Helpline pages (#656): telemanas.mohfw.gov.in, embracelebanon.org and studentminds.org.uk are no
 # longer excluded; with the default user agent all three pass in a local lychee run on 2026-11-01
 # (the missing-intermediate-certificate and bot-blocking notes above for them are historical).
-# anad.org and chadd.org stay excluded: anad.org returns a 500 and chadd.org refuses connections
-# from the networks tried, and neither could be confirmed live by hand, so they are not dated in
-# data/last-verified.json. CONTRIBUTING.md asks that a helpline exclusion carry a manual check
-# dated within 90 days.
+# anad.org and chadd.org stay excluded. anad.org returns a 500 to lychee, but a real Chrome session
+# on 2026-11-02 loaded the helpline page normally: toll-free 1-888-375-7767, Monday to Friday
+# 9am-9pm CST, copyright 2026, newest blog post 2026-10-15. That is the bot filtering described
+# above, not an outage, and the manual check is dated 2026-11-02 in data/last-verified.json.
+# chadd.org still refuses connections (it timed out from the networks tried, Chrome included, on
+# 2026-11-02), so the check could not be repeated; its last dated check is 2026-09-27 in
+# data/last-verified.json and falls out of the 90 days CONTRIBUTING.md allows on 2026-12-26.
 #
 # web.icetex.gov.co/.../plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico:
 # reported in #680 as "Connection failed". curl to web.icetex.gov.co from a separate network
