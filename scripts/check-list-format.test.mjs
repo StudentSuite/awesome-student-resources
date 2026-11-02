@@ -5,6 +5,7 @@ import {
   slugify,
   compareNames,
   findBannedAdjective,
+  findTrackingParam,
   countDescriptionWords,
   checkDescriptionLengths,
   DESCRIPTION_WORD_WARNING_THRESHOLD,
@@ -239,6 +240,41 @@ for (const pricing of ['freemium', 'paid']) {
 }
 
 // --- Exported helpers ---
+
+test('an entry URL with a tracking parameter is flagged with its line number', () => {
+  const readme = VALID_README.replace(
+    '(https://apple.example)',
+    '(https://apple.example/?utm_source=github-awesome&utm_medium=list)'
+  );
+  const errors = errorsFor(readme);
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /README\.md:\d+ .*Apple.*tracking or referral parameter \("utm_source"\)/);
+});
+
+test('an entry URL with a legitimate query string passes', () => {
+  const readme = VALID_README.replace('(https://apple.example)', '(https://apple.example/page?id=123&lang=en)');
+  assert.deepEqual(errorsFor(readme), []);
+});
+
+test('findTrackingParam recognises utm_*, fbclid, gclid, ref, ref_* and referral', () => {
+  for (const name of ['utm_source', 'UTM_Campaign', 'fbclid', 'gclid', 'ref', 'ref_src', 'referral', 'referral_code']) {
+    assert.equal(findTrackingParam(`https://a.example/?${name}=x`), name, name);
+  }
+});
+
+test('findTrackingParam ignores look-alike names, other parameters and unparseable URLs', () => {
+  for (const url of [
+    'https://a.example/',
+    'https://a.example/?id=1',
+    'https://a.example/?preference=1',
+    'https://a.example/?reference=1',
+    'https://a.example/?source=utm_ok',
+    'https://a.example/#ref=1',
+    'not a url',
+  ]) {
+    assert.equal(findTrackingParam(url), null, url);
+  }
+});
 
 test('slugify matches GitHub anchor rules', () => {
   assert.equal(slugify('Exam & Curriculum Prep'), 'exam--curriculum-prep');
