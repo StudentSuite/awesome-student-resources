@@ -68,6 +68,25 @@ export function findBannedAdjective(desc) {
   return null;
 }
 
+// Query parameters that only exist to track a visitor or credit a referrer. CONTRIBUTING.md asks for
+// plain entry URLs, so a link carrying one of these is rejected. Legitimate parameters such as
+// `?id=123` or `?page=2` are left alone.
+const TRACKING_PARAM = /^(utm_.*|fbclid|gclid|ref|ref_.*|referral.*)$/i;
+
+// Pure: the first tracking parameter name in a URL's query string, or null.
+export function findTrackingParam(url) {
+  let parsed;
+  try {
+    parsed = new URL(url);
+  } catch {
+    return null;
+  }
+  for (const name of parsed.searchParams.keys()) {
+    if (TRACKING_PARAM.test(name)) return name;
+  }
+  return null;
+}
+
 export function slugify(text) {
   return text
     .toLowerCase()
@@ -132,6 +151,13 @@ export function checkListFormat(readmeText, contributingText) {
       }
       const item = line.match(/^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*-\s*(.+)$/);
       currentItems.push({ name: item[1], url: item[2], desc: item[3], line: i + 1 });
+
+      const tracking = findTrackingParam(item[2]);
+      if (tracking) {
+        errors.push(
+          `README.md:${i + 1}  "${item[1]}" URL carries a tracking or referral parameter ("${tracking}"); use the plain URL.`
+        );
+      }
 
       const banned = findBannedAdjective(item[3]);
       if (banned) {

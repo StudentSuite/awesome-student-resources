@@ -28,6 +28,8 @@ Validates README.md against the rules in CONTRIBUTING.md:
   `FOSS` badge too
 - every section heading has a matching Table of Contents entry, and vice versa
 - no marketing adjectives in descriptions (see `BANNED_ADJECTIVES` in the script)
+- no tracking or referral parameters in entry URLs (`utm_*`, `fbclid`, `gclid`, `ref`,
+  `ref_*`, `referral*`); other query strings such as `?id=123` are fine
 - CONTRIBUTING.md's "Where it goes" list stays in sync with README's section
   headings (same names, same order)
 
