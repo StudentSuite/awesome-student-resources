@@ -375,6 +375,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 </details>
 
 ---
+- **[QuizQuip](https://quizquip.com)** — Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, quizzes, topical questions and downloadable practice papers, grouped by exam stage (WA1/WA2/EOY).
 
 ## FOSS Picks
 
