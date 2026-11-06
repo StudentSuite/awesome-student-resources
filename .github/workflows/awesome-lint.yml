@@ -1,0 +1,30 @@
+name: Awesome Lint
+
+on:
+  # No `paths:` filter on pull_request: branch protection requires this check,
+  # and a path-skipped workflow never reports a status, so the PR waits on it
+  # forever (#659).
+  pull_request:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - scripts/run-awesome-lint.mjs
+      - .github/workflows/awesome-lint.yml
+
+permissions:
+  contents: read
+
+jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      # No committed package.json (this repo is otherwise dependency-free),
+      # so install awesome-lint just for this job instead of adding one.
+      - run: npm install --no-save awesome-lint
+      - run: node scripts/run-awesome-lint.mjs

@@ -34,7 +34,15 @@ import lint from 'awesome-lint';
 // at all. This list keeps one on purpose, to explain that the MIT license
 // covers the curation (README, CONTRIBUTING.md) and not the third-party
 // tools/channels/books it links to, a clarification worth keeping.
-const DISABLED_RULES = new Set(['awesome-list-item', 'double-link', 'awesome-license']);
+//
+// remark-lint:table-pipe-alignment wants every pipe in the Table of Contents
+// padded into a column in the raw source. That table is rewritten by
+// update-counts.mjs whenever a section count changes, and its icon cells hold
+// labelled <span> markup (#664), so aligned pipes would mean re-padding every
+// row on every content PR. Alignment only affects the raw Markdown; GitHub
+// renders the table the same either way. This rule alone failed all 75 times
+// when the workflow was last run, which is why it was deleted on 2026-10-25.
+const DISABLED_RULES = new Set(['awesome-list-item', 'double-link', 'awesome-license', 'table-pipe-alignment']);
 
 async function main() {
   const [vfile] = await lint({ filename: 'README.md' });

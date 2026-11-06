@@ -136,7 +136,7 @@ After that, committing with README.md or CONTRIBUTING.md staged runs `scripts/ch
 
 ## CI checks
 
-Branch protection on `main` requires the `check-list-format`, `markdownlint`, and `awesome-lint` checks to pass before a PR can merge. A red check blocks merge; there's no override, so fix what it reports rather than asking for a manual merge.
+Branch protection on `main` requires the `check-list-format`, `markdownlint`, and `awesome-lint` checks to pass before a PR can merge, and all three run on every PR. A red check blocks merge. Repo admins can technically bypass it, but they don't for contributions, so fix what it reports rather than asking for a manual merge.
 
 See [scripts/README.md](scripts/README.md) for a one-page reference of every script, its flags, and which workflow runs it. The rest of this section covers the same ground in prose.
 
@@ -194,7 +194,7 @@ A labeling workflow (`.github/workflows/labeler.yml`, via `actions/labeler`) add
 
 A quarterly workflow (`.github/workflows/verification-check.yml`) opens an issue (built by `scripts/check-verification-age.mjs`) listing every entry not verified in the last six months, so that work surfaces on its own instead of depending on someone remembering. It skips creating a new issue if one from this quarter is already open. Verifying an entry means opening the link and confirming three things: the link still works, the resource is still maintained rather than abandoned, and the pricing tag is still accurate. Record a verification by adding the URL and today's date to `data/last-verified.json` (a flat `{ "url": "YYYY-MM-DD" }` map, kept separate from the generated `data/resources.json` so recording one never requires touching README.md), in the same PR that fixes anything you found wrong. Dates aren't rendered in README.md; the only value here is the maintenance prompt. Preview the current report locally with `node scripts/check-verification-age.mjs`.
 
-A PR-gated workflow (`.github/workflows/awesome-lint.yml`) runs [awesome-lint](https://github.com/sindresorhus/awesome-lint) on every PR touching README.md, required before merge. It disables three rules that are genuinely incompatible with choices this list makes deliberately (bold entry names, intentional repeat navigation links, and keeping a License section); see the comments in `scripts/run-awesome-lint.mjs` for why. Run it yourself with:
+A PR-gated workflow (`.github/workflows/awesome-lint.yml`) runs [awesome-lint](https://github.com/sindresorhus/awesome-lint) on every PR, required before merge. It disables four rules that are genuinely incompatible with choices this list makes deliberately (bold entry names, intentional repeat navigation links, keeping a License section, and the generated Table of Contents' unpadded pipes); see the comments in `scripts/run-awesome-lint.mjs` for why. Run it yourself with:
 
 ```sh
 npm install --no-save awesome-lint
