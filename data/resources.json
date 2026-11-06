@@ -991,6 +991,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "ResumeInvited",
+    "url": "https://resumeinvited.com/",
+    "description": "Build resumes without signup; export PDF or Word files",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "ResumeOrbitz",
     "url": "https://resumeorbitz.com",
     "description": "Free, ATS-friendly resume builder with 150+ templates and an ATS score checker",
