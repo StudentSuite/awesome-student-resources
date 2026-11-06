@@ -108,16 +108,24 @@ max_retries = 3
 # AIMS homepage ("Welcome to the AIMS Website", What is AIMS?, How to Apply?, Destination Guide,
 # 10+ Years of AIMS, SEAMEO RIHED). AIMS is a live SEAMEO RIHED student exchange programme, so
 # excluding rather than removing the entry.
-# Helpline pages (#656): telemanas.mohfw.gov.in, embracelebanon.org and studentminds.org.uk are no
-# longer excluded; with the default user agent all three pass in a local lychee run on 2026-11-01
-# (the missing-intermediate-certificate and bot-blocking notes above for them are historical).
+# Helpline pages (#656): embracelebanon.org and studentminds.org.uk are no longer excluded; with the
+# default user agent both pass in a local lychee run on 2026-11-01 (the bot-blocking notes above for
+# them are historical). telemanas.mohfw.gov.in is excluded again (#716): the CI run on 2026-11-02
+# failed it with "SSL certificate not trusted", and on 2026-11-06 openssl s_client still reports
+# "unable to verify the first certificate" (the server sends its Sectigo DV leaf with no
+# intermediate). The 2026-11-01 local pass came from a verifier that fetches the missing
+# intermediate itself; lychee on the runner does not. A real Chrome session on 2026-11-06 loaded
+# the live page with both helpline numbers (14416 and 1-800 891 4416), dated in
+# data/last-verified.json.
 # anad.org and chadd.org stay excluded. anad.org returns a 500 to lychee, but a real Chrome session
 # on 2026-11-02 loaded the helpline page normally: toll-free 1-888-375-7767, Monday to Friday
 # 9am-9pm CST, copyright 2026, newest blog post 2026-10-15. That is the bot filtering described
 # above, not an outage, and the manual check is dated 2026-11-02 in data/last-verified.json.
 # chadd.org still refuses connections (it timed out from the networks tried, Chrome included, on
-# 2026-11-02), so the check could not be repeated; its last dated check is 2026-09-27 in
-# data/last-verified.json and falls out of the 90 days CONTRIBUTING.md allows on 2026-12-26.
+# 2026-11-02, and again on 2026-11-06 from an Indian network in Chrome and from a US-hosted fetcher,
+# which got ECONNREFUSED on port 443), so the check could not be repeated; its last dated check is
+# 2026-09-27 in data/last-verified.json and falls out of the 90 days CONTRIBUTING.md allows on
+# 2026-12-26.
 #
 # web.icetex.gov.co/.../plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico:
 # reported in #680 as "Connection failed". curl to web.icetex.gov.co from a separate network
@@ -141,6 +149,7 @@ exclude = [
   "https://www.dfat.gov.au/people-to-people/new-colombo-plan",
   "https://www.turing-scheme.org.uk",
   "https://chadd.org/",
+  "https://telemanas.mohfw.gov.in",
   "https://www.canada.ca/en/financial-consumer-agency.html",
   "https://www.dewr.gov.au/australian-apprenticeships",
   "https://ncfe.org.in/",
