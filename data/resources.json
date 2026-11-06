@@ -980,6 +980,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Prizm",
+    "url": "https://heyprizm.com/en",
+    "description": "Get a job-fit verdict, then a tailored CV and cover letter",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "ResumeAI",
     "url": "https://withresumeai.com/",
     "description": "Free ATS resume checks against a job description",
