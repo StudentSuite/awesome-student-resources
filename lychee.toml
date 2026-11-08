@@ -121,11 +121,13 @@ max_retries = 3
 # on 2026-11-02 loaded the helpline page normally: toll-free 1-888-375-7767, Monday to Friday
 # 9am-9pm CST, copyright 2026, newest blog post 2026-10-15. That is the bot filtering described
 # above, not an outage, and the manual check is dated 2026-11-02 in data/last-verified.json.
-# chadd.org still refuses connections (it timed out from the networks tried, Chrome included, on
-# 2026-11-02, and again on 2026-11-06 from an Indian network in Chrome and from a US-hosted fetcher,
-# which got ECONNREFUSED on port 443), so the check could not be repeated; its last dated check is
-# 2026-09-27 in data/last-verified.json and falls out of the 90 days CONTRIBUTING.md allows on
-# 2026-12-26.
+# chadd.org still refuses connections from every client tried directly (Chrome on an Indian
+# network and a US-hosted fetcher, 2026-11-02, -06 and -08, ports 80 and 443). It has refused
+# automated clients the same way since 2026-08-10 while staying live, so this is filtering at its
+# edge and not evidence of an outage. The manual check (#706) used the Wayback Machine's 200
+# capture of 2026-10-26, opened in Chrome: "CHADD - Improving the lives of people affected by
+# ADHD", specialist line 1-866-200-8098, posts dated October 2026, copyright 2026. Dated
+# 2026-10-26 in data/last-verified.json, so it needs another check by 2027-01-24.
 #
 # web.icetex.gov.co/.../plataforma-de-movilidad-estudiantil-y-academica-de-la-alianza-del-pacifico:
 # reported in #680 as "Connection failed". curl to web.icetex.gov.co from a separate network
