@@ -892,6 +892,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "FresherHub",
+    "url": "https://fresherhub.app",
+    "description": "Check tech-role job readiness from your resume and GitHub",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "IB Doctor University Requirements",
     "url": "https://ibdoctor.co.uk/universities",
     "description": "Look up IB requirements at 111 UK, German, Austrian and Swiss universities",
