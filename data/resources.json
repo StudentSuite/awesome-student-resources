@@ -947,6 +947,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Nyrion",
+    "url": "https://nyrion.ai",
+    "description": "Practice AI-assisted coding interviews on staged, multi-file problems",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "OCC Blog de Candidatos",
     "url": "https://blog-candidatos.occ.com.mx/",
     "description": "Spanish-language job search, CV, and interview advice for Mexico",
