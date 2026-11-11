@@ -2623,6 +2623,18 @@
     "subsection": null
   },
   {
+    "name": "Nyxiontech PDF Tools",
+    "url": "https://tools.nyxiontech.com",
+    "description": "Merge, split, sign and OCR PDFs in your browser",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "OBS Studio",
     "url": "https://obsproject.com",
     "description": "Free, open screen recording and live streaming",
