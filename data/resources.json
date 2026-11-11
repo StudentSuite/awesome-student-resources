@@ -991,6 +991,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "ProfScout",
+    "url": "https://profscout.com",
+    "description": "Find professors most likely to reply to research emails",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "ResumeAI",
     "url": "https://withresumeai.com/",
     "description": "Free ATS resume checks against a job description",
