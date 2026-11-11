@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-372-blue)
+![Resources](https://img.shields.io/badge/resources-373-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
 | <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
 | <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
-| <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 34 |
+| <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 35 |
 | <span role="img" aria-label="Helpful Repositories icon">📦</span> | [Helpful Repositories](#helpful-repositories) | 15 |
 | <span role="img" aria-label="Books We Trust icon">📖</span> | [Books We Trust](#books-we-trust) | 21 |
 | <span role="img" aria-label="Blogs, Newsletters &amp; Podcasts icon">🎧</span> | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 20 |
