@@ -191,6 +191,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[PracHub](https://prachub.com/interview-guide)** - Browse interview guides and questions by company, role, and topic ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Prizm](https://heyprizm.com/en)** - Get a job-fit verdict, then a tailored CV and cover letter ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ProfScout](https://profscout.com)** - Find professors most likely to reply to research emails ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[Quick Image Kit](https://quickimagekit.com)** - Compress photos to an exact KB target in the browser ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ResumeAI](https://withresumeai.com/)** - Free ATS resume checks against a job description ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ResumeInvited](https://resumeinvited.com/)** - Build resumes without signup; export PDF or Word files ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ResumeOrbitz](https://resumeorbitz.com)** - Free, ATS-friendly resume builder with 150+ templates and an ATS score checker ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
