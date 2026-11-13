@@ -183,6 +183,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[IB Doctor University Requirements](https://ibdoctor.co.uk/universities)** - Look up IB requirements at 111 UK, German, Austrian and Swiss universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[JobEmerge](https://www.jobemerge.work)** - Check job fit and translate resumes into 19 languages ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[JobStreet Career Advice](https://my.jobstreet.com/career-advice)** - Use resume templates and a practice interview tool for Southeast Asia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Land the Lab](https://landthelab.com)** - Real interview questions from AI labs and tech companies, by company and round, with worked answers ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[MonoEd CV Maker](https://cv-maker.monoed.africa/)** - AI-assisted CV builder for scholarship and job applications across Africa ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Novoresume](https://novoresume.com)** - Free, ATS-friendly resume builder with student-focused templates ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Nyrion](https://nyrion.ai)** - Practice AI-assisted coding interviews on staged, multi-file problems ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
