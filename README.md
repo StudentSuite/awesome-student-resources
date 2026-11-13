@@ -117,6 +117,7 @@ Legitimate, fee-free places to find money for school.
 - **[Mandela Rhodes Scholarship](https://www.mandelarhodes.org/scholarship/apply/)** - Fully funded postgraduate scholarship and leadership program for African students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/)** - Full scholarships and mentorship for African students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MENA Scholar](https://menascholar.com)** - Free directory of study and language programs across the MENA region ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[NextTechCareer](https://nexttechcareer.com) – Free AI-powered discovery platform indexing verified junior developer jobs, internships, and global STEM scholarships with no paywalls.
 - **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search for students in Asia, Africa, and other developing regions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Society of Women Engineers Scholarships](https://swe.org/apply-for-a-swe-scholarship/)** - Free-to-apply scholarships for women pursuing engineering degrees ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -276,6 +277,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[JobStreet](https://www.jobstreet.com/)** - Leading Southeast Asian job board with part-time and internship listings for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Milkround](https://www.milkround.com)** - UK student and graduate job board for part-time work, internships, and schemes ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[National Careers Service](https://nationalcareers.service.gov.uk/)** - The UK government's free careers advice, job profiles, and CV tools ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[NextTechCareer](https://nexttechcareer.com) – Free AI-powered discovery platform indexing verified junior developer jobs, internships, and global STEM scholarships with no paywalls.
 - **[Snagajob](https://www.snagajob.com)** - Free marketplace for hourly and part-time jobs near campus ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudentJob](https://www.studentjob.co.uk)** - Free student job board for part-time work across nine European countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Upwork](https://www.upwork.com)** - Global freelance marketplace for remote work you can do from anywhere ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
