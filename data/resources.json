@@ -1167,6 +1167,18 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "GSoC Organizations",
+    "url": "https://gsocorganizations.xyz",
+    "description": "Find GSoC organizations by technology, topic, and participation history",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "Hack Club",
     "url": "https://hackclub.com",
     "description": "Nonprofit network of free coding clubs and hackathons for teens",
