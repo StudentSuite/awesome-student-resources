@@ -1046,6 +1046,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Shortlist",
+    "url": "https://shortlist.college/planner",
+    "description": "Sort US colleges into likely, target and reach, no signup",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "STAR Answer Checker",
     "url": "https://roundrehearsal.com/tools/star-answer-checker",
     "description": "Check a behavioral interview answer for STAR structure, length, and filler words",

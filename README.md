@@ -194,6 +194,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[ResumeAI](https://withresumeai.com/)** - Free ATS resume checks against a job description ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ResumeInvited](https://resumeinvited.com/)** - Build resumes without signup; export PDF or Word files ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ResumeOrbitz](https://resumeorbitz.com)** - Free, ATS-friendly resume builder with 150+ templates and an ATS score checker ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Shortlist](https://shortlist.college/planner)** - Sort US colleges into likely, target and reach, no signup ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker)** - Check a behavioral interview answer for STAR structure, length, and filler words ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Muse](https://www.themuse.com/advice/cover-letters)** - Free cover letter guides, templates, and examples ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
