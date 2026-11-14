@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-375-blue)
+![Resources](https://img.shields.io/badge/resources-376-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 29 |
 | <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 22 |
 | <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
-| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 86 |
+| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 87 |
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
 | <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
 | <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
@@ -194,6 +194,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[ResumeAI](https://withresumeai.com/)** - Free ATS resume checks against a job description ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ResumeInvited](https://resumeinvited.com/)** - Build resumes without signup; export PDF or Word files ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ResumeOrbitz](https://resumeorbitz.com)** - Free, ATS-friendly resume builder with 150+ templates and an ATS score checker ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Shortlist](https://shortlist.college/planner)** - Sort US colleges into likely, target and reach, no signup ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker)** - Check a behavioral interview answer for STAR structure, length, and filler words ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Muse](https://www.themuse.com/advice/cover-letters)** - Free cover letter guides, templates, and examples ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
