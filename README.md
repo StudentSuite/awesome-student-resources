@@ -71,6 +71,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Documento Nacional do Estudante](https://www.documentodoestudante.com.br/)** - Brazil's official student ID for half-price tickets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[European Youth Card](https://eyca.org)** - Get discounts across Europe with a card for anyone under 31 ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Figma Education](https://www.figma.com/education/)** - Figma's paid plan free for students and educators with verification ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[GetYouTubeTranscript](https://getyoutubetranscript.com)** - Get YouTube lecture transcripts with timestamps and AI summaries ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Grammarly for Education](https://www.grammarly.com/edu)** - AI writing assistant free for verified students and schools ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ISIC](https://www.isic.org)** - Global student ID unlocking transit, travel, and retail discounts ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
