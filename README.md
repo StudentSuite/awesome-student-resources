@@ -273,6 +273,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[AfterSchoolAfrica](https://www.afterschoolafrica.com)** - Scholarships, internships, and jobs for African students, updated daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bayt](https://www.bayt.com)** - Find jobs and internships across the Middle East and Gulf ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Computrabajo](https://www.computrabajo.com/)** - Latin America's largest job board, covering part-time work across 19 countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[CookLLM](https://cookllm.com/en/jobs/match)** - AI jobs that fit your resume, by email ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Handshake](https://joinhandshake.com)** - Free campus recruiting platform connecting students to part-time jobs and internships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Internshala](https://internshala.com)** - India's leading internship and part-time job platform for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Job Bank](https://www.jobbank.gc.ca/youth)** - Government of Canada's free youth job board for part-time work and apprenticeships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
