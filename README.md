@@ -611,6 +611,7 @@ Ask questions and study alongside other students.
 - **[National Union of Students Australia](https://nus.asn.au/)** - Australia's peak student body, run through campus student unions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NextGenYouth](https://www.nextgenyouth.org)** - Join UNDP's network for young people across the Arab region ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[oSTEM](https://ostem.org)** - Nonprofit professional association and chapter network for LGBTQ+ people in STEM ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Pikoo](https://pikoo-nu.vercel.app)** - Run one shared Pomodoro timer with your study group ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[r/APStudents](https://www.reddit.com/r/APStudents/)** - Community for AP course and exam prep ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[r/GetStudying](https://www.reddit.com/r/GetStudying/)** - Study motivation, methods, and accountability ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[r/HomeworkHelp](https://www.reddit.com/r/HomeworkHelp/)** - Large, active community for help across every school subject ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
