@@ -110,6 +110,17 @@
     "subsection": null
   },
   {
+    "name": "GetYouTubeTranscript",
+    "url": "https://getyoutubetranscript.com",
+    "description": "Get YouTube lecture transcripts with timestamps and AI summaries",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "GitHub Student Developer Pack",
     "url": "https://education.github.com/pack",
     "description": "Free developer tools and credits for verified students",
@@ -1617,6 +1628,17 @@
     "pricing": "free",
     "tags": [
       "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
+    "name": "CookLLM",
+    "url": "https://cookllm.com/en/jobs/match",
+    "description": "AI jobs that fit your resume, by email",
+    "pricing": "paid",
+    "tags": [
+      "paid"
     ],
     "section": "University & Career Prep",
     "subsection": "Part-Time & Student Jobs"
@@ -4049,6 +4071,18 @@
     "description": "Nonprofit professional association and chapter network for LGBTQ+ people in STEM",
     "pricing": "free",
     "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Pikoo",
+    "url": "https://pikoo-nu.vercel.app",
+    "description": "Silent shared study rooms on a fixed clock",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
       "free"
     ],
     "section": "Communities",
