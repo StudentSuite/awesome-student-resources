@@ -815,6 +815,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Aethel",
+    "url": "https://aethel.pro/practice",
+    "description": "Practice AI interview answers for developer roles, no account",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "AHEAD",
     "url": "https://www.ahead.org",
     "description": "Resources on requesting disability accommodations and services at university",
