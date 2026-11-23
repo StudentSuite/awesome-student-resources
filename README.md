@@ -179,6 +179,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CUET](https://cuet.nta.nic.in)** - India's official centralized entrance test for university admissions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[CVfy](https://cvfy.dev)** - Turn your resume into a hosted portfolio website ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Docexp](https://docexp.com/category/id-exam)** - Resize exam application photos and signatures to exact pixels and KB ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Europass](https://europass.europa.eu)** - EU's free CV and cover letter builder with skills tools ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Free Teacher Resume Starter](https://templatetitanhq.com/free-tools/teacher-resume/)** - Prepare student teacher applications with an editable Word resume starter ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
