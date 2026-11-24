@@ -364,6 +364,7 @@ Curriculum, planning, record-keeping, and the logistics of learning at home.
 
 - **[Ambleside Online](https://amblesideonline.org)** - Free, complete Charlotte Mason curriculum with book lists and schedules ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ANED](https://aned.org.br)** - Brazilian homeschooling association with legal support and family guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[carboncarbon.bond](https://carboncarbon.bond)** - Free organic chemistry lessons with 3D molecules and quick checks ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[DUNEHA](https://duneha.org)** - Free homeschooling community and support association for Dubai and the Northern Emirates ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Easy Peasy All-in-One Homeschool](https://allinonehomeschool.com)** - Free, complete K-12 curriculum you can follow day by day ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Eduscol: L'instruction en famille](https://eduscol.education.gouv.fr/5064/l-instruction-dans-la-famille)** - France's official Ministry of Education guidance on home education authorization ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
