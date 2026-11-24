@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-381-blue)
+![Resources](https://img.shields.io/badge/resources-382-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -37,7 +37,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 22 |
 | <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
 | <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 90 |
-| <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
+| <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 19 |
 | <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
 | <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
 | <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 35 |
@@ -310,6 +310,7 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 - **[Mike Rowe Works Foundation](https://www.mikeroweworks.org)** - Nonprofit scholarships and advocacy for skilled trades careers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[O*NET OnLine](https://www.onetonline.org/)** - The US Labor Department's free database of occupations, skills, and career paths ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Onisep](https://www.onisep.fr/formation/apres-la-3-la-voie-professionnelle/apprentissage-se-former-en-alternance)** - France's official public guide to apprenticeship (alternance) training paths, in French ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[PassProfessor](https://passprofessor.com/free-samples/)** - Answer free sample practice questions for trade and licensing exams ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Red Seal Program](https://www.red-seal.ca)** - Canada's interprovincial trade certification and apprenticeship standard ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[SENAI](https://www.senai.portaldaindustria.com.br/para-voce/estude-aqui-no-senai)** - Brazil's national industrial training network offering free and paid vocational courses ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Skill India (NSDC)](https://www.nsdcindia.org)** - India's official government hub for vocational training, skilling programs, and certification ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
