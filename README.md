@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-381-blue)
+![Resources](https://img.shields.io/badge/resources-383-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,12 +36,12 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 30 |
 | <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 22 |
 | <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
-| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 90 |
+| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 91 |
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
 | <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
 | <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
 | <span role="img" aria-label="FOSS Picks icon">🔓</span> | [FOSS Picks](#foss-picks) | 35 |
-| <span role="img" aria-label="Helpful Repositories icon">📦</span> | [Helpful Repositories](#helpful-repositories) | 15 |
+| <span role="img" aria-label="Helpful Repositories icon">📦</span> | [Helpful Repositories](#helpful-repositories) | 16 |
 | <span role="img" aria-label="Books We Trust icon">📖</span> | [Books We Trust](#books-we-trust) | 21 |
 | <span role="img" aria-label="Blogs, Newsletters &amp; Podcasts icon">🎧</span> | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts) | 20 |
 | <span role="img" aria-label="Guides &amp; How-Tos icon">💡</span> | [Guides & How-Tos](#guides--how-tos) | 20 |
@@ -450,6 +450,7 @@ GitHub repositories worth starring: rosters, roadmaps, and starter material any 
 - **[first-contributions](https://github.com/firstcontributions/first-contributions)** - Practice making your first open-source pull request step by step ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[free-programming-books](https://github.com/EbookFoundation/free-programming-books)** - Massive curated list of free programming and computer-science books ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** - Free, open curriculum and certifications for web development and programming ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[igcse-revision-kit](https://github.com/Kirill-Chistov/igcse-revision-kit)** - Turn any AI into an IGCSE tutor for your exact specification ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ossu/computer-science](https://github.com/ossu/computer-science)** - Free self-taught computer science curriculum with full course list ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[progit2](https://github.com/progit/progit2)** - Read the Pro Git book, source and builds ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[public-apis](https://github.com/public-apis/public-apis)** - Directory of free public APIs for hackathon and side projects ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
