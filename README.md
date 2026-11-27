@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-383-blue)
+![Resources](https://img.shields.io/badge/resources-384-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 30 |
 | <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 22 |
 | <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
-| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 91 |
+| <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 92 |
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
 | <span role="img" aria-label="Debate &amp; Public Speaking icon">🎤</span> | [Debate & Public Speaking](#debate--public-speaking) | 21 |
 | <span role="img" aria-label="Homeschooling icon">🏠</span> | [Homeschooling](#homeschooling) | 18 |
@@ -176,6 +176,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[Aethel](https://aethel.pro/practice)** - Practice AI interview answers for developer roles, no account ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[AHEAD](https://www.ahead.org)** - Resources on requesting disability accommodations and services at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bayt.com Blog](https://www.bayt.com/en/blog/)** - Read CV, interview and job-search tips for the Middle East ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[College Coach Email Generator](https://sentry-sell-recruit.judestrahm.workers.dev/)** - Write a recruiting email to a college coach, any sport ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CUET](https://cuet.nta.nic.in)** - India's official centralized entrance test for university admissions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
