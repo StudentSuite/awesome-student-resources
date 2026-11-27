@@ -176,6 +176,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[Aethel](https://aethel.pro/practice)** - Practice AI interview answers for developer roles, no account ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[AHEAD](https://www.ahead.org)** - Resources on requesting disability accommodations and services at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bayt.com Blog](https://www.bayt.com/en/blog/)** - Read CV, interview and job-search tips for the Middle East ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[CareerBldr](https://careerbldr.com)** - Tailor your resume to any job post with AI ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CUET](https://cuet.nta.nic.in)** - India's official centralized entrance test for university admissions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
