@@ -881,6 +881,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "CVfy",
+    "url": "https://cvfy.dev",
+    "description": "Turn your resume into a hosted portfolio website",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "Docexp",
     "url": "https://docexp.com/category/id-exam",
     "description": "Resize exam application photos and signatures to exact pixels and KB",
@@ -2945,6 +2956,17 @@
     "pricing": "free",
     "tags": [
       "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
+    "name": "igcse-revision-kit",
+    "url": "https://github.com/Kirill-Chistov/igcse-revision-kit",
+    "description": "Turn any AI into an IGCSE tutor for your exact specification",
+    "pricing": "free",
+    "tags": [
       "free"
     ],
     "section": "Helpful Repositories",
