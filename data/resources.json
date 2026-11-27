@@ -848,6 +848,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "College Coach Email Generator",
+    "url": "https://sentry-sell-recruit.judestrahm.workers.dev/",
+    "description": "Write a recruiting email to a college coach, any sport",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "CollegeVine",
     "url": "https://www.collegevine.com",
     "description": "Free peer and expert reviews for your college application essays",
