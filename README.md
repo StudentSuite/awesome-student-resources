@@ -643,6 +643,7 @@ Ask questions and study alongside other students.
 ## Sister lists
 
 - [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) - Exam and subject study material.
+- [AshuTeacher](https://ashuteacher.vercel.app) - Free AI-powered learning PWA & Android app with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [awesome-skills-plugins-for-students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - AI coding agent skills and plugins.
 
 ---
